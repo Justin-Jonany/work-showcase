@@ -1,0 +1,40 @@
+{"domain": "attio.com", "name": "Attio",
+ "fields": {
+   "description": [
+     {"value": "Attio is a CRM platform positioned for 'agentic revenue.' It says it 'builds pipeline, advances deals, and grows accounts around the clock.'", "page_id": 474, "source_url": "https://attio.com", "confidence": "high"},
+     {"value": "Attio is a London-based, AI-native CRM company aiming to offer a flexible, data-driven alternative to traditional CRM systems.", "page_id": 449, "source_url": "https://www.bloomberg.com/profile/company/1943514D:LN", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Context (Universal Context, Data Model, Enrichment, Call Intelligence, Reporting & Forecasts); Orchestration (Ask Attio, Workflows, Custom Agents, Web Agent, Sequences); an app marketplace, MCP support, and a developer platform with an SDK and API.", "page_id": 474, "source_url": "https://attio.com", "confidence": "high"},
+     {"value": "A customizable CRM with reporting and analytics, pipeline and deal management, and an App SDK for building custom apps.", "page_id": 449, "source_url": "https://www.bloomberg.com/profile/company/1943514D:LN", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Free start with paid plans (a 'Pro plan' is mentioned in a demo), a startup program, and sales-led contact.", "page_id": 474, "source_url": "https://attio.com", "confidence": "high"},
+     {"value": "Subscription software business with a freemium model: a Free plan for small teams plus Plus, Pro, and Enterprise tiers. Software Advice lists pricing from $29-$69/month.", "page_id": 449, "source_url": "https://www.bloomberg.com/profile/company/1943514D:LN", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Trusted by 30,000+ customers. Featured customer stories include Granola, Modal, Railway, and TaskRabbit.", "page_id": 474, "source_url": "https://attio.com", "confidence": "high"},
+     {"value": "Targets high-growth technology companies. One profile reports over 5,000 paying customers, including Lovable, Modal, Replicate, and Public. Bloomberg describes customers as startups, scale-ups, SaaS companies, SMBs, and investors in Europe, the United States, and the United Kingdom.", "page_id": 449, "source_url": "https://www.bloomberg.com/profile/company/1943514D:LN", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "About $1M in 2023 (GetLatka); about $1.8M (GetLatka comparison pages)", "page_id": 464, "source_url": "https://getlatka.com/companies/attio", "confidence": "medium"},
+     {"value": "$27.3 million (ZoomInfo estimate)", "page_id": 449, "source_url": "https://www.bloomberg.com/profile/company/1943514D:LN", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "166 as of March 2026 (Revelio Labs); 40 and 62 (GetLatka); 30 total (Built In); 140 (a second Built In listing)", "page_id": 464, "source_url": "https://getlatka.com/companies/attio", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2017 (Revelio Labs); 2019 (GetLatka and Built In)", "page_id": 464, "source_url": "https://getlatka.com/companies/attio", "confidence": "medium"},
+     {"value": "2017 (one source); 2019 (several others)", "page_id": 449, "source_url": "https://www.bloomberg.com/profile/company/1943514D:LN", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "London, United Kingdom", "page_id": 464, "source_url": "https://getlatka.com/companies/attio", "confidence": "medium"},
+     {"value": "London-based", "page_id": 449, "source_url": "https://www.bloomberg.com/profile/company/1943514D:LN", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "London, United Kingdom", "is_hq": true, "page_id": 464, "source_url": "https://getlatka.com/companies/attio"},
+   {"value": "New York", "is_hq": false, "page_id": 464, "source_url": "https://getlatka.com/companies/attio"},
+   {"value": "San Francisco", "is_hq": false, "page_id": 464, "source_url": "https://getlatka.com/companies/attio"}
+ ]}

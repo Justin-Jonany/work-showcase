@@ -1,0 +1,53 @@
+{"domain": "gitlab.com", "name": "GitLab",
+ "fields": {
+  "description": [
+   {"value": "GitLab is a DevSecOps platform that positions itself as an intelligent orchestration layer for software delivery.", "page_id": 309, "source_url": "https://about.gitlab.com", "confidence": "high"},
+   {"value": "GitLab's company page describes it as the company behind the intelligent orchestration platform, whose AI agents help teams ship software.", "page_id": 191, "source_url": "https://about.gitlab.com/company/", "confidence": "high"},
+   {"value": "GitLab is a software forge primarily developed by GitLab Inc.", "page_id": 190, "source_url": "https://en.wikipedia.org/wiki/GitLab", "confidence": "high"},
+   {"value": "GitLab is an AI-powered DevSecOps platform, sold to software teams.", "page_id": 56, "source_url": "https://www.sec.gov/Archives/edgar/data/1653482/000162828026018731/gtlb-20260131.htm", "confidence": "medium"},
+   {"value": "GitLab is a DevSecOps software company whose business is built on subscriptions to a single platform.", "page_id": 274, "source_url": "https://umbrex.com/resources/company-profiles/gitlab/", "confidence": "medium"}
+  ],
+  "product_description": [
+   {"value": "Sells GitLab Duo Agent Platform (AI agents that turn issues into merge requests, remediate vulnerabilities and review code), plus planning, source control and CI/CD, with scanning, policies and approvals built into the pipeline.", "page_id": 309, "source_url": "https://about.gitlab.com", "confidence": "high"},
+   {"value": "Products listed by name: GitLab Duo Agent Platform, Code Suggestions (AI), CI/CD, GitLab on AWS and GitLab on Google Cloud.", "page_id": 191, "source_url": "https://about.gitlab.com/company/", "confidence": "high"},
+   {"value": "A single application covering the software development lifecycle, including version control, project management, security and compliance, and CI/CD.", "page_id": 56, "source_url": "https://www.sec.gov/Archives/edgar/data/1653482/000162828026018731/gtlb-20260131.htm", "confidence": "medium"},
+   {"value": "A single application covering planning, source code management, CI/CD, security testing and release governance; recent AI additions include Duo Agent Platform and Duo Code Review.", "page_id": 274, "source_url": "https://umbrex.com/resources/company-profiles/gitlab/", "confidence": "medium"}
+  ],
+  "business_model_description": [
+   {"value": "Customers make an annual commitment and allocate spending across seats and usage credits; GitLab Flex combines seat-based licenses with usage-based credits.", "page_id": 309, "source_url": "https://about.gitlab.com", "confidence": "high"},
+   {"value": "Open-core model, offered as both self-managed and SaaS, plus related training and professional services.", "page_id": 56, "source_url": "https://www.sec.gov/Archives/edgar/data/1653482/000162828026018731/gtlb-20260131.htm", "confidence": "medium"},
+   {"value": "Primarily subscription based, with SaaS, self-managed and dedicated deployment options plus a smaller services component.", "page_id": 274, "source_url": "https://umbrex.com/resources/company-profiles/gitlab/", "confidence": "medium"}
+  ],
+  "customer_description": [
+   {"value": "Named customers include NVIDIA, Barclays, Lockheed Martin, Thales, Ericsson, Deutsche Telekom, Agoda, Nasdaq, CACI, Deakin University and Jaguar Land Rover; serves financial services, public sector, telecom, automotive, education and aerospace.", "page_id": 309, "source_url": "https://about.gitlab.com", "confidence": "high"},
+   {"value": "Roughly half of the Fortune 100 are customers.", "page_id": 56, "source_url": "https://www.sec.gov/Archives/edgar/data/1653482/000162828026018731/gtlb-20260131.htm", "confidence": "medium"},
+   {"value": "Serves organizations from large enterprises to technology-driven startups in finance, aerospace, automotive, technology and defense; named customers include Goldman Sachs, Airbus, Lockheed Martin, Nvidia and Siemens.", "page_id": 274, "source_url": "https://umbrex.com/resources/company-profiles/gitlab/", "confidence": "medium"}
+  ],
+  "revenue": [
+   {"value": "$634M for 2024 (Latka); $424.3M for 2022 (Wikipedia); $233M for 2021 (Latka); about $0.96B (Statvoo, no year)", "page_id": 288, "source_url": "https://getlatka.com/companies/gitlab", "confidence": "medium"},
+   {"value": "$579.9 million for the fiscal year ended January 31, 2024 (one profile)", "page_id": 274, "source_url": "https://umbrex.com/resources/company-profiles/gitlab/", "confidence": "medium"}
+  ],
+  "web_traffic": [],
+  "employees": [
+   {"value": "2,500+ team members (figures as of June 2026)", "page_id": 191, "source_url": "https://about.gitlab.com/company/", "confidence": "high"},
+   {"value": "About 2,500 (per the page's structured data)", "page_id": 309, "source_url": "https://about.gitlab.com", "confidence": "high"},
+   {"value": "3,140 (one profile); more than 2,300 (another profile)", "page_id": 274, "source_url": "https://umbrex.com/resources/company-profiles/gitlab/", "confidence": "medium"},
+   {"value": "3.2K as of July 2025 (Latka); 2,580 (TradingView); about 2,100 (Statvoo); about 1,630 (Wikipedia, January 2022)", "page_id": 288, "source_url": "https://getlatka.com/companies/gitlab", "confidence": "medium"}
+  ],
+  "founded_year": [
+   {"value": "October 11, 2011", "page_id": 309, "source_url": "https://about.gitlab.com", "confidence": "high"},
+   {"value": "2011 (project began with a commit); incorporated 2014", "page_id": 191, "source_url": "https://about.gitlab.com/company/", "confidence": "high"},
+   {"value": "2011 (open source project began); incorporated 2014", "page_id": 56, "source_url": "https://www.sec.gov/Archives/edgar/data/1653482/000162828026018731/gtlb-20260131.htm", "confidence": "medium"},
+   {"value": "Incorporated in Delaware on September 12, 2014 (began as an open source project in 2011)", "page_id": 274, "source_url": "https://umbrex.com/resources/company-profiles/gitlab/", "confidence": "medium"},
+   {"value": "2012 (Latka); other sources give 2011 or 2014", "page_id": 288, "source_url": "https://getlatka.com/companies/gitlab", "confidence": "medium"}
+  ],
+  "headquarters": [
+   {"value": "268 Bush Street #350, San Francisco, CA, USA", "page_id": 309, "source_url": "https://about.gitlab.com", "confidence": "high"},
+   {"value": "San Francisco, California", "page_id": 274, "source_url": "https://umbrex.com/resources/company-profiles/gitlab/", "confidence": "medium"},
+   {"value": "San Francisco, California (most profiles)", "page_id": 288, "source_url": "https://getlatka.com/companies/gitlab", "confidence": "medium"}
+  ]
+ },
+ "locations": [
+  {"value": "San Francisco, CA, USA", "is_hq": true, "page_id": 309, "source_url": "https://about.gitlab.com"}
+ ]
+}

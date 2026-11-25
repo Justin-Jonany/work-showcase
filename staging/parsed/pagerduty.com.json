@@ -1,0 +1,55 @@
+{
+  "domain": "pagerduty.com",
+  "name": "PagerDuty",
+  "fields": {
+    "description": [
+      {"value": "American cloud computing company specializing in a SaaS incident management platform for IT operations departments.", "page_id": 130, "source_url": "https://en.wikipedia.org/wiki/PagerDuty", "confidence": "high"},
+      {"value": "A U.S. cloud software company that sells a SaaS incident management platform for IT operations teams.", "page_id": 467, "source_url": "https://en.wikipedia.org/wiki/PagerDuty", "confidence": "high"},
+      {"value": "PagerDuty sells an AI-first operations platform for managing incidents, from detection through resolution and prevention.", "page_id": 466, "source_url": "https://www.pagerduty.com", "confidence": "high"},
+      {"value": "Describes itself as a digital operations management platform, which it has built out from a single on-call tool.", "page_id": 431, "source_url": "https://www.sec.gov/Archives/edgar/data/1568100/000156810026000012/pd-20260131.htm", "confidence": "medium"}
+    ],
+    "product_description": [
+      {"value": "SRE Agent (detects, triages, diagnoses, and works to fix incidents), Scribe Agent (documents incidents and drafts postmortems), Shift Agent (on-call handoffs and shift summaries), Insights Agent (trends across incidents), incident management with smart alerting and unified response in Slack, Microsoft Teams, mobile, and web, and 750+ integrations with open APIs and MCP support.", "page_id": 466, "source_url": "https://www.pagerduty.com", "confidence": "high"},
+      {"value": "PagerDuty Operations Cloud, which bundles AIOps, automation, customer service operations, and incident management with a generative AI assistant; over 700 integrations.", "page_id": 431, "source_url": "https://www.sec.gov/Archives/edgar/data/1568100/000156810026000012/pd-20260131.htm", "confidence": "medium"}
+    ],
+    "business_model_description": [
+      {"value": "Most revenue comes from cloud-hosted software subscription fees plus term-license software subscription fees, sold land-and-expand. The FY2026 10-K says it has begun offering usage-based pricing and multiyear platform agreements instead of single-year, seat-based licenses.", "page_id": 431, "source_url": "https://www.sec.gov/Archives/edgar/data/1568100/000156810026000012/pd-20260131.htm", "confidence": "medium"}
+    ],
+    "customer_description": [
+      {"value": "70% of the Fortune 100 trust the platform; named customers include FOX, Zoom, Spotify, Twilio, TUI, Cox Automotive, SAP, Cloudflare, Ryanair, DraftKings, checkout.com, IAG Loyalty, and New York Life.", "page_id": 466, "source_url": "https://www.pagerduty.com", "confidence": "high"},
+      {"value": "Increasingly focused on enterprise customers, though the platform serves companies of any size, from small to mid-market to enterprise.", "page_id": 431, "source_url": "https://www.sec.gov/Archives/edgar/data/1568100/000156810026000012/pd-20260131.htm", "confidence": "medium"},
+      {"value": "Targets IT operations departments; the page names no specific customers.", "page_id": 467, "source_url": "https://en.wikipedia.org/wiki/PagerDuty", "confidence": "high"}
+    ],
+    "revenue": [
+      {"value": "US$493 million (2026)", "page_id": 467, "source_url": "https://en.wikipedia.org/wiki/PagerDuty", "confidence": "high"},
+      {"value": "US$493 million (2026, Wikipedia infobox)", "page_id": 444, "source_url": "https://en.wikipedia.org/wiki/PagerDuty", "confidence": "medium"},
+      {"value": "about $467.5M (TradingView, Board Cybersecurity)", "page_id": 444, "source_url": "https://en.wikipedia.org/wiki/PagerDuty", "confidence": "medium"},
+      {"value": "$492.5M for FY2026 (Komo)", "page_id": 444, "source_url": "https://en.wikipedia.org/wiki/PagerDuty", "confidence": "medium"}
+    ],
+    "web_traffic": [],
+    "employees": [
+      {"value": "1,242 (2025)", "page_id": 467, "source_url": "https://en.wikipedia.org/wiki/PagerDuty", "confidence": "high"},
+      {"value": "1,242 (2025, Wikipedia)", "page_id": 444, "source_url": "https://en.wikipedia.org/wiki/PagerDuty", "confidence": "medium"},
+      {"value": "1,155 (Komo and PitchBook)", "page_id": 444, "source_url": "https://en.wikipedia.org/wiki/PagerDuty", "confidence": "medium"},
+      {"value": "1,271 (A-Leads)", "page_id": 444, "source_url": "https://en.wikipedia.org/wiki/PagerDuty", "confidence": "medium"}
+    ],
+    "founded_year": [
+      {"value": "2009", "page_id": 467, "source_url": "https://en.wikipedia.org/wiki/PagerDuty", "confidence": "high"},
+      {"value": "2009", "page_id": 444, "source_url": "https://en.wikipedia.org/wiki/PagerDuty", "confidence": "medium"}
+    ],
+    "headquarters": [
+      {"value": "San Francisco", "page_id": 467, "source_url": "https://en.wikipedia.org/wiki/PagerDuty", "confidence": "high"},
+      {"value": "San Francisco, CA (corporate office at 600 Townsend Street, Suite 200)", "page_id": 444, "source_url": "https://en.wikipedia.org/wiki/PagerDuty", "confidence": "medium"}
+    ]
+  },
+  "locations": [
+    {"value": "San Francisco, CA", "is_hq": true, "page_id": 467, "source_url": "https://en.wikipedia.org/wiki/PagerDuty"},
+    {"value": "600 Townsend Street, Suite 200, San Francisco, CA 94103", "is_hq": true, "page_id": 444, "source_url": "https://en.wikipedia.org/wiki/PagerDuty"},
+    {"value": "Toronto, Ontario", "is_hq": false, "page_id": 467, "source_url": "https://en.wikipedia.org/wiki/PagerDuty"},
+    {"value": "Atlanta", "is_hq": false, "page_id": 467, "source_url": "https://en.wikipedia.org/wiki/PagerDuty"},
+    {"value": "London", "is_hq": false, "page_id": 467, "source_url": "https://en.wikipedia.org/wiki/PagerDuty"},
+    {"value": "Lisbon", "is_hq": false, "page_id": 467, "source_url": "https://en.wikipedia.org/wiki/PagerDuty"},
+    {"value": "Tokyo", "is_hq": false, "page_id": 467, "source_url": "https://en.wikipedia.org/wiki/PagerDuty"},
+    {"value": "Sydney", "is_hq": false, "page_id": 467, "source_url": "https://en.wikipedia.org/wiki/PagerDuty"}
+  ]
+}

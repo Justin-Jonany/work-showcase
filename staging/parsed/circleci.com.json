@@ -1,0 +1,63 @@
+{
+  "domain": "circleci.com",
+  "name": "CircleCI",
+  "fields": {
+    "description": [
+      {"value": "CircleCI is a continuous integration (CI) and continuous delivery (CD) platform that can be used to implement DevOps practices.", "page_id": 129, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "high"},
+      {"value": "CircleCI is a San Francisco-based continuous integration and delivery (CI/CD) platform for DevOps practices.", "page_id": 372, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "high"},
+      {"value": "CircleCI provides a CI/CD platform for automating testing, building, and deployment. Its homepage tagline is 'Validate everything. Assume nothing.'", "page_id": 371, "source_url": "https://circleci.com", "confidence": "high"},
+      {"value": "A private, San Francisco-based CI/CD company founded in 2011.", "page_id": 337, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "medium"}
+    ],
+    "product_description": [
+      {"value": "The CircleCI platform automates testing, building, and deployment with cloud, hybrid (Runner), and on-prem (Server) hosting. Also offered: Chunk CLI, CircleCI CLI 1.0 (with a built-in MCP server for coding agents), Smarter Testing, Orbs, and image registries.", "page_id": 371, "source_url": "https://circleci.com", "confidence": "high"},
+      {"value": "CircleCI.com, a cloud-hosted SaaS service, and CircleCI Enterprise, a self-hosted option that can run on a private server or private cloud. Core features include builds triggered by commits to GitHub, GitHub Enterprise, or Bitbucket, testing in containers or VMs, deployment, and Orbs.", "page_id": 372, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "high"},
+      {"value": "CircleCI.com (SaaS) and CircleCI Enterprise (on-prem).", "page_id": 129, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "high"},
+      {"value": "Automates building, testing, and deploying code, connecting to GitHub, Bitbucket, or GitLab. Offered as cloud or self-hosted (CircleCI Server). Newer AI agent Chunk monitors pipelines and fixes flaky tests and broken builds; also Orbs and an Insights dashboard.", "page_id": 337, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "medium"}
+    ],
+    "business_model_description": [
+      {"value": "A managed cloud service with a free tier, plus self-hosted and private cloud deployments for enterprises.", "page_id": 372, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "high"},
+      {"value": "Revenue comes from subscriptions and usage. One account describes usage-based SaaS plans with allocated compute credits; Gartner describes a free plan with usage limits and paid plans based on compute resources and user licenses.", "page_id": 337, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "medium"}
+    ],
+    "customer_description": [
+      {"value": "Developers and teams. Logos shown include Google, Okta, GOAT, Kalshi, and Cypress.io; the page claims 'Join 2mil+ devs.'", "page_id": 371, "source_url": "https://circleci.com", "confidence": "high"},
+      {"value": "Facebook, Coinbase, Sony, Kickstarter, GoPro, and Spotify were listed as users in 2019.", "page_id": 372, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "high"},
+      {"value": "Facebook, Coinbase, Sony, Kickstarter, GoPro, and Spotify used CircleCI in 2019.", "page_id": 129, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "high"},
+      {"value": "Named customers include Cisco, Peloton, and HashiCorp. The company reported more than 2 million developers across 230,000 teams as of November 2022.", "page_id": 337, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "medium"}
+    ],
+    "revenue": [
+      {"value": "about $55.7M (2024)", "page_id": 350, "source_url": "https://getlatka.com/companies/circleci", "confidence": "medium"},
+      {"value": "roughly $40.7M (2023)", "page_id": 350, "source_url": "https://getlatka.com/companies/circleci", "confidence": "medium"},
+      {"value": "about $105M (ZoomInfo and Datanyze)", "page_id": 350, "source_url": "https://getlatka.com/companies/circleci", "confidence": "medium"},
+      {"value": "$105 M (one database)", "page_id": 337, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "medium"}
+    ],
+    "web_traffic": [],
+    "employees": [
+      {"value": "about 359 (Latka and PitchBook)", "page_id": 350, "source_url": "https://getlatka.com/companies/circleci", "confidence": "medium"},
+      {"value": "about 500-650 (Datanyze, BuiltIn)", "page_id": 350, "source_url": "https://getlatka.com/companies/circleci", "confidence": "medium"},
+      {"value": "201-500 (ZoomInfo)", "page_id": 350, "source_url": "https://getlatka.com/companies/circleci", "confidence": "medium"},
+      {"value": "201-500 (ZoomInfo)", "page_id": 337, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "medium"},
+      {"value": "501-1000 (Gartner)", "page_id": 337, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "medium"}
+    ],
+    "founded_year": [
+      {"value": "September 2011", "page_id": 129, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "high"},
+      {"value": "September 2011", "page_id": 372, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "high"},
+      {"value": "2011", "page_id": 337, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "medium"},
+      {"value": "2011", "page_id": 350, "source_url": "https://getlatka.com/companies/circleci", "confidence": "medium"}
+    ],
+    "headquarters": [
+      {"value": "San Francisco, United States", "page_id": 372, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "high"},
+      {"value": "San Francisco", "page_id": 337, "source_url": "https://en.wikipedia.org/wiki/CircleCI", "confidence": "medium"},
+      {"value": "201 Spear St, San Francisco", "page_id": 350, "source_url": "https://getlatka.com/companies/circleci", "confidence": "medium"},
+      {"value": "2261 Market Street (PitchBook corporate office)", "page_id": 350, "source_url": "https://getlatka.com/companies/circleci", "confidence": "medium"}
+    ]
+  },
+  "locations": [
+    {"value": "San Francisco, United States", "is_hq": true, "page_id": 372, "source_url": "https://en.wikipedia.org/wiki/CircleCI"},
+    {"value": "201 Spear St, San Francisco", "is_hq": true, "page_id": 350, "source_url": "https://getlatka.com/companies/circleci"},
+    {"value": "2261 Market Street, San Francisco", "is_hq": false, "page_id": 350, "source_url": "https://getlatka.com/companies/circleci"},
+    {"value": "Tokyo", "is_hq": false, "page_id": 372, "source_url": "https://en.wikipedia.org/wiki/CircleCI"},
+    {"value": "Boston", "is_hq": false, "page_id": 372, "source_url": "https://en.wikipedia.org/wiki/CircleCI"},
+    {"value": "Denver", "is_hq": false, "page_id": 372, "source_url": "https://en.wikipedia.org/wiki/CircleCI"},
+    {"value": "London", "is_hq": false, "page_id": 372, "source_url": "https://en.wikipedia.org/wiki/CircleCI"}
+  ]
+}

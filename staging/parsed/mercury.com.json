@@ -1,0 +1,48 @@
+{"domain": "mercury.com", "name": "Mercury",
+ "fields": {
+   "description": [
+     {"value": "Mercury is a business banking platform for startups, small businesses, and scaling companies.", "page_id": 140, "source_url": "https://mercury.com", "confidence": "high"},
+     {"value": "Mercury is an online business banking company for startups, small businesses, and scaling companies. It is a fintech company, not an FDIC-insured bank. Banking services are provided through Choice Financial Group and Column N.A., both FDIC members.", "page_id": 374, "source_url": "https://mercury.com", "confidence": "high"},
+     {"value": "Mercury Technologies is an American fintech company that offers banking services to startups and small businesses. It is not a bank itself and works with partner banks.", "page_id": 375, "source_url": "https://en.wikipedia.org/wiki/Mercury_Technologies", "confidence": "high"},
+     {"value": "Mercury is a fintech company, not a bank. Its core product is a digital business checking and savings account, with banking provided through partner banks.", "page_id": 330, "source_url": "https://research.contrary.com/report/mercury", "confidence": "medium"},
+     {"value": "Mercury is a San Francisco fintech that provides banking and financial tools for startups and small businesses. It is not a bank and works with partner banks.", "page_id": 353, "source_url": "https://en.wikipedia.org/wiki/Mercury_Technologies", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Checking and savings accounts with zero minimums, a Treasury yield product, working capital loans and venture debt, business credit cards with cashback and team spend controls, domestic and international payments, invoicing, and accounting sync, plus Payroll, Books (AI-powered accounting), Command, Insights, an API, and personal accounts.", "page_id": 140, "source_url": "https://mercury.com", "confidence": "high"},
+     {"value": "Business checking and savings, Treasury yield accounts, working capital loans and venture debt; business credit cards with cashback and team spend controls; domestic and international payments and invoicing; Mercury Payroll and Mercury Books (AI-powered accounting); Command, Insights and an API.", "page_id": 374, "source_url": "https://mercury.com", "confidence": "high"},
+     {"value": "Digital business checking and savings account, corporate debit and credit cards, unlimited bill payments, and invoicing and accounting tools that sync with QuickBooks and Xero.", "page_id": 330, "source_url": "https://research.contrary.com/report/mercury", "confidence": "medium"},
+     {"value": "Business bank accounts, venture debt, a corporate charge card (later branded Mercury IO), personal banking, and bill pay, invoicing and expense reimbursement software.", "page_id": 375, "source_url": "https://en.wikipedia.org/wiki/Mercury_Technologies", "confidence": "high"}
+   ],
+   "business_model_description": [
+     {"value": "Generates revenue primarily from interchange fees on debit and credit card transactions, yield on Treasury deposits, and its venture debt product.", "page_id": 330, "source_url": "https://research.contrary.com/report/mercury", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Targets tech/SaaS, ecommerce, agencies and consultants, VC funds, crypto, accounting firms, LLCs, life science, climate, real estate and construction, and healthcare services. The page says it has 450K+ entrepreneurs as customers and that 1 in 3 startups choose Mercury.", "page_id": 140, "source_url": "https://mercury.com", "confidence": "high"},
+     {"value": "More than 450,000 entrepreneurs; the page says 1 in 3 startups choose Mercury.", "page_id": 374, "source_url": "https://mercury.com", "confidence": "high"},
+     {"value": "Its customers are mainly startups and small businesses.", "page_id": 375, "source_url": "https://en.wikipedia.org/wiki/Mercury_Technologies", "confidence": "high"},
+     {"value": "Targets startups and tech-forward small businesses.", "page_id": 330, "source_url": "https://research.contrary.com/report/mercury", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$1B in annualized revenue (cited from a Newcomer article headline)", "page_id": 374, "source_url": "https://mercury.com", "confidence": "high"},
+     {"value": "About $500 million in 2024", "page_id": 375, "source_url": "https://en.wikipedia.org/wiki/Mercury_Technologies", "confidence": "high"},
+     {"value": "About $500M for 2024 (komo.ai profile)", "page_id": 353, "source_url": "https://en.wikipedia.org/wiki/Mercury_Technologies", "confidence": "medium"},
+     {"value": "$650M in annualized revenue, up 30% year over year (yespress.io profile)", "page_id": 353, "source_url": "https://en.wikipedia.org/wiki/Mercury_Technologies", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "About 800 employees (2024)", "page_id": 375, "source_url": "https://en.wikipedia.org/wiki/Mercury_Technologies", "confidence": "high"},
+     {"value": "About 910 employees (yespress.io profile)", "page_id": 353, "source_url": "https://en.wikipedia.org/wiki/Mercury_Technologies", "confidence": "medium"},
+     {"value": "Around 1,659 employees (bouncewatch profile)", "page_id": 353, "source_url": "https://en.wikipedia.org/wiki/Mercury_Technologies", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2017", "page_id": 375, "source_url": "https://en.wikipedia.org/wiki/Mercury_Technologies", "confidence": "high"},
+     {"value": "2019 (EquityZen page)", "page_id": 353, "source_url": "https://en.wikipedia.org/wiki/Mercury_Technologies", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco, California", "page_id": 375, "source_url": "https://en.wikipedia.org/wiki/Mercury_Technologies", "confidence": "high"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco, California", "is_hq": true, "page_id": 375, "source_url": "https://en.wikipedia.org/wiki/Mercury_Technologies"}
+ ]
+}

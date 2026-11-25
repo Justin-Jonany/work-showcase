@@ -1,0 +1,74 @@
+{"domain": "tipalti.com", "name": "Tipalti",
+ "fields": {
+   "description": [
+     {"value": "Finance automation company founded in 2010 and headquartered in Foster City, California; sells software for accounts payable and global payments, mainly to mid-market and fast-growing companies.", "page_id": 15, "source_url": "https://craft.co/tipalti", "confidence": "medium"},
+     {"value": "Finance automation platform covering accounts payable, mass payments, procurement, expenses and treasury in one connected suite, with AI agents for finance tasks.", "page_id": 118, "source_url": "https://tipalti.com", "confidence": "high"},
+     {"value": "American multinational financial technology company headquartered in Foster City, California. It provides accounts payable, procurement, expense management and global payments automation software.", "page_id": 119, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "high"},
+     {"value": "Finance automation company headquartered in the San Francisco Bay Area (Foster City) that sells accounts payable and mass-payout software.", "page_id": 344, "source_url": "https://sacra.com/c/tipalti", "confidence": "medium"},
+     {"value": "American multinational financial technology company headquartered in Foster City, California, with offices in several other cities.", "page_id": 358, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "medium"},
+     {"value": "Finance automation company offering software for accounts payable, mass payments, procurement, expenses and treasury in one connected suite.", "page_id": 387, "source_url": "https://tipalti.com", "confidence": "high"},
+     {"value": "Private American fintech company headquartered in Foster City, California; sells software for business payments and finance operations.", "page_id": 388, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "high"}
+   ],
+   "product_description": [
+     {"value": "Supplier onboarding, invoice processing, global payouts, tax compliance, payment reconciliation, expense reimbursements, fraud prevention, currency management and self-billing invoices; adjacent procurement, expense management, virtual and physical cards and treasury.", "page_id": 15, "source_url": "https://craft.co/tipalti", "confidence": "medium"},
+     {"value": "Accounts Payable (supplier management, invoice processing, global payments, tax compliance, reconciliation, PO matching); Mass Payments (payee onboarding, self-billing, developer APIs, FX payments); Connected Suite (procurement, expenses, cards, treasury); and Tipalti AI agents.", "page_id": 118, "source_url": "https://tipalti.com", "confidence": "high"},
+     {"value": "Accounts payable, procurement, expense management and global payments automation software.", "page_id": 119, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "high"},
+     {"value": "Accounts payable suite, a mass-payouts product for platforms, and a connected suite covering procurement, expense management, cards and treasury; AI agents for finance teams.", "page_id": 344, "source_url": "https://sacra.com/c/tipalti", "confidence": "medium"},
+     {"value": "Accounts Payable, Mass Payments, a Connected Suite of procurement, expenses, virtual and physical cards and treasury, and Tipalti AI agents.", "page_id": 387, "source_url": "https://tipalti.com", "confidence": "high"},
+     {"value": "Mass payments platform and API, Tipalti Expenses (launched September 2023), fraud monitoring through Tipalti Detect, and the Tipalti Card.", "page_id": 388, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "high"}
+   ],
+   "business_model_description": [
+     {"value": "Revenue comes mainly from SaaS subscriptions with tiered plans; entry plan at $149 per month, with higher tiers priced by transaction volume, number of entities and features.", "page_id": 344, "source_url": "https://sacra.com/c/tipalti", "confidence": "medium"},
+     {"value": "Software-as-a-service business; companies can white-label its payments system, and it disburses funds from the customer's own bank account.", "page_id": 388, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "high"}
+   ],
+   "customer_description": [
+     {"value": "Mid-market and fast-growing companies; one profile says it serves over 5,000 companies, another over 6,500 global companies.", "page_id": 15, "source_url": "https://craft.co/tipalti", "confidence": "medium"},
+     {"value": "Industries include music royalties, healthcare, affiliates and influencers, adtech, gaming, manufacturing and distribution, and e-commerce and retail; featured customers include ServiceRocket, A.Team, Matterport, Create Music Group, PubMatic and Lenus.", "page_id": 118, "source_url": "https://tipalti.com", "confidence": "high"},
+     {"value": "Mid-sized and large companies that pay contractors, employees, suppliers and vendors in more than 190 countries; early adopters were ad exchanges, ad networks, affiliate networks and publishers.", "page_id": 119, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "high"},
+     {"value": "Mid-market firms of 50 to 1,000 employees; named high-velocity clients include Amazon Twitch, GoDaddy, Roku, WordPress.com and ZipRecruiter; Sacra reports over 4,000 customers.", "page_id": 344, "source_url": "https://sacra.com/c/tipalti", "confidence": "medium"},
+     {"value": "Customers across many sectors, including Lantern Community Services, Chomps, Symphonic, PubMatic, Therabody, Hightouch, Scribd, Create Music Group, Matterport, ServiceRocket and A.Team; industries include music royalties, healthcare, affiliates and influencers, adtech, gaming and e-commerce.", "page_id": 387, "source_url": "https://tipalti.com", "confidence": "high"},
+     {"value": "Mid-sized and large companies paying contractors, employees, suppliers and vendors in many currencies across more than 190 countries.", "page_id": 388, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "high"}
+   ],
+   "revenue": [
+     {"value": "$68.1M in 2023 (GetLatka)", "page_id": 358, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "medium"},
+     {"value": "$200M (Bitscale; GetLatka comparison)", "page_id": 358, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "medium"},
+     {"value": "$210.1M (ZoomInfo)", "page_id": 358, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "medium"},
+     {"value": "$100M-$250M (Levels.fyi)", "page_id": 358, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "1,250 (2024), per the San Francisco Business Times", "page_id": 119, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "high"},
+     {"value": "About 1,250 (2024)", "page_id": 388, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "high"},
+     {"value": "1,250 (2024)", "page_id": 358, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "medium"},
+     {"value": "937 (Bitscale)", "page_id": 358, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "medium"},
+     {"value": "501-1,000 (ZoomInfo range)", "page_id": 358, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "medium"},
+     {"value": "About 1,111 total employees (PitchBook)", "page_id": 344, "source_url": "https://sacra.com/c/tipalti", "confidence": "medium"},
+     {"value": "About 1,121 (LinkedIn-style aggregators)", "page_id": 344, "source_url": "https://sacra.com/c/tipalti", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2010", "page_id": 15, "source_url": "https://craft.co/tipalti", "confidence": "medium"},
+     {"value": "2010", "page_id": 119, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "high"},
+     {"value": "Founded in Israel in 2010", "page_id": 344, "source_url": "https://sacra.com/c/tipalti", "confidence": "medium"},
+     {"value": "2010", "page_id": 358, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "medium"},
+     {"value": "Founded in 2010", "page_id": 388, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "high"}
+   ],
+   "headquarters": [
+     {"value": "Foster City, California", "page_id": 15, "source_url": "https://craft.co/tipalti", "confidence": "medium"},
+     {"value": "Foster City, California", "page_id": 119, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "high"},
+     {"value": "Foster City, California", "page_id": 344, "source_url": "https://sacra.com/c/tipalti", "confidence": "medium"},
+     {"value": "Foster City, California", "page_id": 358, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "medium"},
+     {"value": "Foster City, CA, United States (1051 E. Hillsdale Boulevard, Suite 600)", "page_id": 387, "source_url": "https://tipalti.com", "confidence": "high"},
+     {"value": "Foster City, California", "page_id": 388, "source_url": "https://en.wikipedia.org/wiki/Tipalti", "confidence": "high"}
+   ]
+ },
+ "locations": [
+   {"value": "Foster City, CA (1051 E. Hillsdale Boulevard, Suite 600)", "is_hq": true, "page_id": 387, "source_url": "https://tipalti.com"},
+   {"value": "Amsterdam", "is_hq": false, "page_id": 119, "source_url": "https://en.wikipedia.org/wiki/Tipalti"},
+   {"value": "London", "is_hq": false, "page_id": 119, "source_url": "https://en.wikipedia.org/wiki/Tipalti"},
+   {"value": "Plano", "is_hq": false, "page_id": 119, "source_url": "https://en.wikipedia.org/wiki/Tipalti"},
+   {"value": "Tbilisi", "is_hq": false, "page_id": 119, "source_url": "https://en.wikipedia.org/wiki/Tipalti"},
+   {"value": "Tel Aviv", "is_hq": false, "page_id": 119, "source_url": "https://en.wikipedia.org/wiki/Tipalti"},
+   {"value": "Toronto", "is_hq": false, "page_id": 119, "source_url": "https://en.wikipedia.org/wiki/Tipalti"},
+   {"value": "Vancouver", "is_hq": false, "page_id": 119, "source_url": "https://en.wikipedia.org/wiki/Tipalti"}
+ ]
+}

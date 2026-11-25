@@ -1,0 +1,52 @@
+{
+  "domain": "outreach.io",
+  "name": "Outreach",
+  "fields": {
+    "description": [
+      {"value": "An agentic AI platform for revenue teams, with AI agents that act as teammates across prospecting, deal execution, conversation intelligence, coaching and forecasting.", "page_id": 463, "source_url": "https://www.outreach.ai/", "confidence": "high"},
+      {"value": "Describes itself as the Agentic AI platform for revenue teams, offering AI agents that take on real work across the full revenue lifecycle.", "page_id": 211, "source_url": "https://www.outreach.ai/", "confidence": "high"},
+      {"value": "A Seattle-based sales technology company founded in 2014 that sells an AI-powered platform for revenue teams.", "page_id": 147, "source_url": "https://bitscale.ai/directory/outreach", "confidence": "medium"},
+      {"value": "A Seattle-based, privately held sales engagement platform founded in 2014 that has expanded into revenue intelligence and deal management.", "page_id": 432, "source_url": "https://sacra.com/c/outreach/", "confidence": "medium"},
+      {"value": "A sales engagement platform for automating and personalizing prospect outreach, with analytics and sales-execution features.", "page_id": 446, "source_url": "https://getlatka.com/companies/outreach", "confidence": "medium"}
+    ],
+    "product_description": [
+      {"value": "AI agents that research leads and accounts, write tailored outreach, join sales conversations, and update deal records after meetings; real-time deal guidance; coaching and forecasting tools for leaders; all unified in one platform with sales engagement, conversation intelligence, deal management and forecasting.", "page_id": 463, "source_url": "https://www.outreach.ai/", "confidence": "high"},
+      {"value": "AI agents across prospecting, deal execution, conversation intelligence, coaching and forecasting, unifying sales engagement, conversation intelligence, deal management and forecasting in one platform.", "page_id": 211, "source_url": "https://www.outreach.ai/", "confidence": "high"},
+      {"value": "AI sales engagement, revenue intelligence and operations, deal management, mutual action plans, conversation intelligence, and Kaia, an AI assistant that joins live meetings.", "page_id": 432, "source_url": "https://sacra.com/c/outreach/", "confidence": "medium"},
+      {"value": "A platform for sales engagement, deal management, forecasting and pipeline work, with AI agents for prospecting, deal management, forecasting, coaching and account expansion.", "page_id": 147, "source_url": "https://bitscale.ai/directory/outreach", "confidence": "medium"}
+    ],
+    "business_model_description": [
+      {"value": "Revenue comes from subscriptions billed annually, with implementation fees of $1,000 to $8,000 depending on deployment complexity; enterprise deals start at $2,500 per month after the entry-level package was removed in 2022.", "page_id": 432, "source_url": "https://sacra.com/c/outreach/", "confidence": "medium"}
+    ],
+    "customer_description": [
+      {"value": "Named customers include Siemens, Avis, Databricks, Elsevier, Zoom, Snowflake, McKesson, Okta, Freshworks, Cohesity, SolarWinds and ServiceNow. Roles served include RevOps, sales leaders, account executives, sales managers, sales development and customer success.", "page_id": 211, "source_url": "https://www.outreach.ai/", "confidence": "high"},
+      {"value": "Named customers include Siemens, Avis, Databricks, Elsevier, Zoom, Snowflake, McKesson, Okta, Freshworks, Cohesity, SolarWinds and ServiceNow.", "page_id": 463, "source_url": "https://www.outreach.ai/", "confidence": "high"},
+      {"value": "More than 6,000 companies, including Zoom, Siemens, Okta, DocuSign and McKesson; other sources cite 5,000 to 5,500.", "page_id": 147, "source_url": "https://bitscale.ai/directory/outreach", "confidence": "medium"},
+      {"value": "Sales, customer success and revenue operations leaders; more than 5,000 companies, including Adobe, Tableau, Okta, Splunk, DocuSign and SAP.", "page_id": 432, "source_url": "https://sacra.com/c/outreach/", "confidence": "medium"}
+    ],
+    "revenue": [
+      {"value": "About $300.8M (2024, Latka estimate)", "page_id": 446, "source_url": "https://getlatka.com/companies/outreach", "confidence": "medium"},
+      {"value": "About $155M to $300M (range of estimates; no single year given)", "page_id": 432, "source_url": "https://sacra.com/c/outreach/", "confidence": "medium"}
+    ],
+    "web_traffic": [],
+    "employees": [
+      {"value": "About 700 to 1,560 (range across directory sites)", "page_id": 147, "source_url": "https://bitscale.ai/directory/outreach", "confidence": "medium"},
+      {"value": "1.4K (2025, Latka)", "page_id": 446, "source_url": "https://getlatka.com/companies/outreach", "confidence": "medium"}
+    ],
+    "founded_year": [
+      {"value": "2014", "page_id": 463, "source_url": "https://www.outreach.ai/", "confidence": "high"},
+      {"value": "2014", "page_id": 211, "source_url": "https://www.outreach.ai/", "confidence": "high"},
+      {"value": "2014", "page_id": 147, "source_url": "https://bitscale.ai/directory/outreach", "confidence": "medium"},
+      {"value": "2014", "page_id": 432, "source_url": "https://sacra.com/c/outreach/", "confidence": "medium"},
+      {"value": "2014", "page_id": 446, "source_url": "https://getlatka.com/companies/outreach", "confidence": "medium"}
+    ],
+    "headquarters": [
+      {"value": "Seattle, Washington", "page_id": 147, "source_url": "https://bitscale.ai/directory/outreach", "confidence": "medium"},
+      {"value": "Seattle", "page_id": 432, "source_url": "https://sacra.com/c/outreach/", "confidence": "medium"},
+      {"value": "Seattle, Washington", "page_id": 446, "source_url": "https://getlatka.com/companies/outreach", "confidence": "medium"}
+    ]
+  },
+  "locations": [
+    {"value": "Seattle, Washington", "is_hq": true, "page_id": 446, "source_url": "https://getlatka.com/companies/outreach"}
+  ]
+}

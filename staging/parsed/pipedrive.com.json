@@ -1,0 +1,58 @@
+{
+  "domain": "pipedrive.com",
+  "name": "Pipedrive",
+  "fields": {
+    "description": [
+      {"value": "A private, cloud-based customer relationship management (CRM) software company founded in Estonia in 2010 that develops a sales CRM for web and mobile.", "page_id": 110, "source_url": "https://en.wikipedia.org/wiki/Pipedrive", "confidence": "high"},
+      {"value": "A private, cloud-based sales CRM company, with a sales-focused CRM centered on pipeline and deal management.", "page_id": 377, "source_url": "https://en.wikipedia.org/wiki/Pipedrive", "confidence": "high"},
+      {"value": "Sells a sales CRM and pipeline management platform that helps small businesses manage leads, track sales activities and close deals.", "page_id": 376, "source_url": "https://www.pipedrive.com", "confidence": "high"},
+      {"value": "A cloud-based sales CRM that sells subscriptions.", "page_id": 336, "source_url": "https://craft.co/pipedrive", "confidence": "medium"}
+    ],
+    "product_description": [
+      {"value": "Kanban-style pipeline and deal management, two-way email and calendar sync, workflow automation, sales dashboards and forecasting, an AI Sales Assistant, the Nova meeting-intelligence feature (newly announced), a Marketplace with 500+ integrations, and Android and iOS apps.", "page_id": 376, "source_url": "https://www.pipedrive.com", "confidence": "high"},
+      {"value": "A sales-focused CRM centered on pipeline and deal management, with automation and reporting tools.", "page_id": 377, "source_url": "https://en.wikipedia.org/wiki/Pipedrive", "confidence": "high"},
+      {"value": "Sales pipeline and deal-management suite with lead management, two-way email sync, sales automation, reporting dashboards and a prospecting workspace (Pulse); add-ons LeadBooster, Web Visitor, Campaigns and Smart Docs are sold separately; also an AI CRM offering.", "page_id": 336, "source_url": "https://craft.co/pipedrive", "confidence": "medium"}
+    ],
+    "business_model_description": [
+      {"value": "SaaS with tiered subscription plans that differ in functionality and support by price point, plus add-ons and integrations sold separately.", "page_id": 336, "source_url": "https://craft.co/pipedrive", "confidence": "medium"}
+    ],
+    "customer_description": [
+      {"value": "Trusted by over 100,000 companies and used by teams in 179 countries; positioned to help small businesses and larger teams.", "page_id": 376, "source_url": "https://www.pipedrive.com", "confidence": "high"},
+      {"value": "Mainly small and mid-sized businesses.", "page_id": 336, "source_url": "https://craft.co/pipedrive", "confidence": "medium"}
+    ],
+    "revenue": [
+      {"value": "$189M (2023)", "page_id": 351, "source_url": "https://en.wikipedia.org/wiki/Pipedrive", "confidence": "medium"}
+    ],
+    "web_traffic": [],
+    "employees": [
+      {"value": "1,000 (2025)", "page_id": 110, "source_url": "https://en.wikipedia.org/wiki/Pipedrive", "confidence": "high"},
+      {"value": "About 1,000 (2025)", "page_id": 377, "source_url": "https://en.wikipedia.org/wiki/Pipedrive", "confidence": "high"},
+      {"value": "1,000 (2025)", "page_id": 351, "source_url": "https://en.wikipedia.org/wiki/Pipedrive", "confidence": "medium"}
+    ],
+    "founded_year": [
+      {"value": "2010", "page_id": 110, "source_url": "https://en.wikipedia.org/wiki/Pipedrive", "confidence": "high"},
+      {"value": "2010", "page_id": 377, "source_url": "https://en.wikipedia.org/wiki/Pipedrive", "confidence": "high"},
+      {"value": "2010", "page_id": 376, "source_url": "https://www.pipedrive.com", "confidence": "high"},
+      {"value": "2010", "page_id": 351, "source_url": "https://en.wikipedia.org/wiki/Pipedrive", "confidence": "medium"},
+      {"value": "2010", "page_id": 336, "source_url": "https://craft.co/pipedrive", "confidence": "medium"}
+    ],
+    "headquarters": [
+      {"value": "New York City, United States", "page_id": 110, "source_url": "https://en.wikipedia.org/wiki/Pipedrive", "confidence": "high"},
+      {"value": "New York City, United States", "page_id": 377, "source_url": "https://en.wikipedia.org/wiki/Pipedrive", "confidence": "high"},
+      {"value": "New York City", "page_id": 351, "source_url": "https://en.wikipedia.org/wiki/Pipedrive", "confidence": "medium"},
+      {"value": "New York", "page_id": 336, "source_url": "https://craft.co/pipedrive", "confidence": "medium"}
+    ]
+  },
+  "locations": [
+    {"value": "New York City, United States", "is_hq": true, "page_id": 110, "source_url": "https://en.wikipedia.org/wiki/Pipedrive"},
+    {"value": "Tallinn, Estonia", "is_hq": false, "page_id": 351, "source_url": "https://en.wikipedia.org/wiki/Pipedrive"},
+    {"value": "Tartu", "is_hq": false, "page_id": 351, "source_url": "https://en.wikipedia.org/wiki/Pipedrive"},
+    {"value": "Lisbon", "is_hq": false, "page_id": 351, "source_url": "https://en.wikipedia.org/wiki/Pipedrive"},
+    {"value": "London", "is_hq": false, "page_id": 351, "source_url": "https://en.wikipedia.org/wiki/Pipedrive"},
+    {"value": "Prague", "is_hq": false, "page_id": 351, "source_url": "https://en.wikipedia.org/wiki/Pipedrive"},
+    {"value": "Dublin", "is_hq": false, "page_id": 351, "source_url": "https://en.wikipedia.org/wiki/Pipedrive"},
+    {"value": "Riga", "is_hq": false, "page_id": 351, "source_url": "https://en.wikipedia.org/wiki/Pipedrive"},
+    {"value": "Berlin", "is_hq": false, "page_id": 351, "source_url": "https://en.wikipedia.org/wiki/Pipedrive"},
+    {"value": "Florida, U.S.", "is_hq": false, "page_id": 351, "source_url": "https://en.wikipedia.org/wiki/Pipedrive"}
+  ]
+}

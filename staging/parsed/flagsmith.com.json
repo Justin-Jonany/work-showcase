@@ -1,0 +1,43 @@
+{"domain": "flagsmith.com", "name": "Flagsmith",
+ "fields": {
+   "description": [
+     {"value": "Flagsmith provides an all-in-one feature flag tool for developing, implementing, and managing your feature flags. Easily create and manage feature toggles across web, mobile, and server-side applications.", "page_id": 166, "source_url": "https://www.flagsmith.com", "confidence": "high"},
+     {"value": "Flagsmith is a feature flag company. The page describes the product as an all-in-one feature flag tool for developing, implementing, and managing your feature flags.", "page_id": 306, "source_url": "https://www.flagsmith.com", "confidence": "high"},
+     {"value": "Flagsmith is a London-based company, founded in 2018, that makes an open-source feature flag platform.", "page_id": 277, "source_url": "https://craft.co/flagsmith", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Feature flags and remote config, with segmentation and targeting, A/B and multivariate testing, and governance features such as role-based access, change control, audit logging, and rollback. Also offers SDKs, integrations, and an MCP Server.", "page_id": 306, "source_url": "https://www.flagsmith.com", "confidence": "high"},
+     {"value": "Easily create and manage feature toggles across web, mobile, and server-side applications, combining toggles with remote config to test and deploy new features with confidence.", "page_id": 166, "source_url": "https://www.flagsmith.com", "confidence": "high"},
+     {"value": "Feature flags and remote configuration for web, mobile, and server-side apps, with lifecycle and release management, audience and geotargeting, campaign segmentation, and split testing.", "page_id": 277, "source_url": "https://craft.co/flagsmith", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Combines a commercial product (Cloud, Private Cloud, and Self-Hosted with premium support) with an open-source offering. The page offers a free trial ('Start Free') and links to a pricing page.", "page_id": 306, "source_url": "https://www.flagsmith.com", "confidence": "high"},
+     {"value": "Offers a free start ('Start for Free'), an open-source option, and an enterprise-grade cloud offering hosted by Flagsmith that includes premium support.", "page_id": 166, "source_url": "https://www.flagsmith.com", "confidence": "high"},
+     {"value": "Pricing is tiered, with a free option for limited usage and paid plans that scale with monthly active users and extra features such as advanced security and support. Open source is the other half of the model.", "page_id": 277, "source_url": "https://craft.co/flagsmith", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Trusted by top development teams, with logos including KB, Okta, Citi, Vontobel, Ford, Wistia, and Creditas.", "page_id": 166, "source_url": "https://www.flagsmith.com", "confidence": "high"},
+     {"value": "Logos include KB, Okta, Citi, Vontobel, Ford, Wistia, and Creditas. The page also highlights banking, insurance, and healthcare use cases.", "page_id": 306, "source_url": "https://www.flagsmith.com", "confidence": "high"},
+     {"value": "One directory describes the target market as enterprises and the banking and financial services sectors. Reviews also show smaller companies and agencies using it.", "page_id": 277, "source_url": "https://craft.co/flagsmith", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$1.5M (2024, Latka estimate)", "page_id": 291, "source_url": "https://getlatka.com/companies/flagsmith", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "approximately 12 people (as of 2026, Latka)", "page_id": 291, "source_url": "https://getlatka.com/companies/flagsmith", "confidence": "medium"},
+     {"value": "approximately 19 employees (Bounce Watch)", "page_id": 291, "source_url": "https://getlatka.com/companies/flagsmith", "confidence": "medium"},
+     {"value": "11-50 (Kustiq)", "page_id": 291, "source_url": "https://getlatka.com/companies/flagsmith", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2018", "page_id": 277, "source_url": "https://craft.co/flagsmith", "confidence": "medium"},
+     {"value": "2018", "page_id": 291, "source_url": "https://getlatka.com/companies/flagsmith", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "London", "page_id": 277, "source_url": "https://craft.co/flagsmith", "confidence": "medium"},
+     {"value": "London, England", "page_id": 291, "source_url": "https://getlatka.com/companies/flagsmith", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "London, England", "is_hq": true, "page_id": 291, "source_url": "https://getlatka.com/companies/flagsmith"}
+ ]}

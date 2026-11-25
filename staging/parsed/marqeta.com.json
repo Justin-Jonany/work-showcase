@@ -1,0 +1,45 @@
+{"domain": "marqeta.com", "name": "Marqeta",
+ "fields": {
+   "description": [
+     {"value": "Marqeta provides enterprise card issuing and payment processing, with program management support.", "page_id": 114, "source_url": "https://www.marqeta.com", "confidence": "high"},
+     {"value": "An enterprise card issuing and payment processing company that provides infrastructure for businesses to launch and run card programs, along with program management support.", "page_id": 483, "source_url": "https://www.marqeta.com", "confidence": "high"},
+     {"value": "A payments company whose cloud-based, open API platform lets other businesses build and run their own card programs.", "page_id": 12, "source_url": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000017/mq-20251231.htm", "confidence": "medium"},
+     {"value": "A card-issuing platform that companies use to create and manage payment cards through APIs.", "page_id": 479, "source_url": "https://pitchbook.com/profiles/company/54330-13", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Issuing and processing core for debit, prepaid and credit programs, with accounts and money movement, virtual cards, just-in-time funding, real-time decisioning, risk and fraud management, and a UX Toolkit for card experiences.", "page_id": 483, "source_url": "https://www.marqeta.com", "confidence": "high"},
+     {"value": "Issuing and processing core, credit services, accounts and money movement, risk and fraud management, and a UX Toolkit for web, mobile and card payment experiences. Card types include debit, prepaid, credit and flexible credentials.", "page_id": 114, "source_url": "https://www.marqeta.com", "confidence": "high"},
+     {"value": "Debit, prepaid and credit cards, physical and virtual, with authorization and settlement, tokenization and digital wallet provisioning, fraud and spend controls, just-in-time funding, and program management.", "page_id": 12, "source_url": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000017/mq-20251231.htm", "confidence": "medium"},
+     {"value": "Debit, prepaid and credit programs, plus banking and money movement, risk management and rewards features.", "page_id": 469, "source_url": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000017/mq-20251231.htm", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Offers a range of service levels. In 'Managed By Marqeta,' a bank partner sponsors the card program and handles much of its operation and compliance; customers who take on more responsibility use 'Powered By Marqeta' for more direct control. Marqeta provides issuer processing to all customers and acts as card program manager for most of them.", "page_id": 469, "source_url": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000017/mq-20251231.htm", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Named customers include Ramp (corporate card) and DoorDash. The page says 75% of its top customers expanded beyond their first program.", "page_id": 114, "source_url": "https://www.marqeta.com", "confidence": "high"},
+     {"value": "Named customers are Ramp, a corporate card company, and DoorDash. The page says 75% of its top customers expanded beyond their first program.", "page_id": 483, "source_url": "https://www.marqeta.com", "confidence": "high"},
+     {"value": "Businesses in industries such as e-commerce, on-demand services and fintech.", "page_id": 12, "source_url": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000017/mq-20251231.htm", "confidence": "medium"},
+     {"value": "The FY2021 10-K named Affirm, Block, DoorDash, Instacart and Klarna as customers, which used the platform to create cards for their own users.", "page_id": 469, "source_url": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000017/mq-20251231.htm", "confidence": "medium"},
+     {"value": "Customers include Square (Block), DoorDash and Klarna.", "page_id": 479, "source_url": "https://pitchbook.com/profiles/company/54330-13", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "about $507.0M (one profile; year not stated)", "page_id": 479, "source_url": "https://pitchbook.com/profiles/company/54330-13", "confidence": "medium"},
+     {"value": "$624.9M (FY2025)", "page_id": 479, "source_url": "https://pitchbook.com/profiles/company/54330-13", "confidence": "medium"},
+     {"value": "$651.6 Million (ZoomInfo; year not stated)", "page_id": 479, "source_url": "https://pitchbook.com/profiles/company/54330-13", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "Roughly 700 to 1,000; figures such as 737, 854 and 938 (years not stated)", "page_id": 479, "source_url": "https://pitchbook.com/profiles/company/54330-13", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2010", "page_id": 479, "source_url": "https://pitchbook.com/profiles/company/54330-13", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Oakland, California", "page_id": 12, "source_url": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000017/mq-20251231.htm", "confidence": "medium"},
+     {"value": "Oakland, CA", "page_id": 479, "source_url": "https://pitchbook.com/profiles/company/54330-13", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Oakland, California", "is_hq": true, "page_id": 12, "source_url": "https://www.sec.gov/Archives/edgar/data/1522540/000152254026000017/mq-20251231.htm"}
+ ]
+}

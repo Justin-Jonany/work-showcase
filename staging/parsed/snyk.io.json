@@ -1,0 +1,57 @@
+{"domain": "snyk.io", "name": "Snyk",
+ "fields": {
+   "description": [
+     {"value": "The AI Security Platform secures the code AI writes, the agents it runs, and the applications it builds.", "page_id": 169, "source_url": "https://snyk.io", "confidence": "high"},
+     {"value": "Snyk sells an AI security platform. It positions itself as an independent security layer that validates AI-generated code, governs development agents, and secures AI-native applications.", "page_id": 456, "source_url": "https://snyk.io", "confidence": "high"},
+     {"value": "A developer-oriented cybersecurity company, specializing in securing custom-developed code. It was founded in 2015 out of Tel Aviv and London.", "page_id": 170, "source_url": "https://en.wikipedia.org/wiki/Snyk", "confidence": "high"},
+     {"value": "Snyk Limited is a developer-oriented cybersecurity company that secures custom code, open-source dependencies, and cloud infrastructure.", "page_id": 457, "source_url": "https://en.wikipedia.org/wiki/Snyk", "confidence": "high"},
+     {"value": "Snyk is a developer-focused security company. Its platform finds and helps fix vulnerabilities across open-source dependencies, proprietary code, containers, and infrastructure as code.", "page_id": 429, "source_url": "https://sacra.com/c/snyk/", "confidence": "medium"},
+     {"value": "Snyk is a developer-focused security company founded in 2015.", "page_id": 439, "source_url": "https://www.getlatka.com/companies/snyk", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Code security that validates AI-generated code, agent governance for AI development agents, AI application security for models, workflows, and agents in production, and agentic remediation that turns vulnerability backlogs into pull requests.", "page_id": 456, "source_url": "https://snyk.io", "confidence": "high"},
+     {"value": "Security products designed to help software developers find weaknesses, violations, and vulnerabilities during development. Its vulnerability database records security issues found in open-source software libraries.", "page_id": 170, "source_url": "https://en.wikipedia.org/wiki/Snyk", "confidence": "high"},
+     {"value": "Snyk Code, a cloud-based, AI-powered static analysis platform that originated with the DeepCode acquisition, and a vulnerability database covering open-source libraries. Later acquisitions added cloud security posture management (Fugue), dynamic application security testing (Probely), and AI agent security (Invariant Labs).", "page_id": 457, "source_url": "https://en.wikipedia.org/wiki/Snyk", "confidence": "high"},
+     {"value": "Snyk Open Source is its flagship product. Snyk Code targets flaws in proprietary code, and Container, Infrastructure as Code, and Cloud products extend coverage. The company also runs a searchable vulnerability database.", "page_id": 429, "source_url": "https://sacra.com/c/snyk/", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Sells subscription SaaS, and its core revenue comes from per-developer seat pricing across tiered plans. Its developer-centric approach and plugins for popular dev tools set it apart from vendors that mainly target security teams.", "page_id": 429, "source_url": "https://sacra.com/c/snyk/", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Trusted by the world's most innovative companies. Named customers include Twilio, Yalo, Snowflake, Jaguar Land Rover, LabelBox, Manulife, Spotify, Kroger, and Wex.", "page_id": 169, "source_url": "https://snyk.io", "confidence": "high"},
+     {"value": "Named customers include Twilio, Yalo, Snowflake, Jaguar Land Rover, LabelBox, Manulife, Spotify, Kroger, and Wex. Testimonials come from Yalo, Okta, Seismic, Komatsu, and Skechers.", "page_id": 456, "source_url": "https://snyk.io", "confidence": "high"},
+     {"value": "Named customers include Asurion, Google, Intuit, MongoDB, New Relic, Revolut, and Salesforce.", "page_id": 429, "source_url": "https://sacra.com/c/snyk/", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "US$220 million (2023)", "page_id": 170, "source_url": "https://en.wikipedia.org/wiki/Snyk", "confidence": "high"},
+     {"value": "US$220M (2023)", "page_id": 457, "source_url": "https://en.wikipedia.org/wiki/Snyk", "confidence": "high"},
+     {"value": "about $210.5M (2023, Latka)", "page_id": 439, "source_url": "https://www.getlatka.com/companies/snyk", "confidence": "medium"},
+     {"value": "$325M-$326M (ZoomInfo, Datanyze, Sacra)", "page_id": 439, "source_url": "https://www.getlatka.com/companies/snyk", "confidence": "medium"},
+     {"value": "roughly $326M in ARR as of February 2026 (Sacra)", "page_id": 439, "source_url": "https://www.getlatka.com/companies/snyk", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "1,400 (2022)", "page_id": 170, "source_url": "https://en.wikipedia.org/wiki/Snyk", "confidence": "high"},
+     {"value": "About 1,400 as of 2022", "page_id": 457, "source_url": "https://en.wikipedia.org/wiki/Snyk", "confidence": "high"},
+     {"value": "about 1,170 (Datanyze)", "page_id": 439, "source_url": "https://www.getlatka.com/companies/snyk", "confidence": "medium"},
+     {"value": "about 1,400 (Wikipedia, 2022)", "page_id": 439, "source_url": "https://www.getlatka.com/companies/snyk", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2015", "page_id": 170, "source_url": "https://en.wikipedia.org/wiki/Snyk", "confidence": "high"},
+     {"value": "2015", "page_id": 457, "source_url": "https://en.wikipedia.org/wiki/Snyk", "confidence": "high"},
+     {"value": "2015", "page_id": 439, "source_url": "https://www.getlatka.com/companies/snyk", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Boston, Massachusetts", "page_id": 170, "source_url": "https://en.wikipedia.org/wiki/Snyk", "confidence": "high"},
+     {"value": "Boston, Massachusetts", "page_id": 457, "source_url": "https://en.wikipedia.org/wiki/Snyk", "confidence": "high"},
+     {"value": "Boston, Massachusetts (100 Summer St)", "page_id": 439, "source_url": "https://www.getlatka.com/companies/snyk", "confidence": "medium"},
+     {"value": "London (Latka)", "page_id": 439, "source_url": "https://www.getlatka.com/companies/snyk", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Boston, Massachusetts", "is_hq": true, "page_id": 457, "source_url": "https://en.wikipedia.org/wiki/Snyk"},
+   {"value": "Tel Aviv", "is_hq": false, "page_id": 457, "source_url": "https://en.wikipedia.org/wiki/Snyk"},
+   {"value": "Ottawa", "is_hq": false, "page_id": 457, "source_url": "https://en.wikipedia.org/wiki/Snyk"},
+   {"value": "Zurich", "is_hq": false, "page_id": 457, "source_url": "https://en.wikipedia.org/wiki/Snyk"},
+   {"value": "London", "is_hq": false, "page_id": 457, "source_url": "https://en.wikipedia.org/wiki/Snyk"}
+ ]}

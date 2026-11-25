@@ -1,0 +1,47 @@
+{"domain": "redpanda.com", "name": "Redpanda",
+ "fields": {
+   "description": [
+     {"value": "Redpanda is the trust layer for the agentic enterprise.", "page_id": 201, "source_url": "https://www.redpanda.com", "confidence": "high"},
+     {"value": "Describes itself as a trust layer for the agentic enterprise, offering an Agentic Data Plane and a data streaming platform for real-time performance and AI workloads.", "page_id": 462, "source_url": "https://www.redpanda.com", "confidence": "high"},
+     {"value": "High performance data streaming platform and agentic data plane for enterprise real-time data infrastructure and AI agent operations; formerly known as Vectorized.", "page_id": 435, "source_url": "https://www.datanyze.com/companies/redpanda/565117774", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Redpanda Agentic Data Plane, which lets organizations build, connect, control and observe AI agents in production, built on the Redpanda Data Platform: Kafka API-compatible streaming and Redpanda Connect for integration.", "page_id": 201, "source_url": "https://www.redpanda.com", "confidence": "high"},
+     {"value": "Redpanda Data Platform with a Data Streaming Platform (Kafka API compatible), Redpanda Connect for linking systems across many sources and sinks, and Redpanda SQL for real-time analytics; Agentic Data Plane helps integrate, govern and control AI agents.", "page_id": 462, "source_url": "https://www.redpanda.com", "confidence": "high"},
+     {"value": "Redpanda Streaming (a Kafka-compatible engine written in C++), Redpanda Connect (over 300 connectors) and Redpanda SQL (a PostgreSQL-compatible OLAP engine), plus an Agentic Data Plane with agent identities and audit transcripts.", "page_id": 435, "source_url": "https://www.datanyze.com/companies/redpanda/565117774", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Subscription-based model with pricing tiers aligned to platform capabilities; another source says it follows a direct sales model.", "page_id": 435, "source_url": "https://www.datanyze.com/companies/redpanda/565117774", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Companies that trust Redpanda include Activision, Akamai Technologies, Chess.com, Cisco Systems, Dun & Bradstreet, LiveRamp, Moody's, NYSE, Optimizely, Texas Instruments, Vodafone, Rivian and Volkswagen Group Technologies.", "page_id": 462, "source_url": "https://www.redpanda.com", "confidence": "high"},
+     {"value": "Target industries include financial services, technology, manufacturing, media, gaming and gambling, and cybersecurity; a third-party directory names Vodafone, StoneX, Akamai Technologies, Cisco Systems, Forex.com and SmartLunch as users.", "page_id": 435, "source_url": "https://www.datanyze.com/companies/redpanda/565117774", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "About $42M (Datanyze estimate; not an official figure)", "page_id": 448, "source_url": "https://www.datanyze.com/companies/redpanda/565117774", "confidence": "medium"},
+     {"value": "$1M-$10M (Levels.fyi estimate; not an official figure)", "page_id": 448, "source_url": "https://www.datanyze.com/companies/redpanda/565117774", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "197 total (Built In)", "page_id": 448, "source_url": "https://www.datanyze.com/companies/redpanda/565117774", "confidence": "medium"},
+     {"value": "183 (Levels.fyi)", "page_id": 448, "source_url": "https://www.datanyze.com/companies/redpanda/565117774", "confidence": "medium"},
+     {"value": "151-250 (YourStory range)", "page_id": 448, "source_url": "https://www.datanyze.com/companies/redpanda/565117774", "confidence": "medium"},
+     {"value": "200 (Datanyze)", "page_id": 448, "source_url": "https://www.datanyze.com/companies/redpanda/565117774", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2019", "page_id": 201, "source_url": "https://www.redpanda.com", "confidence": "high"},
+     {"value": "2019", "page_id": 462, "source_url": "https://www.redpanda.com", "confidence": "high"},
+     {"value": "2019", "page_id": 435, "source_url": "https://www.datanyze.com/companies/redpanda/565117774", "confidence": "medium"},
+     {"value": "2019", "page_id": 448, "source_url": "https://www.datanyze.com/companies/redpanda/565117774", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco, California", "page_id": 201, "source_url": "https://www.redpanda.com", "confidence": "high"},
+     {"value": "220 Montgomery Street, Suite 400, San Francisco, CA 94104", "page_id": 462, "source_url": "https://www.redpanda.com", "confidence": "high"},
+     {"value": "San Francisco, California (most listings; CB Insights gives a Geary Boulevard address)", "page_id": 448, "source_url": "https://www.datanyze.com/companies/redpanda/565117774", "confidence": "medium"},
+     {"value": "San Francisco, California", "page_id": 435, "source_url": "https://www.datanyze.com/companies/redpanda/565117774", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "220 Montgomery Street, Suite 400, San Francisco, CA 94104", "is_hq": true, "page_id": 462, "source_url": "https://www.redpanda.com"},
+   {"value": "Geary Boulevard, San Francisco (CB Insights listing)", "is_hq": true, "page_id": 448, "source_url": "https://www.datanyze.com/companies/redpanda/565117774"}
+ ]}

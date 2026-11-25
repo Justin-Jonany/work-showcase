@@ -1,0 +1,58 @@
+{"domain": "singlestore.com", "name": "SingleStore",
+ "fields": {
+   "description": [
+     {"value": "SingleStore (formerly MemSQL) is a distributed SQL database company.", "page_id": 366, "source_url": "https://en.wikipedia.org/wiki/SingleStore", "confidence": "high"},
+     {"value": "SingleStore (formerly MemSQL) is a distributed, relational, SQL database management system designed to handle data ingest, transaction processing, and query processing.", "page_id": 199, "source_url": "https://en.wikipedia.org/wiki/SingleStore", "confidence": "high"},
+     {"value": "Sells a real-time database for enterprises and positions it as the foundation for AI applications.", "page_id": 365, "source_url": "https://www.singlestore.com", "confidence": "high"},
+     {"value": "San Francisco-based distributed SQL database company, formerly MemSQL, that targets combined transactional and analytical workloads.", "page_id": 331, "source_url": "https://bitscale.ai/directory/singlestore", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Distributed relational database with ANSI SQL support, storing relational, JSON, geospatial, key-value, vector and time-series data. Offerings include SingleStore Helios (managed cloud), SingleStore Kai (MongoDB API compatibility) and SingleStore Flow (data ingestion).", "page_id": 366, "source_url": "https://en.wikipedia.org/wiki/SingleStore", "confidence": "high"},
+     {"value": "Distributed relational SQL database, offered as the managed cloud service SingleStore Helios; a free Linux edition is limited to up to 4 leaf nodes of 32 GB RAM each.", "page_id": 199, "source_url": "https://en.wikipedia.org/wiki/SingleStore", "confidence": "high"},
+     {"value": "SingleStore Helios Cloud and SingleStore Self-Managed; the cloud service runs on AWS, Google and Azure and in private clouds including IBM Cloud Pak for Data and Red Hat OpenShift.", "page_id": 331, "source_url": "https://bitscale.ai/directory/singlestore", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Free to download for limited Linux deployments; an Enterprise license is required for larger deployments and for official support.", "page_id": 199, "source_url": "https://en.wikipedia.org/wiki/SingleStore", "confidence": "high"},
+     {"value": "Revenue comes mainly from subscriptions, with cloud or on-premises deployment; sales combine a direct sales model with a partner programme that includes major cloud providers and large vendors.", "page_id": 331, "source_url": "https://bitscale.ai/directory/singlestore", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Hundreds of customers including 100+ Fortune 500, Forbes Global 2000 and Inc. 5000 brands across 37 verticals (another source says 40); named customers include Comcast, Cisco, Akamai Technologies, Fiverr, Goldman Sachs, Sony, Siemens and Hulu.", "page_id": 331, "source_url": "https://bitscale.ai/directory/singlestore", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$110M for 2023 (Latka)", "page_id": 343, "source_url": "https://getlatka.com/companies/singlestore", "confidence": "medium"},
+     {"value": "About $117.7M (StartupHub modeled estimate, wide range; year not stated)", "page_id": 343, "source_url": "https://getlatka.com/companies/singlestore", "confidence": "medium"},
+     {"value": "Reached $100 million in annual recurring revenue as of 2023 (Bitscale)", "page_id": 343, "source_url": "https://getlatka.com/companies/singlestore", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "380 employees", "page_id": 199, "source_url": "https://en.wikipedia.org/wiki/SingleStore", "confidence": "high"},
+     {"value": "About 380", "page_id": 366, "source_url": "https://en.wikipedia.org/wiki/SingleStore", "confidence": "high"},
+     {"value": "523 (Latka; as of December 2024)", "page_id": 343, "source_url": "https://getlatka.com/companies/singlestore", "confidence": "medium"},
+     {"value": "Roughly 552 (StartupHub; year not stated)", "page_id": 343, "source_url": "https://getlatka.com/companies/singlestore", "confidence": "medium"},
+     {"value": "501-1000 (Persana; year not stated)", "page_id": 343, "source_url": "https://getlatka.com/companies/singlestore", "confidence": "medium"},
+     {"value": "400 (BuiltIn; year not stated)", "page_id": 343, "source_url": "https://getlatka.com/companies/singlestore", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "January 2011", "page_id": 199, "source_url": "https://en.wikipedia.org/wiki/SingleStore", "confidence": "high"},
+     {"value": "January 2011", "page_id": 366, "source_url": "https://en.wikipedia.org/wiki/SingleStore", "confidence": "high"},
+     {"value": "2011", "page_id": 331, "source_url": "https://bitscale.ai/directory/singlestore", "confidence": "medium"},
+     {"value": "January 2011", "page_id": 343, "source_url": "https://getlatka.com/companies/singlestore", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco, California", "page_id": 199, "source_url": "https://en.wikipedia.org/wiki/SingleStore", "confidence": "high"},
+     {"value": "San Francisco, California", "page_id": 366, "source_url": "https://en.wikipedia.org/wiki/SingleStore", "confidence": "high"},
+     {"value": "San Francisco, California (addresses differ across sources: 534 4th St and 388 Market St)", "page_id": 331, "source_url": "https://bitscale.ai/directory/singlestore", "confidence": "medium"},
+     {"value": "San Francisco, California", "page_id": 343, "source_url": "https://getlatka.com/companies/singlestore", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco, CA", "is_hq": true, "page_id": 199, "source_url": "https://en.wikipedia.org/wiki/SingleStore"},
+   {"value": "Sunnyvale, CA", "is_hq": false, "page_id": 199, "source_url": "https://en.wikipedia.org/wiki/SingleStore"},
+   {"value": "Seattle, WA", "is_hq": false, "page_id": 199, "source_url": "https://en.wikipedia.org/wiki/SingleStore"},
+   {"value": "Raleigh, NC", "is_hq": false, "page_id": 199, "source_url": "https://en.wikipedia.org/wiki/SingleStore"},
+   {"value": "Lisbon, Portugal", "is_hq": false, "page_id": 199, "source_url": "https://en.wikipedia.org/wiki/SingleStore"},
+   {"value": "London, England", "is_hq": false, "page_id": 199, "source_url": "https://en.wikipedia.org/wiki/SingleStore"},
+   {"value": "Hyderabad, India", "is_hq": false, "page_id": 199, "source_url": "https://en.wikipedia.org/wiki/SingleStore"},
+   {"value": "534 4th St, San Francisco", "is_hq": true, "page_id": 331, "source_url": "https://bitscale.ai/directory/singlestore"},
+   {"value": "388 Market St, San Francisco", "is_hq": true, "page_id": 331, "source_url": "https://bitscale.ai/directory/singlestore"}
+ ]}

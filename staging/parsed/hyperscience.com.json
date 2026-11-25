@@ -1,0 +1,45 @@
+{"domain": "hyperscience.com", "name": "Hyperscience",
+ "fields": {
+   "description": [
+     {"value": "Sells an enterprise AI platform (legal entity Hyper Labs, Inc.) that reads, understands and processes large volumes of documents and data.", "page_id": 481, "source_url": "https://www.hyperscience.ai/", "confidence": "high"},
+     {"value": "Built on an ML architecture, Hyperscience reads, understands, and processes at scale the wide variety of data.", "page_id": 172, "source_url": "https://www.hyperscience.ai/", "confidence": "high"},
+     {"value": "A New York-based company founded in 2014 that sells intelligent document processing (IDP) software.", "page_id": 459, "source_url": "https://hyperscience.com/about-us", "confidence": "medium"},
+     {"value": "A New York-headquartered intelligent document processing (IDP) company founded in 2014.", "page_id": 471, "source_url": "https://getlatka.com/companies/hyperscience", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "The Hypercell Platform, Hypercell for Freight Pay, Hypercell for GenAI (labels and structures documents to create training data for fine-tuning LLMs) and Hypercell for SNAP.", "page_id": 481, "source_url": "https://www.hyperscience.ai/", "confidence": "high"},
+     {"value": "Automatically labels, annotates and structures complex documents, and lets customers fine-tune LLMs with proprietary data.", "page_id": 172, "source_url": "https://www.hyperscience.ai/", "confidence": "high"},
+     {"value": "Hypercell platform combining OCR, computer vision, NLP, proprietary machine learning models and LLMs, with a low-code Blocks and Flows interface for building custom pipelines.", "page_id": 459, "source_url": "https://hyperscience.com/about-us", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Enterprise software sales with integration support (inferred from the partner program and developer resources; no pricing stated).", "page_id": 481, "source_url": "https://www.hyperscience.ai/", "confidence": "low"}
+   ],
+   "customer_description": [
+     {"value": "Market leaders across industries and federal, state and local agencies. Logos include American Express, Charles Schwab, MetLife, Mutual of Omaha, Stryker, Volkswagen, Hirschbach, California Dept. of Corrections, Missouri Dept. of Social Services, US Social Security Administration and US Department of Veterans Affairs.", "page_id": 172, "source_url": "https://www.hyperscience.ai/", "confidence": "high"},
+     {"value": "Serves energy, financial services, healthcare, insurance, legal, manufacturing, public sector, retail, and transportation and logistics. Named customers include American Express, Charles Schwab, MetLife, Mutual of Omaha, Stryker, Volkswagen and Hirschbach.", "page_id": 481, "source_url": "https://www.hyperscience.ai/", "confidence": "high"},
+     {"value": "Targets large, regulated enterprises and public-sector agencies, mainly in financial services, insurance, healthcare, logistics and government. The company says American Express, Charles Schwab, HM Revenue and Customs, Mars, Stryker, the US Social Security Administration and the US Department of Veterans Affairs rely on it.", "page_id": 459, "source_url": "https://hyperscience.com/about-us", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$4.6M in 2020 (Latka)", "page_id": 471, "source_url": "https://getlatka.com/companies/hyperscience", "confidence": "medium"},
+     {"value": "$1M to $10M (directory estimate)", "page_id": 471, "source_url": "https://getlatka.com/companies/hyperscience", "confidence": "medium"},
+     {"value": "crossed the $1M mark in revenue (early milestone, per company about page)", "page_id": 471, "source_url": "https://getlatka.com/companies/hyperscience", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "about 350 employees (Built In profile)", "page_id": 459, "source_url": "https://hyperscience.com/about-us", "confidence": "medium"},
+     {"value": "over 250 (analyst note, April 2023)", "page_id": 471, "source_url": "https://getlatka.com/companies/hyperscience", "confidence": "medium"},
+     {"value": "201-500 (directory range)", "page_id": 471, "source_url": "https://getlatka.com/companies/hyperscience", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2014", "page_id": 459, "source_url": "https://hyperscience.com/about-us", "confidence": "medium"},
+     {"value": "2014 (analyst report; founded in Sofia, Bulgaria)", "page_id": 471, "source_url": "https://getlatka.com/companies/hyperscience", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "New York", "page_id": 459, "source_url": "https://hyperscience.com/about-us", "confidence": "medium"},
+     {"value": "New York City", "page_id": 471, "source_url": "https://getlatka.com/companies/hyperscience", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "New York, NY", "is_hq": true, "page_id": 459, "source_url": "https://hyperscience.com/about-us"},
+   {"value": "Sofia, Bulgaria", "is_hq": false, "page_id": 471, "source_url": "https://getlatka.com/companies/hyperscience"}
+ ]}

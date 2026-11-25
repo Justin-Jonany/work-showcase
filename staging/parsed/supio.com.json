@@ -1,0 +1,37 @@
+{"domain": "supio.com", "name": "Supio",
+ "fields": {
+   "description": [
+     {"value": "Supio is a legal AI company that sells software to plaintiff and personal injury law firms.", "page_id": 421, "source_url": "https://www.supio.com", "confidence": "high"},
+     {"value": "Supio is a Seattle-based legal AI company that builds software for personal injury and mass tort firms.", "page_id": 219, "source_url": "https://www.supio.com/why-supio", "confidence": "medium"},
+     {"value": "Supio is an AI software company focused on personal injury and mass tort firms.", "page_id": 235, "source_url": "https://ghost.bitscale.ai/supio/", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Supio is the only agentic legal AI platform built for plaintiff law and mass torts cases, with Supio Agent running at both case level and firm level.", "page_id": 158, "source_url": "https://www.supio.com", "confidence": "high"},
+     {"value": "Supio Agent (chronologies, demand letters, case economics, litigation drafting, firm intelligence), Supio Intake and Case Communications, with Westlaw, case management and document system integrations and an API.", "page_id": 421, "source_url": "https://www.supio.com", "confidence": "high"},
+     {"value": "Supio Document Intelligence platform for personal injury documents, Supio Assistant chat tool and Case Economics billing tool; also demand letter automation and drafting of complaints and briefs.", "page_id": 219, "source_url": "https://www.supio.com/why-supio", "confidence": "medium"}
+   ],
+   "business_model_description": [],
+   "customer_description": [
+     {"value": "Plaintiff and personal injury law firms; the homepage shows logos for about 27 firms, including GLP, Hughes and Coleman, Phillips Law Group, TorHoerman Law and Welsh & Welsh.", "page_id": 421, "source_url": "https://www.supio.com", "confidence": "high"},
+     {"value": "Plaintiff law firms and mass torts practices; logos include Ankin Law, The Cochran Firm, Rainwater Holt and Oatley Vigmond, among about two dozen others.", "page_id": 158, "source_url": "https://www.supio.com", "confidence": "high"},
+     {"value": "Personal injury and mass tort firms; reported customers include Hughes & Coleman and Thomas Law Offices.", "page_id": 219, "source_url": "https://www.supio.com/why-supio", "confidence": "medium"}
+   ],
+   "revenue": [],
+   "web_traffic": [],
+   "employees": [
+     {"value": "Estimates range from roughly 11-50 (Promptloop) to 163 (StartupHub); about 100 (TechCrunch-sourced), 120 (Bitscale), 134 (Built In).", "page_id": 235, "source_url": "https://ghost.bitscale.ai/supio/", "confidence": "medium"},
+     {"value": "110 (one aggregator); 100-person staff with plans to double (TechCrunch-based coverage).", "page_id": 219, "source_url": "https://www.supio.com/why-supio", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2021", "page_id": 219, "source_url": "https://www.supio.com/why-supio", "confidence": "medium"},
+     {"value": "2021", "page_id": 235, "source_url": "https://ghost.bitscale.ai/supio/", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Seattle", "page_id": 219, "source_url": "https://www.supio.com/why-supio", "confidence": "medium"},
+     {"value": "Seattle", "page_id": 235, "source_url": "https://ghost.bitscale.ai/supio/", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Seattle", "is_hq": true, "page_id": 219, "source_url": "https://www.supio.com/why-supio"},
+   {"value": "Seattle", "is_hq": true, "page_id": 235, "source_url": "https://ghost.bitscale.ai/supio/"}
+ ]}

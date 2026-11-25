@@ -1,0 +1,44 @@
+{"domain": "honeycomb.io", "name": "Honeycomb",
+ "fields": {
+   "description": [
+     {"value": "Honeycomb is an observability platform for software engineering teams, marketed as 'AI-ready'. It helps teams trace distributed services, debug production issues, and monitor AI and LLM workloads.", "page_id": 256, "source_url": "https://www.honeycomb.io", "confidence": "high"},
+     {"value": "Honeycomb is a private American software company based in San Francisco, California. It is an observability and application performance management (APM) platform for debugging live applications, especially microservice architectures.", "page_id": 257, "source_url": "https://en.wikipedia.org/wiki/Honeycomb_(software_company)", "confidence": "high"},
+     {"value": "Honeycomb is a San Francisco observability company founded in 2016. Its platform is built to explore high-cardinality telemetry, and it is OpenTelemetry-native for ingestion and instrumentation.", "page_id": 228, "source_url": "https://craft.co/honeycomb", "confidence": "medium"},
+     {"value": "Honeycomb is a San Francisco observability company founded in 2016.", "page_id": 236, "source_url": "https://www.zoominfo.com/c/hound-technology-inc/408689294", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Core observability covers distributed tracing, log analytics, time-series metrics, frontend observability, a telemetry pipeline, Refinery as a Service, and private cloud deployment. AI agent observability and agentic intelligence tools include Canvas, a Honeycomb MCP server, and anomaly detection.", "page_id": 256, "source_url": "https://www.honeycomb.io", "confidence": "high"},
+     {"value": "An observability and APM platform for debugging live applications. It accepts OpenTelemetry telemetry and structured JSON, and offers metrics, tracing visualizations, and AI-assisted debugging.", "page_id": 257, "source_url": "https://en.wikipedia.org/wiki/Honeycomb_(software_company)", "confidence": "high"},
+     {"value": "Core features include BubbleUp and heatmaps for anomaly detection, distributed tracing and service maps, and Service Level Objectives. Newer AI offerings include Honeycomb Intelligence, with MCP, anomaly detection, and Canvas, plus an MCP server for AI agents.", "page_id": 228, "source_url": "https://craft.co/honeycomb", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Offers a free tier ('Start for free') and a pricing page, and emphasizes unlimited fields and users at no extra cost and predictable costs. The page gives no specific prices or plan tiers.", "page_id": 256, "source_url": "https://www.honeycomb.io", "confidence": "high"},
+     {"value": "The company sells a hosted platform. The sources found no pricing or revenue-model details.", "page_id": 228, "source_url": "https://craft.co/honeycomb", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "The page lists Slack, Intercom, Booking.com, Heroku, Duolingo, HelloFresh, and NuBank as customers.", "page_id": 256, "source_url": "https://www.honeycomb.io", "confidence": "high"},
+     {"value": "Target users are platform and infrastructure teams, backend and distributed systems engineers, SRE and DevOps teams, and AI and ML engineering teams. Listed customers include LaunchDarkly, Fender, Vanguard, CCP Games, Intercom, Booking.com, Duolingo, and Slack.", "page_id": 228, "source_url": "https://craft.co/honeycomb", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$68.1 Million (ZoomInfo)", "page_id": 236, "source_url": "https://www.zoominfo.com/c/hound-technology-inc/408689294", "confidence": "medium"},
+     {"value": "$50M (Apollo)", "page_id": 236, "source_url": "https://www.zoominfo.com/c/hound-technology-inc/408689294", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "140 Total Employees (Built In)", "page_id": 236, "source_url": "https://www.zoominfo.com/c/hound-technology-inc/408689294", "confidence": "medium"},
+     {"value": "260 employees (Apollo)", "page_id": 236, "source_url": "https://www.zoominfo.com/c/hound-technology-inc/408689294", "confidence": "medium"},
+     {"value": "201-500 employees (LinkedIn-based data, cited by one profile)", "page_id": 236, "source_url": "https://www.zoominfo.com/c/hound-technology-inc/408689294", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2016", "page_id": 257, "source_url": "https://en.wikipedia.org/wiki/Honeycomb_(software_company)", "confidence": "high"},
+     {"value": "2016", "page_id": 236, "source_url": "https://www.zoominfo.com/c/hound-technology-inc/408689294", "confidence": "medium"},
+     {"value": "2016", "page_id": 228, "source_url": "https://craft.co/honeycomb", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco, California", "page_id": 257, "source_url": "https://en.wikipedia.org/wiki/Honeycomb_(software_company)", "confidence": "high"},
+     {"value": "San Francisco", "page_id": 236, "source_url": "https://www.zoominfo.com/c/hound-technology-inc/408689294", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco, California", "is_hq": true, "page_id": 257, "source_url": "https://en.wikipedia.org/wiki/Honeycomb_(software_company)"}
+ ]}

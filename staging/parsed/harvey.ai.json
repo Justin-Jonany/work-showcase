@@ -1,0 +1,54 @@
+{"domain": "harvey.ai", "name": "Harvey",
+ "fields": {
+  "description": [
+   {"value": "Harvey is a generative AI company that builds legal software, mainly for law firms and corporate legal departments.", "page_id": 45, "source_url": "https://bitscale.ai/directory/harvey", "confidence": "medium"},
+   {"value": "San Francisco-based legal AI company, founded in 2022.", "page_id": 48, "source_url": "https://www.abajournal.com/news/article/harvey-to-expand-legal-ai-presence-with-new-chicago-office", "confidence": "medium"}
+  ],
+  "product_description": [
+   {"value": "Named offerings include an Assistant for complex legal queries, a Knowledge tool for research, a Vault for document storage and analysis, and Workflows for tasks such as contract review and due diligence.", "page_id": 45, "source_url": "https://bitscale.ai/directory/harvey", "confidence": "medium"}
+  ],
+  "business_model_description": [
+   {"value": "Subscription SaaS that licenses customized LLMs to law firms and corporate legal departments, combining per-seat licenses with custom model development fees. Sales are enterprise-only and consultative.", "page_id": 49, "source_url": "https://www.sacra.com/c/harvey", "confidence": "medium"}
+  ],
+  "customer_description": [
+   {"value": "Law firms, corporate legal departments, general counsels, legal operations teams, transactional and litigation lawyers, and professional service networks.", "page_id": 45, "source_url": "https://bitscale.ai/directory/harvey", "confidence": "medium"}
+  ],
+  "revenue": [
+   {"value": "$100M (bitscale directory listing)", "page_id": 45, "source_url": "https://bitscale.ai/directory/harvey", "confidence": "medium"},
+   {"value": "$100–500M (Dealroom range)", "page_id": 45, "source_url": "https://bitscale.ai/directory/harvey", "confidence": "medium"},
+   {"value": "$100 million ARR (announced August 2025)", "page_id": 46, "source_url": "https://www.sacra.com/c/harvey", "confidence": "medium"},
+   {"value": "above $400 million ARR (company told reporters, per one report)", "page_id": 46, "source_url": "https://www.sacra.com/c/harvey", "confidence": "medium"},
+   {"value": "$300 million ARR (May 2026, Sacra estimate)", "page_id": 46, "source_url": "https://www.sacra.com/c/harvey", "confidence": "medium"},
+   {"value": "more than $350 million annualized revenue (mid-2026, PYMNTS citing a report)", "page_id": 46, "source_url": "https://www.sacra.com/c/harvey", "confidence": "medium"},
+   {"value": "$190 million ARR (January 2026, Metronome)", "page_id": 49, "source_url": "https://www.sacra.com/c/harvey", "confidence": "medium"}
+  ],
+  "web_traffic": [
+   {"value": "about 1.33 million monthly visits (July 2026 snapshot, Autobound)", "page_id": 50, "source_url": "https://www.autobound.ai/companies/harvey/signals/harvey-ai-shows-sustained-growth-with-3-consecutive-months-005d6367", "confidence": "medium"},
+   {"value": "311,872 visits (mid-2025 snapshot, AIPure)", "page_id": 50, "source_url": "https://www.autobound.ai/companies/harvey/signals/harvey-ai-shows-sustained-growth-with-3-consecutive-months-005d6367", "confidence": "medium"},
+   {"value": "88.3K monthly organic search traffic (Instant Domain Search; search-driven visits only)", "page_id": 50, "source_url": "https://www.autobound.ai/companies/harvey/signals/harvey-ai-shows-sustained-growth-with-3-consecutive-months-005d6367", "confidence": "medium"}
+  ],
+  "employees": [
+   {"value": "1–2k (Dealroom headcount)", "page_id": 45, "source_url": "https://bitscale.ai/directory/harvey", "confidence": "medium"},
+   {"value": "373 total employees (Built In)", "page_id": 47, "source_url": "https://www.builtinchicago.org/company/harvey", "confidence": "medium"},
+   {"value": "300+ (Salestools)", "page_id": 47, "source_url": "https://www.builtinchicago.org/company/harvey", "confidence": "medium"}
+  ],
+  "founded_year": [
+   {"value": "2022", "page_id": 45, "source_url": "https://bitscale.ai/directory/harvey", "confidence": "medium"},
+   {"value": "2022 (Built In)", "page_id": 47, "source_url": "https://www.builtinchicago.org/company/harvey", "confidence": "medium"},
+   {"value": "2021 (Salestools)", "page_id": 47, "source_url": "https://www.builtinchicago.org/company/harvey", "confidence": "medium"}
+  ],
+  "headquarters": [
+   {"value": "San Francisco", "page_id": 45, "source_url": "https://bitscale.ai/directory/harvey", "confidence": "medium"},
+   {"value": "San Francisco, CA (156 2nd St, per Salestools)", "page_id": 47, "source_url": "https://www.builtinchicago.org/company/harvey", "confidence": "medium"},
+   {"value": "San Francisco", "page_id": 48, "source_url": "https://www.abajournal.com/news/article/harvey-to-expand-legal-ai-presence-with-new-chicago-office", "confidence": "medium"}
+  ]
+ },
+ "locations": [
+   {"value": "San Francisco, CA", "is_hq": true, "page_id": 47, "source_url": "https://www.builtinchicago.org/company/harvey"},
+   {"value": "New York", "is_hq": false, "page_id": 47, "source_url": "https://www.builtinchicago.org/company/harvey"},
+   {"value": "Dallas", "is_hq": false, "page_id": 48, "source_url": "https://www.abajournal.com/news/article/harvey-to-expand-legal-ai-presence-with-new-chicago-office"},
+   {"value": "Chicago", "is_hq": false, "page_id": 48, "source_url": "https://www.abajournal.com/news/article/harvey-to-expand-legal-ai-presence-with-new-chicago-office"},
+   {"value": "Boston", "is_hq": false, "page_id": 48, "source_url": "https://www.abajournal.com/news/article/harvey-to-expand-legal-ai-presence-with-new-chicago-office"},
+   {"value": "Bengaluru, India", "is_hq": false, "page_id": 48, "source_url": "https://www.abajournal.com/news/article/harvey-to-expand-legal-ai-presence-with-new-chicago-office"}
+ ]
+}

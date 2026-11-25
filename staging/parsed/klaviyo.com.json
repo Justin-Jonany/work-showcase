@@ -1,0 +1,61 @@
+{"domain": "klaviyo.com", "name": "Klaviyo",
+ "fields": {
+  "description": [
+   {"value": "A Boston-based SaaS company that sells a customer relationship management (CRM) platform with AI agent features.", "page_id": 368, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "high"},
+   {"value": "An international SaaS technology company headquartered in Boston, Massachusetts; an omnichannel CRM platform with agentic AI features.", "page_id": 103, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "high"},
+   {"value": "The autonomous B2C CRM and AI marketing platform that unifies customer data.", "page_id": 104, "source_url": "https://www.klaviyo.com/", "confidence": "high"},
+   {"value": "An AI marketing and customer service platform that the company describes as an 'autonomous B2C CRM'; it combines customer data with email, SMS, RCS, WhatsApp, and mobile push messaging.", "page_id": 367, "source_url": "https://www.klaviyo.com", "confidence": "high"},
+   {"value": "Boston-based, publicly traded B2C customer data and marketing platform, founded in 2012.", "page_id": 323, "source_url": "https://www.cbinsights.com/company/klaviyo", "confidence": "medium"}
+  ],
+  "product_description": [
+   {"value": "Composer (AI marketing agent), Customer Agent (AI support agent), and the Klaviyo Marketing, Service, Analytics, and Data Platform (CDP) modules; channels include email, SMS, RCS, WhatsApp, mobile push, and social marketing.", "page_id": 367, "source_url": "https://www.klaviyo.com", "confidence": "high"},
+   {"value": "Composer AI marketing agent; Customer Agent 24/7 customer service; Klaviyo Marketing, Service, Analytics, and Data Platform; automates email, SMS, RCS, WhatsApp, and mobile push.", "page_id": 104, "source_url": "https://www.klaviyo.com/", "confidence": "high"},
+   {"value": "Email and SMS marketing, product reviews, a customer data platform (CDP), and CRM; AI offerings include a Marketing Agent and a Customer Agent.", "page_id": 103, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "high"},
+   {"value": "Email and SMS marketing, product reviews, a CDP, and CRM tools; AI offerings include a Marketing Agent and a Customer Agent; also WhatsApp, mobile push, social media marketing, customer service automation, and data management.", "page_id": 368, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "high"},
+   {"value": "Customer profiles, automated workflows, a drag-and-drop email editor, and AI tools that suggest campaign text and images.", "page_id": 323, "source_url": "https://www.cbinsights.com/company/klaviyo", "confidence": "medium"}
+  ],
+  "business_model_description": [
+   {"value": "Software-as-a-service (SaaS).", "page_id": 368, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "high"},
+   {"value": "Free plan with core features; paid plans scale with the number of contacts and channel usage (such as email and SMS); enterprise pricing also available.", "page_id": 104, "source_url": "https://www.klaviyo.com/", "confidence": "high"},
+   {"value": "Free plan with core features; paid plans scale with the number of contacts and channel usage (such as email and SMS); enterprise pricing also available.", "page_id": 367, "source_url": "https://www.klaviyo.com", "confidence": "high"},
+   {"value": "Subscription-based, with pricing tiered by number of contacts and level of service; a secondary revenue stream comes from partner agencies and service providers.", "page_id": 323, "source_url": "https://www.cbinsights.com/company/klaviyo", "confidence": "medium"}
+  ],
+  "customer_description": [
+   {"value": "Retail and ecommerce, restaurants, health and wellness, enterprises, small businesses, agencies and tech partners, and developers; powers 205,000+ brands across 100 countries.", "page_id": 367, "source_url": "https://www.klaviyo.com", "confidence": "high"},
+   {"value": "Powering 205,000+ relationship-driven brands across 100 countries; named customers include Daily Harvest, Dollar Shave Club, Dermalogica, Hint Water, and Princess Polly.", "page_id": 104, "source_url": "https://www.klaviyo.com/", "confidence": "high"},
+   {"value": "About 196,000 merchants, most of them B2C e-commerce sellers on Shopify, WooCommerce, and PrestaShop.", "page_id": 368, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "high"},
+   {"value": "Online retailers and e-commerce platforms, many of them small businesses in e-commerce and retail; over 135,000 customers at the end of Q3 2023 (earnings call).", "page_id": 323, "source_url": "https://www.cbinsights.com/company/klaviyo", "confidence": "medium"}
+  ],
+  "revenue": [
+   {"value": "About US$1.234 billion (2025)", "page_id": 103, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "high"},
+   {"value": "US$1.234 billion (2025)", "page_id": 368, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "high"},
+   {"value": "$1.08 billion trailing twelve-month revenue (one profile)", "page_id": 323, "source_url": "https://www.cbinsights.com/company/klaviyo", "confidence": "medium"},
+   {"value": "about $937 million (third-party aggregator profile)", "page_id": 342, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "medium"},
+   {"value": "about $1.3 billion (third-party aggregator profile)", "page_id": 342, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "medium"}
+  ],
+  "web_traffic": [],
+  "employees": [
+   {"value": "2,368 (2025)", "page_id": 103, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "high"},
+   {"value": "2,368 (2025)", "page_id": 368, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "high"},
+   {"value": "2,333 (one source)", "page_id": 323, "source_url": "https://www.cbinsights.com/company/klaviyo", "confidence": "medium"},
+   {"value": "2,182 (one source)", "page_id": 323, "source_url": "https://www.cbinsights.com/company/klaviyo", "confidence": "medium"},
+   {"value": "2,368 (2025, Wikipedia and PitchBook)", "page_id": 342, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "medium"},
+   {"value": "1,815 (2023, Wikipedia)", "page_id": 342, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "medium"}
+  ],
+  "founded_year": [
+   {"value": "2012 (infobox); history section says 2013", "page_id": 103, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "high"},
+   {"value": "2012 (infobox); history section says 2013", "page_id": 368, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "high"},
+   {"value": "2012", "page_id": 323, "source_url": "https://www.cbinsights.com/company/klaviyo", "confidence": "medium"},
+   {"value": "2012 (most sources); main Wikipedia page also says 2013", "page_id": 342, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "medium"}
+  ],
+  "headquarters": [
+   {"value": "Boston, Massachusetts, United States", "page_id": 103, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "high"},
+   {"value": "Boston, Massachusetts", "page_id": 368, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "high"},
+   {"value": "Boston", "page_id": 323, "source_url": "https://www.cbinsights.com/company/klaviyo", "confidence": "medium"},
+   {"value": "Boston, Massachusetts (office at 125 Summer Street, Floor 6, Boston, MA 02111)", "page_id": 342, "source_url": "https://en.wikipedia.org/wiki/Klaviyo", "confidence": "medium"}
+  ]
+ },
+ "locations": [
+  {"value": "Boston, Massachusetts", "is_hq": true, "page_id": 368, "source_url": "https://en.wikipedia.org/wiki/Klaviyo"}
+ ]
+}

@@ -1,0 +1,40 @@
+{"domain": "decagon.ai", "name": "Decagon",
+ "fields": {
+  "description": [
+   {"value": "AI company that develops conversational AI agents for customer service.", "page_id": 95, "source_url": "https://en.wikipedia.org/wiki/Decagon_(company)", "confidence": "high"},
+   {"value": "American artificial intelligence company that develops conversational AI agents for customer service.", "page_id": 2, "source_url": "https://en.wikipedia.org/wiki/Decagon_(company)", "confidence": "medium"}
+  ],
+  "product_description": [
+   {"value": "AI agents that handle customer service interactions in chat, email, voice and SMS.", "page_id": 95, "source_url": "https://en.wikipedia.org/wiki/Decagon_(company)", "confidence": "high"},
+   {"value": "Unifies chat, voice and email within a single intelligence layer; Agent Operating Procedures (AOPs) let customers define agent workflows in natural language.", "page_id": 96, "source_url": "https://decagon.ai", "confidence": "high"}
+  ],
+  "business_model_description": [],
+  "customer_description": [
+   {"value": "Enterprises, per the company's tagline (\"concierge experiences for the world's leading enterprises\"); logos on the site include Deutsche Telekom, American Airlines, Square, Notion, Chime and Duolingo (logos inferred from image file names).", "page_id": 96, "source_url": "https://decagon.ai", "confidence": "high"}
+  ],
+  "revenue": [
+   {"value": "$5.2M in revenue (GetLatka; undated, rough unaudited figure)", "page_id": 6, "source_url": "https://getlatka.com/companies/decagon.ai/vs/samora.ai", "confidence": "medium"}
+  ],
+  "web_traffic": [],
+  "employees": [
+   {"value": "47 (GetLatka)", "page_id": 6, "source_url": "https://getlatka.com/companies/decagon.ai/vs/samora.ai", "confidence": "medium"},
+   {"value": "501–1,000 (a16z job board)", "page_id": 21, "source_url": "https://jobs.a16z.com/jobs/decagon/40107edb-55f2-4153-914e-de78e092cd5f--business-systems-manager", "confidence": "medium"},
+   {"value": "245 total employees (UnifyGTM)", "page_id": 22, "source_url": "https://www.unifygtm.com/insights-headcount/decagon", "confidence": "medium"},
+   {"value": "approximately 102 team members (Exa directory)", "page_id": 23, "source_url": "https://exa.ai/websets/directory/decagon-offices", "confidence": "medium"}
+  ],
+  "founded_year": [
+   {"value": "August 2023", "page_id": 95, "source_url": "https://en.wikipedia.org/wiki/Decagon_(company)", "confidence": "high"},
+   {"value": "August 2023", "page_id": 2, "source_url": "https://en.wikipedia.org/wiki/Decagon_(company)", "confidence": "medium"}
+  ],
+  "headquarters": [
+   {"value": "San Francisco, California", "page_id": 95, "source_url": "https://en.wikipedia.org/wiki/Decagon_(company)", "confidence": "high"},
+   {"value": "San Francisco, California", "page_id": 20, "source_url": "https://en.wikipedia.org/wiki/Decagon_(company)", "confidence": "medium"},
+   {"value": "San Francisco, CA", "page_id": 22, "source_url": "https://www.unifygtm.com/insights-headcount/decagon", "confidence": "medium"}
+  ]
+ },
+ "locations": [
+   {"value": "San Francisco, CA", "is_hq": true, "page_id": 95, "source_url": "https://en.wikipedia.org/wiki/Decagon_(company)"},
+   {"value": "New York City, NY", "is_hq": false, "page_id": 95, "source_url": "https://en.wikipedia.org/wiki/Decagon_(company)"},
+   {"value": "London, UK", "is_hq": false, "page_id": 95, "source_url": "https://en.wikipedia.org/wiki/Decagon_(company)"}
+ ]
+}

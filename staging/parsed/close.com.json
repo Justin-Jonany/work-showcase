@@ -1,0 +1,40 @@
+{"domain": "close.com", "name": "Close",
+ "fields": {
+   "description": [
+     {"value": "Close sells a CRM with built-in calling, email, SMS, automation, and AI. Its tagline is 'The CRM that sells with you.'", "page_id": 434, "source_url": "https://close.com", "confidence": "high"},
+     {"value": "A sales-focused CRM for startups and small and mid-sized businesses.", "page_id": 398, "source_url": "https://craft.co/close", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Calling, email, and SMS built into the CRM, including a dialer that moves through prioritized lead lists; AI Notes; Agents for drafting follow-ups, updating lead fields, and a Voice Agent that calls, qualifies, and books meetings; Chloe, an AI assistant; Workflows; pipeline and reporting views; 100+ integrations and an MCP server.", "page_id": 434, "source_url": "https://close.com", "confidence": "high"},
+     {"value": "Calling, email, and SMS natively inside the platform, plus follow-ups, task creation, lead routing, sales insights, and data reporting. Built-in Power Dialer and Predictive Dialer.", "page_id": 398, "source_url": "https://craft.co/close", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Software sold through self-serve sign-up (including Google sign-in); pricing and plan structure are not stated.", "page_id": 434, "source_url": "https://close.com", "confidence": "high"},
+     {"value": "SaaS product; pricing not stated in the results.", "page_id": 398, "source_url": "https://craft.co/close", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Claims 11,500+ sales teams use Close. Named customers and testimonials include Flatiron School, Sales Transformation Group, Posted, Giveffect, Sisu, OutboundSync, 6P Marketing, and followup.com (self-reported).", "page_id": 434, "source_url": "https://close.com", "confidence": "high"},
+     {"value": "Primarily serves startups and SMBs looking for a CRM that is easy to implement. Named customers include customer.io, toggl, and Hipcamp.", "page_id": 398, "source_url": "https://craft.co/close", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$13.1M in 2024 (Latka); $17M (Latka, another page); $35.6M (StartupHub estimate, range $25.4M to $47.5M); $25 Million (ZoomInfo)", "page_id": 411, "source_url": "https://getlatka.com/companies/close", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "156 (Latka); approximately 214 people on record (StartupHub); 206 (Bouncewatch); 51-200 (ZoomInfo)", "page_id": 411, "source_url": "https://getlatka.com/companies/close", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "Founded in 2013 by Steli Efti", "page_id": 398, "source_url": "https://craft.co/close", "confidence": "medium"},
+     {"value": "Founded in 2013 (most sources)", "page_id": 411, "source_url": "https://getlatka.com/companies/close", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco, CA (350 Townsend St); Palo Alto (StartupHub)", "page_id": 411, "source_url": "https://getlatka.com/companies/close", "confidence": "medium"},
+     {"value": "Jackson, Wyoming; San Francisco; Mountain View, California (sources differ)", "page_id": 398, "source_url": "https://craft.co/close", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco, CA", "is_hq": true, "page_id": 411, "source_url": "https://getlatka.com/companies/close"},
+   {"value": "Palo Alto, California", "is_hq": false, "page_id": 411, "source_url": "https://getlatka.com/companies/close"},
+   {"value": "Jackson, Wyoming", "is_hq": false, "page_id": 398, "source_url": "https://craft.co/close"},
+   {"value": "Mountain View, California", "is_hq": false, "page_id": 398, "source_url": "https://craft.co/close"}
+ ]}

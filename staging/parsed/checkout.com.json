@@ -1,0 +1,48 @@
+{"domain": "checkout.com", "name": "Checkout.com",
+ "fields": {
+   "description": [
+     {"value": "A British multinational financial technology company that specializes in global digital payment processing, offering a unified payments API for enterprises.", "page_id": 283, "source_url": "https://www.sacra.com/c/checkout-com", "confidence": "medium"},
+     {"value": "A global payment services provider that handles online payment acceptance, moves and manages money, and uses AI to improve payment performance. It targets enterprise businesses.", "page_id": 327, "source_url": "https://www.checkout.com", "confidence": "high"},
+     {"value": "Checkout.com (legally Checkout Ltd.) is a private fintech company.", "page_id": 328, "source_url": "https://en.wikipedia.org/wiki/Checkout.com", "confidence": "high"}
+   ],
+   "product_description": [
+     {"value": "Five product areas: Connect (online payment acceptance and checkout), Move (global money movement and digital cards), Boost (AI-driven payment optimization, including Intelligent Acceptance), Protect (fraud, risk and compliance tools) and Manage (disputes and money movement oversight).", "page_id": 327, "source_url": "https://www.checkout.com", "confidence": "high"},
+     {"value": "Payment processing as a gateway, acquirer and processor, including Flow, Issuing, IDV, Fraud Detection Pro, Intelligent Acceptance and Checkout Business Account.", "page_id": 328, "source_url": "https://en.wikipedia.org/wiki/Checkout.com", "confidence": "high"},
+     {"value": "Online payment acceptance, conversion optimization, risk and fraud management, card issuing, mobile payments, payment links, and treasury and FX tools. An Integrated Platforms product serves marketplaces and payment facilitators with sub-merchant onboarding, KYC/KYB, split payments and payouts.", "page_id": 283, "source_url": "https://www.sacra.com/c/checkout-com", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Revenue comes from payment processing fees, marking up the base interchange and scheme fees charged by card networks.", "page_id": 283, "source_url": "https://www.sacra.com/c/checkout-com", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Enterprise merchants. Named case studies include Microsoft, Samsung, Spotify, eBay, agoda, Uber, Pinterest and ASOS; logos also include Adidas, IKEA, Klarna and Sony.", "page_id": 327, "source_url": "https://www.checkout.com", "confidence": "high"},
+     {"value": "Customers include Netflix, eBay, Klarna, DocuSign, Uber Eats, Pinterest, Vinted, ASOS, Temu, Shein, Sony and Alibaba.", "page_id": 328, "source_url": "https://en.wikipedia.org/wiki/Checkout.com", "confidence": "high"},
+     {"value": "One source says it focuses exclusively on high-volume enterprise clients. Named clients vary by source; lists include Netflix, eBay, Spotify, Uber, Klarna, Coinbase, ASOS, Alibaba, Sony and Pinterest.", "page_id": 283, "source_url": "https://www.sacra.com/c/checkout-com", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "about $399 million (ZoomInfo)", "page_id": 298, "source_url": "https://komo.ai/directory/checkout-com", "confidence": "medium"},
+     {"value": "about $435 million (Zeliq)", "page_id": 298, "source_url": "https://komo.ai/directory/checkout-com", "confidence": "medium"},
+     {"value": "Crossed a $1 billion revenue milestone, with net revenue growth above 30% in 2025 (Komo)", "page_id": 298, "source_url": "https://komo.ai/directory/checkout-com", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "about 1,870 (GetLatka, 2024)", "page_id": 298, "source_url": "https://komo.ai/directory/checkout-com", "confidence": "medium"},
+     {"value": "about 2,000 (Komo)", "page_id": 298, "source_url": "https://komo.ai/directory/checkout-com", "confidence": "medium"},
+     {"value": "About 2,000 people", "page_id": 328, "source_url": "https://en.wikipedia.org/wiki/Checkout.com", "confidence": "high"}
+   ],
+   "founded_year": [
+     {"value": "2009 (as Opus Payments, Singapore)", "page_id": 283, "source_url": "https://www.sacra.com/c/checkout-com", "confidence": "medium"},
+     {"value": "2012", "page_id": 298, "source_url": "https://komo.ai/directory/checkout-com", "confidence": "medium"},
+     {"value": "2009 (as Opus Payments in Singapore); rebranded as Checkout.com in 2012", "page_id": 328, "source_url": "https://en.wikipedia.org/wiki/Checkout.com", "confidence": "high"}
+   ],
+   "headquarters": [
+     {"value": "London", "page_id": 283, "source_url": "https://www.sacra.com/c/checkout-com", "confidence": "medium"},
+     {"value": "London", "page_id": 298, "source_url": "https://komo.ai/directory/checkout-com", "confidence": "medium"},
+     {"value": "London, United Kingdom", "page_id": 328, "source_url": "https://en.wikipedia.org/wiki/Checkout.com", "confidence": "high"}
+   ]
+ },
+ "locations": [
+   {"value": "London, United Kingdom", "is_hq": true, "page_id": 328, "source_url": "https://en.wikipedia.org/wiki/Checkout.com"},
+   {"value": "San Francisco, California", "is_hq": false, "page_id": 328, "source_url": "https://en.wikipedia.org/wiki/Checkout.com"},
+   {"value": "Singapore", "is_hq": false, "page_id": 328, "source_url": "https://en.wikipedia.org/wiki/Checkout.com"}
+ ]
+}

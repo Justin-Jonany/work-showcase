@@ -1,0 +1,38 @@
+{"domain": "sentry.io", "name": "Sentry",
+ "fields": {
+  "description": [
+   {"value": "Sentry provides error tracking, performance monitoring, session replay, and more to help developers ship better software.", "page_id": 196, "source_url": "https://sentry.io/about/", "confidence": "high"},
+   {"value": "A San Francisco-based application monitoring company that builds an application monitoring and observability platform, which started as an open-source project.", "page_id": 438, "source_url": "https://datanyze.com/companies/sentry/412828341", "confidence": "medium"}
+  ],
+  "product_description": [
+   {"value": "Error tracking, performance monitoring, session replay, and more.", "page_id": 196, "source_url": "https://sentry.io/about/", "confidence": "high"},
+   {"value": "An MCP server, a CLI for querying issues and analyzing errors, and a REST API, plus SDK setup pages for Python and JavaScript.", "page_id": 465, "source_url": "https://sentry.io", "confidence": "high"},
+   {"value": "Error monitoring, session replay, tracing, profiling and release tracking.", "page_id": 438, "source_url": "https://datanyze.com/companies/sentry/412828341", "confidence": "medium"}
+  ],
+  "business_model_description": [],
+  "customer_description": [
+   {"value": "Used by over 4 million developers worldwide; described as an open-source application monitoring platform.", "page_id": 196, "source_url": "https://sentry.io/about/", "confidence": "high"},
+   {"value": "Serves over 4 million developers and 130,000 organizations worldwide; another directory lists 85K customers as of November 2022.", "page_id": 438, "source_url": "https://datanyze.com/companies/sentry/412828341", "confidence": "medium"}
+  ],
+  "revenue": [
+   {"value": "$93.9M (Datanyze); $47.7M (another directory)", "page_id": 438, "source_url": "https://datanyze.com/companies/sentry/412828341", "confidence": "medium"},
+   {"value": "Roughly $70 million to $128 million; Datanyze lists $93.9 million", "page_id": 451, "source_url": "https://getlatka.com/companies/sentry.io", "confidence": "medium"}
+  ],
+  "web_traffic": [],
+  "employees": [
+   {"value": "201–500 to 447 (range across directories)", "page_id": 438, "source_url": "https://datanyze.com/companies/sentry/412828341", "confidence": "medium"},
+   {"value": "About 180 (Levels.fyi) to 391 (getlatka), with 428 and 447 in other listings", "page_id": 451, "source_url": "https://getlatka.com/companies/sentry.io", "confidence": "medium"}
+  ],
+  "founded_year": [
+   {"value": "2011 (most sources)", "page_id": 438, "source_url": "https://datanyze.com/companies/sentry/412828341", "confidence": "medium"},
+   {"value": "2011 (most sources); others say 2012; one notes an earlier 2010 open-source origin", "page_id": 451, "source_url": "https://getlatka.com/companies/sentry.io", "confidence": "medium"}
+  ],
+  "headquarters": [
+   {"value": "San Francisco, California", "page_id": 438, "source_url": "https://datanyze.com/companies/sentry/412828341", "confidence": "medium"},
+   {"value": "San Francisco (most sources), with one listing at 45 Fremont St", "page_id": 451, "source_url": "https://getlatka.com/companies/sentry.io", "confidence": "medium"}
+  ]
+ },
+ "locations": [
+  {"value": "San Francisco, California", "is_hq": true, "page_id": 438, "source_url": "https://datanyze.com/companies/sentry/412828341"}
+ ]
+}

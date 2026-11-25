@@ -1,0 +1,41 @@
+{"domain": "copper.com", "name": "Copper",
+ "fields": {
+  "description": [
+   {"value": "Copper is a CRM (customer relationship management) software company. Its product is built for relationship-focused service businesses and runs inside Google Workspace, including Gmail and Google Calendar.", "page_id": 255, "source_url": "https://www.copper.com", "confidence": "high"},
+   {"value": "Copper is a Google Workspace-focused CRM, founded in 2012 and based in San Francisco.", "page_id": 231, "source_url": "https://try.copper.com/about", "confidence": "medium"}
+  ],
+  "product_description": [
+   {"value": "CRM software for contacts and leads, drag-and-drop deal pipelines, project management, email series and automation, reporting, a mobile app, and integrations with Google apps, Slack, QuickBooks, DocuSign, PandaDoc, Zapier, and an API.", "page_id": 255, "source_url": "https://www.copper.com", "confidence": "high"},
+   {"value": "CRM software for managing contacts, deals, leads, pipelines, and communications, integrated with Google Workspace.", "page_id": 231, "source_url": "https://try.copper.com/about", "confidence": "medium"}
+  ],
+  "business_model_description": [
+   {"value": "Per-seat monthly subscriptions in three tiers: Basic $29/month ($23 billed annually), Professional $69/month ($59 billed annually), Business $134/month ($99 billed annually). 14-day free trial.", "page_id": 255, "source_url": "https://www.copper.com", "confidence": "high"},
+   {"value": "Subscription fees for its CRM platform and additional services.", "page_id": 231, "source_url": "https://try.copper.com/about", "confidence": "medium"}
+  ],
+  "customer_description": [
+   {"value": "Agencies, consulting firms, commercial production companies, media and creator businesses, corporate development teams, financial services firms, and construction companies; also lists coaching and technology companies. Especially suited to small businesses and teams that already work in Google Workspace.", "page_id": 255, "source_url": "https://www.copper.com", "confidence": "high"},
+   {"value": "Agencies, consulting firms, commercial production companies, media and creators, corporate development teams, financial services, and the construction industry (per CB Insights).", "page_id": 231, "source_url": "https://try.copper.com/about", "confidence": "medium"}
+  ],
+  "revenue": [
+   {"value": "$3.3M (2020, GetLatka)", "page_id": 238, "source_url": "https://getlatka.com/companies/copper", "confidence": "medium"},
+   {"value": "$47.3 Million (ZoomInfo)", "page_id": 238, "source_url": "https://getlatka.com/companies/copper", "confidence": "medium"}
+  ],
+  "web_traffic": [],
+  "employees": [
+   {"value": "approximately 249 people (2026, GetLatka)", "page_id": 238, "source_url": "https://getlatka.com/companies/copper", "confidence": "medium"},
+   {"value": "201-500 employees (ZoomInfo)", "page_id": 238, "source_url": "https://getlatka.com/companies/copper", "confidence": "medium"},
+   {"value": "224 total employees (Built In)", "page_id": 238, "source_url": "https://getlatka.com/companies/copper", "confidence": "medium"}
+  ],
+  "founded_year": [
+   {"value": "2012", "page_id": 231, "source_url": "https://try.copper.com/about", "confidence": "medium"},
+   {"value": "2012 (GetLatka, Built In)", "page_id": 238, "source_url": "https://getlatka.com/companies/copper", "confidence": "medium"}
+  ],
+  "headquarters": [
+   {"value": "San Francisco, California", "page_id": 231, "source_url": "https://try.copper.com/about", "confidence": "medium"},
+   {"value": "San Francisco, CA (address 301 Howard St, Suite 600, per ZoomInfo)", "page_id": 238, "source_url": "https://getlatka.com/companies/copper", "confidence": "medium"}
+  ]
+ },
+ "locations": [
+  {"value": "San Francisco, California", "is_hq": true, "page_id": 231, "source_url": "https://try.copper.com/about"}
+ ]
+}

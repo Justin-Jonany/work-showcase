@@ -1,0 +1,45 @@
+{"domain": "fivetran.com", "name": "Fivetran",
+ "fields": {
+   "description": [
+     {"value": "Securely move, manage, and transform data to power analytics, operations, and AI at scale.", "page_id": 187, "source_url": "https://www.fivetran.com", "confidence": "high"},
+     {"value": "An automated data movement platform that moves and models data from sources such as SaaS apps, databases, ERPs and files into warehouses and lakes.", "page_id": 473, "source_url": "https://www.fivetran.com", "confidence": "high"},
+     {"value": "Oakland-based automated data movement company, founded in 2012, offering a managed service that moves data from SaaS apps and databases into warehouses and cloud platforms.", "page_id": 445, "source_url": "https://sacra.com/c/fivetran/", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Data movement connectors for SaaS, databases, SAP, streaming and file sources, plus custom connectors; Managed Data Lake Service delivering to Iceberg and Delta Lake; SQL-based transformations run in the destination; Activations, Hybrid Deployment, Security and Governance.", "page_id": 187, "source_url": "https://www.fivetran.com", "confidence": "high"},
+     {"value": "Connectors for SaaS, database, SAP, streaming and file sources; SQL transformations; Activations; Managed Data Lake Service for Iceberg and Delta Lake; Hybrid Deployment, Security, Governance and Extensibility (REST API).", "page_id": 473, "source_url": "https://www.fivetran.com", "confidence": "high"},
+     {"value": "A library of prebuilt connectors, fully managed ELT automation, high-volume replication and self-healing pipelines. Acquired HVR in 2021 and rebranded it as Local Data Processing for enterprise deployments.", "page_id": 445, "source_url": "https://sacra.com/c/fivetran/", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Consumption-based pricing that charges users based on the monthly active rows processed in data pipelines.", "page_id": 445, "source_url": "https://sacra.com/c/fivetran/", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Case-study customers include Pfizer, National Australia Bank, Coke One North America, Tinuiti, Paylocity, Shutterstock, LVMH and HubSpot.", "page_id": 187, "source_url": "https://www.fivetran.com", "confidence": "high"},
+     {"value": "Named customers are Pfizer, National Australia Bank, Coke One North America, Tinuiti, Paylocity, Shutterstock, LVMH and HubSpot; logos under 'Trusted by' include OpenAI, Canva, Patagonia and Volkswagen.", "page_id": 473, "source_url": "https://www.fivetran.com", "confidence": "high"},
+     {"value": "More than 6,000 customers across North America, Europe and Asia-Pacific. Early product-market fit came from tech start-ups in the Y Combinator network, and the company has since moved up-market into larger enterprises.", "page_id": 445, "source_url": "https://sacra.com/c/fivetran/", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$300M in revenue (Latka)", "page_id": 461, "source_url": "https://getlatka.com/companies/fivetran", "confidence": "medium"},
+     {"value": "Surpassed $300M ARR after crossing $200M run-rate in 2023 (Komo, citing public company releases)", "page_id": 461, "source_url": "https://getlatka.com/companies/fivetran", "confidence": "medium"},
+     {"value": "Revenue estimates of about $300M appear across several profiles", "page_id": 445, "source_url": "https://sacra.com/c/fivetran/", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "1,184 total employees (Latka)", "page_id": 461, "source_url": "https://getlatka.com/companies/fivetran", "confidence": "medium"},
+     {"value": "1,849 total employees (PitchBook)", "page_id": 461, "source_url": "https://getlatka.com/companies/fivetran", "confidence": "medium"},
+     {"value": "1,200 Total Employees (Built In)", "page_id": 461, "source_url": "https://getlatka.com/companies/fivetran", "confidence": "medium"},
+     {"value": "2,000+ reported (Komo)", "page_id": 461, "source_url": "https://getlatka.com/companies/fivetran", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2012", "page_id": 445, "source_url": "https://sacra.com/c/fivetran/", "confidence": "medium"},
+     {"value": "2012", "page_id": 461, "source_url": "https://getlatka.com/companies/fivetran", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Oakland, California", "page_id": 445, "source_url": "https://sacra.com/c/fivetran/", "confidence": "medium"},
+     {"value": "Oakland, California", "page_id": 461, "source_url": "https://getlatka.com/companies/fivetran", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "1221 Broadway, Suite 2400, Oakland, CA 94612", "is_hq": true, "page_id": 461, "source_url": "https://getlatka.com/companies/fivetran"},
+   {"value": "Oakland, California", "is_hq": true, "page_id": 445, "source_url": "https://sacra.com/c/fivetran/"}
+ ]}

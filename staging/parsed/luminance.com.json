@@ -1,0 +1,41 @@
+{"domain": "luminance.com", "name": "Luminance",
+ "fields": {
+   "description": [
+     {"value": "Luminance is a Contract Intelligence Platform that turns contract language into insights to help enterprises manage risk and find commercial value.", "page_id": 436, "source_url": "https://www.luminance.com", "confidence": "high"},
+     {"value": "Luminance is a London-headquartered legal AI company founded in 2015 by Cambridge-linked mathematicians and AI experts. It sells contract-focused AI software to law firms and corporate legal teams.", "page_id": 403, "source_url": "https://sacra.com/c/luminance/", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Negotiation applies precedent and playbooks during negotiations. Repository (Discover) turns a contract portfolio into insights on risk, obligations and commercial opportunities. Workflows (Automate) connect stakeholders, systems and actions from intake to signature.", "page_id": 436, "source_url": "https://www.luminance.com", "confidence": "high"},
+     {"value": "Built on a proprietary legal large language model and a 'Panel of Judges' multi-model approach. Tools cover AI-assisted negotiation, a document repository, a legal chatbot called 'Ask Lumi', and business-wide automation; the newer 'Lumi Go' can handle back-and-forth contract negotiation with little human input.", "page_id": 403, "source_url": "https://sacra.com/c/luminance/", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "B2B SaaS delivered through the cloud, with users typically paying subscription fees based on usage volume or number of users. Large firms usually sign enterprise license agreements, and pricing is quote-based.", "page_id": 403, "source_url": "https://sacra.com/c/luminance/", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Trusted by 1,000+ enterprises worldwide with 5,000+ users per company, across legal, procurement, finance, sales, executive, compliance and HR departments.", "page_id": 436, "source_url": "https://www.luminance.com", "confidence": "high"},
+     {"value": "Reports more than 700 organizations in 70-plus countries. Named clients include AMD, Hitachi, LG Chem, Rolls-Royce and Lamborghini, plus over a quarter of the world's top 100 law firms.", "page_id": 403, "source_url": "https://sacra.com/c/luminance/", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "Sacra estimates about $60M in annual recurring revenue at the end of 2025.", "page_id": 403, "source_url": "https://sacra.com/c/luminance/", "confidence": "medium"},
+     {"value": "Latka reports revenue reached $27.6M in 2024, while also noting an earlier $35M figure; StartupHub estimates $70.0M (range $38.1M to $115.3M, 65% confidence).", "page_id": 418, "source_url": "https://getlatka.com/companies/Luminance", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "about 198 (Built In); 458 (StartupHub); approximately 272 as of 2026 (Latka); 201-500 (komo)", "page_id": 418, "source_url": "https://getlatka.com/companies/Luminance", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2015", "page_id": 403, "source_url": "https://sacra.com/c/luminance/", "confidence": "medium"},
+     {"value": "2015", "page_id": 418, "source_url": "https://getlatka.com/companies/Luminance", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "London, United Kingdom", "page_id": 403, "source_url": "https://sacra.com/c/luminance/", "confidence": "medium"},
+     {"value": "London, United Kingdom (StartupHub, Dallas Innovates); Cambridge, United Kingdom (komo); a 2024 press release refers to a New York headquarters", "page_id": 418, "source_url": "https://getlatka.com/companies/Luminance", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "London, UK", "is_hq": true, "page_id": 403, "source_url": "https://sacra.com/c/luminance/"},
+   {"value": "London, UK", "is_hq": true, "page_id": 418, "source_url": "https://getlatka.com/companies/Luminance"},
+   {"value": "Cambridge, UK", "is_hq": false, "page_id": 418, "source_url": "https://getlatka.com/companies/Luminance"},
+   {"value": "New York, USA", "is_hq": false, "page_id": 418, "source_url": "https://getlatka.com/companies/Luminance"},
+   {"value": "Dallas, Texas, USA", "is_hq": false, "page_id": 418, "source_url": "https://dallasinnovates.com/u-k-based-legal-grade-ai-co-luminance-opens-dallas-office/"}
+ ]}

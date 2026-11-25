@@ -1,0 +1,39 @@
+{"domain": "apollo.io", "name": "Apollo.io",
+ "fields": {
+   "description": [
+     {"value": "Apollo offers an AI go-to-market (GTM) system built on three layers: Data, Intelligence, and Execution. The homepage describes it as 'one connected GTM system' for finding, reaching, and closing deals.", "page_id": 214, "source_url": "https://www.apollo.io", "confidence": "high"},
+     {"value": "Apollo is a go-to-market (GTM) platform that combines a B2B contact and company database, AI agents, and sales execution tools.", "page_id": 314, "source_url": "https://apollo.io", "confidence": "high"},
+     {"value": "Apollo.io is a sales technology company that sells a platform for prospecting, data enrichment, and sales outreach. G2 now describes it as an AI-powered go-to-market (GTM) platform with agentic features.", "page_id": 281, "source_url": "https://g2.com/products/apollo-io/discuss", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Data: Apollo Data, Waterfall Enrichment, and Apollo Profile. Intelligence: agents that research accounts, prioritize leads, write outreach, and book meetings. Execution: Workspace for prospecting, outreach, and dialing; Apollo Anywhere; and Builder Studio. Also Apollo MCP, a Chrome extension, an AI Assistant, and a Parallel Dialer.", "page_id": 214, "source_url": "https://www.apollo.io", "confidence": "high"},
+     {"value": "Apollo Data (240M+ contacts and 30M+ companies), enrichment, buying signals, and Apollo Profile; GTM Harness AI agents for research, list building, outreach, and meeting booking; Workspace, Apollo Anywhere, and Builder Studio; plus Apollo MCP, 200+ integrations, and a parallel dialer.", "page_id": 314, "source_url": "https://apollo.io", "confidence": "high"},
+     {"value": "A sales intelligence module that filters a database of over 275 million verified contacts, with CRM enrichment. Other tools include a Chrome extension, an engagement suite for outbound sequences, and API integrations.", "page_id": 281, "source_url": "https://g2.com/products/apollo-io/discuss", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Free sign-up, a demo request, and a separate pricing page; plans and pricing are not described (freemium model suggested).", "page_id": 314, "source_url": "https://apollo.io", "confidence": "low"},
+     {"value": "Subscription-based, where clients pay for access to platform features and tools, with tiered pricing based on functionality and user count.", "page_id": 281, "source_url": "https://g2.com/products/apollo-io/discuss", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Over 600,000 companies use Apollo, per the homepage. Users include sales leaders, reps, RevOps, marketers, developers, and small businesses as well as mid-market and enterprise organizations.", "page_id": 214, "source_url": "https://www.apollo.io", "confidence": "high"},
+     {"value": "Over 600,000 companies use Apollo. Users include sales leaders, reps, RevOps, marketers, developers, and small businesses as well as mid-market and enterprise organizations.", "page_id": 314, "source_url": "https://apollo.io", "confidence": "high"},
+     {"value": "Target users are sales development reps, account executives, sales leaders, and revenue operations and marketing teams. G2 says hundreds of thousands of companies use it, including Anthropic, Autodesk, and Docusign. An older profile cites nearly 9,000 paying customers; TrustRadius cites over 10,000.", "page_id": 281, "source_url": "https://g2.com/products/apollo-io/discuss", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$100M annual revenue (Apollo's own profile); $150M in 2025 (Latka); nearly $200M in annual recurring revenue (Unify GTM)", "page_id": 301, "source_url": "https://getlatka.com/companies/apolloapolloio", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "1,700 (Apollo's profile); 800 as of 2025 (Latka); 1001-5000 (Persana); 190 total (Built In); 150 (Levels.fyi)", "page_id": 301, "source_url": "https://getlatka.com/companies/apolloapolloio", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "Founded in 2015", "page_id": 281, "source_url": "https://g2.com/products/apollo-io/discuss", "confidence": "medium"},
+     {"value": "Founded in 2015", "page_id": 301, "source_url": "https://getlatka.com/companies/apolloapolloio", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco, United States", "page_id": 301, "source_url": "https://getlatka.com/companies/apolloapolloio", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco, United States", "is_hq": true, "page_id": 301, "source_url": "https://getlatka.com/companies/apolloapolloio"}
+ ]}

@@ -1,0 +1,46 @@
+{"domain": "materialize.com", "name": "Materialize",
+ "fields": {
+   "description": [
+     {"value": "Materialize describes itself as 'the live context layer for agents and apps'; it uses SQL to turn data from siloed systems into continuously updated context.", "page_id": 450, "source_url": "https://materialize.com", "confidence": "high"},
+     {"value": "Streaming SQL database company that provides a live data layer for applications and AI agents.", "page_id": 414, "source_url": "https://materialize.com/press-releases/materialize-raises-40-million-to-simplify-streaming-data-with-sql-and-speed-up-real-time-analytics/", "confidence": "medium"},
+     {"value": "Materialize describes itself as a streaming SQL database for real-time applications and live dashboards.", "page_id": 437, "source_url": "https://venturebeat.com/business/streaming-database-platform-provider-materialize-lands-60m", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Fully managed Cloud service, a Self-Managed deployment for public or private clouds, and a Local emulator for development and testing; vector pipelines that keep search indexes (Elastic, OpenSearch, Turbopuffer) current; MCP endpoints.", "page_id": 450, "source_url": "https://materialize.com", "confidence": "high"},
+     {"value": "Streaming SQL database built on the open-source Timely Dataflow and Differential Dataflow frameworks; typically deployed on streaming message queues such as Apache Kafka and works with Postgres tooling and dbt.", "page_id": 414, "source_url": "https://materialize.com/press-releases/materialize-raises-40-million-to-simplify-streaming-data-with-sql-and-speed-up-real-time-analytics/", "confidence": "medium"},
+     {"value": "Streaming SQL database for real-time applications and live dashboards.", "page_id": 437, "source_url": "https://venturebeat.com/business/streaming-database-platform-provider-materialize-lands-60m", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Commercial SaaS (managed Cloud) plus a self-managed deployment; the site links to a pricing page and offers a free trial and demos, but does not describe pricing tiers.", "page_id": 450, "source_url": "https://materialize.com", "confidence": "low"}
+   ],
+   "customer_description": [
+     {"value": "Logos shown include Notion, Crane, Bilt, PrizePicks, Fubo, Neo Financial, Mercari, General Mills, Day AI, Ryder and Zepz; reported results for Bilt, Neo Financial, Vontive and Zepz.", "page_id": 450, "source_url": "https://materialize.com", "confidence": "high"},
+     {"value": "Named customers include Density (IoT space utilization company) and Kepler Cheuvreux (independent European financial services company).", "page_id": 414, "source_url": "https://materialize.com/press-releases/materialize-raises-40-million-to-simplify-streaming-data-with-sql-and-speed-up-real-time-analytics/", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "Multi-million dollar revenue company (one source, no figure given)", "page_id": 414, "source_url": "https://materialize.com/press-releases/materialize-raises-40-million-to-simplify-streaming-data-with-sql-and-speed-up-real-time-analytics/", "confidence": "medium"},
+     {"value": "Estimated revenue of $1M-$10M (Levels.fyi; collection date not stated)", "page_id": 437, "source_url": "https://venturebeat.com/business/streaming-database-platform-provider-materialize-lands-60m", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "75 total employees (Built In)", "page_id": 414, "source_url": "https://materialize.com/press-releases/materialize-raises-40-million-to-simplify-streaming-data-with-sql-and-speed-up-real-time-analytics/", "confidence": "medium"},
+     {"value": "21-100 employees (Welcome to the Jungle)", "page_id": 414, "source_url": "https://materialize.com/press-releases/materialize-raises-40-million-to-simplify-streaming-data-with-sql-and-speed-up-real-time-analytics/", "confidence": "medium"},
+     {"value": "Roughly 60 staff (around the 2021 funding round)", "page_id": 437, "source_url": "https://venturebeat.com/business/streaming-database-platform-provider-materialize-lands-60m", "confidence": "medium"},
+     {"value": "30 employees (Levels.fyi)", "page_id": 437, "source_url": "https://venturebeat.com/business/streaming-database-platform-provider-materialize-lands-60m", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "Founded in 2019.", "page_id": 414, "source_url": "https://materialize.com/press-releases/materialize-raises-40-million-to-simplify-streaming-data-with-sql-and-speed-up-real-time-analytics/", "confidence": "medium"},
+     {"value": "Founded in February 2019 by Arjun Narayan and Frank McSherry.", "page_id": 437, "source_url": "https://venturebeat.com/business/streaming-database-platform-provider-materialize-lands-60m", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "New York", "page_id": 414, "source_url": "https://materialize.com/press-releases/materialize-raises-40-million-to-simplify-streaming-data-with-sql-and-speed-up-real-time-analytics/", "confidence": "medium"},
+     {"value": "New York City (Slack's former office)", "page_id": 437, "source_url": "https://venturebeat.com/business/streaming-database-platform-provider-materialize-lands-60m", "confidence": "medium"},
+     {"value": "Financial District, New York, NY (job listing)", "page_id": 437, "source_url": "https://venturebeat.com/business/streaming-database-platform-provider-materialize-lands-60m", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "New York", "is_hq": true, "page_id": 414, "source_url": "https://materialize.com/press-releases/materialize-raises-40-million-to-simplify-streaming-data-with-sql-and-speed-up-real-time-analytics/"},
+   {"value": "New York City", "is_hq": true, "page_id": 437, "source_url": "https://venturebeat.com/business/streaming-database-platform-provider-materialize-lands-60m"},
+   {"value": "Financial District, New York, NY", "is_hq": true, "page_id": 437, "source_url": "https://venturebeat.com/business/streaming-database-platform-provider-materialize-lands-60m"}
+ ]
+}

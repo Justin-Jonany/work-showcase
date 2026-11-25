@@ -1,0 +1,46 @@
+{"domain": "ada.cx", "name": "Ada",
+ "fields": {
+   "description": [
+     {"value": "AI customer service agents that resolve, act, and continuously improve.", "page_id": 163, "source_url": "https://www.ada.cx", "confidence": "high"},
+     {"value": "Sells AI customer service agents for enterprises, positioned as an \"agentic customer experience platform.\"", "page_id": 384, "source_url": "https://www.ada.cx", "confidence": "high"},
+     {"value": "An AI customer service company based in Toronto, Ontario, that uses AI to help enterprises deliver quality customer service at scale.", "page_id": 345, "source_url": "https://research.contrary.com/report/ada", "confidence": "medium"},
+     {"value": "An AI-powered customer service automation platform that helps enterprises resolve customer inquiries in any language or channel.", "page_id": 363, "source_url": "https://www.getlatka.com/companies/ada", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Platform with continuous performance improvement, omnichannel multilingual deployment, open APIs and SDKs, and multi-LLM orchestration, across voice, messaging and email.", "page_id": 163, "source_url": "https://www.ada.cx", "confidence": "high"},
+     {"value": "Measure, test, coach and extend AI agents, with Ada Computer (tools for completing customer tasks), Playbooks, Integrations and Trust & Safety, across voice, messaging and email. Also Vertical Playbooks and Ada Labs.", "page_id": 384, "source_url": "https://www.ada.cx", "confidence": "high"},
+     {"value": "AI Voice, AI Messaging, AI Email and AI Agent. The agent uses OpenAI models and Ada's proprietary Reasoning Engine.", "page_id": 345, "source_url": "https://research.contrary.com/report/ada", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Sells enterprise subscriptions; pricing is not public.", "page_id": 345, "source_url": "https://research.contrary.com/report/ada", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Enterprise brands across customer service; named logos include Cebu Pacific, IPSY, Pinterest, monday.com, Sky, Barnes & Noble, Grab, Life360 and GoFundMe.", "page_id": 163, "source_url": "https://www.ada.cx", "confidence": "high"},
+     {"value": "Serves 350+ global businesses in 85+ countries, in ecommerce, financial services, gaming, health insurance, property and casualty insurance, SaaS/technology and travel. Named customers include Cebu Pacific, IPSY, Pinterest, monday.com, Sky, Barnes & Noble, Grab, Life360, GoFundMe, Brigit, Betsson, Loop Earplugs and Epos Now.", "page_id": 384, "source_url": "https://www.ada.cx", "confidence": "high"},
+     {"value": "Listed brands include Square, Pinterest, Canva and monday.com.", "page_id": 345, "source_url": "https://research.contrary.com/report/ada", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$88.4M (Datanyze and ZoomInfo estimate)", "page_id": 363, "source_url": "https://www.getlatka.com/companies/ada", "confidence": "medium"},
+     {"value": "$M 70.00 (CycleDB-style estimate)", "page_id": 363, "source_url": "https://www.getlatka.com/companies/ada", "confidence": "medium"},
+     {"value": "$57.9M revenue run rate in 2023 (Latka)", "page_id": 363, "source_url": "https://www.getlatka.com/companies/ada", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "421 (Datanyze)", "page_id": 363, "source_url": "https://www.getlatka.com/companies/ada", "confidence": "medium"},
+     {"value": "421 total employees (Built In)", "page_id": 363, "source_url": "https://www.getlatka.com/companies/ada", "confidence": "medium"},
+     {"value": "385 (Latka)", "page_id": 363, "source_url": "https://www.getlatka.com/companies/ada", "confidence": "medium"},
+     {"value": "201-500 (ZoomInfo range)", "page_id": 363, "source_url": "https://www.getlatka.com/companies/ada", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2016", "page_id": 345, "source_url": "https://research.contrary.com/report/ada", "confidence": "medium"},
+     {"value": "2016 (several directory sites)", "page_id": 363, "source_url": "https://www.getlatka.com/companies/ada", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Toronto, Ontario", "page_id": 345, "source_url": "https://research.contrary.com/report/ada", "confidence": "medium"},
+     {"value": "Toronto, Canada", "page_id": 363, "source_url": "https://www.getlatka.com/companies/ada", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Toronto, Ontario, Canada", "is_hq": true, "page_id": 345, "source_url": "https://research.contrary.com/report/ada"},
+   {"value": "Toronto, Canada", "is_hq": true, "page_id": 363, "source_url": "https://www.getlatka.com/companies/ada"}
+ ]}

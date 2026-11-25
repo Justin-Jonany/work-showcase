@@ -1,0 +1,61 @@
+{"domain": "datadoghq.com", "name": "Datadog",
+ "fields": {
+  "description": [
+   {"value": "Datadog, Inc. is a U.S. software company that provides observability services for cloud-scale applications.", "page_id": 357, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "high"},
+   {"value": "Datadog, Inc. is an American company that provides an observability service for cloud-scale applications.", "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "high"},
+   {"value": "Datadog is the leading observability and security platform for the AI era.", "page_id": 193, "source_url": "https://www.datadoghq.com/about/", "confidence": "high"},
+   {"value": "Datadog sells a cloud monitoring and security platform.", "page_id": 356, "source_url": "https://www.datadoghq.com", "confidence": "high"},
+   {"value": "Describes itself in its FY2024 10-K as the observability and security platform for cloud applications.", "page_id": 322, "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155025000025/ddog-20241231.htm", "confidence": "medium"}
+  ],
+  "product_description": [
+   {"value": "Offerings are grouped under Observability, Security, Digital Experience, Software Delivery, Service Management and AI, including Infrastructure Monitoring, APM, Log Management and Cloud SIEM.", "page_id": 193, "source_url": "https://www.datadoghq.com/about/", "confidence": "high"},
+   {"value": "Observability (infrastructure, application performance, data and log monitoring), Security (code, cloud and SIEM), Digital Experience, Software Delivery, Service Management and AI agents (Bits AI).", "page_id": 356, "source_url": "https://www.datadoghq.com", "confidence": "high"},
+   {"value": "Infrastructure monitoring, network performance and device monitoring, serverless monitoring and cloud cost management, with over 750 integrations.", "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "high"},
+   {"value": "A SaaS data analytics platform for monitoring servers, databases, tools and services, including infrastructure, network, serverless monitoring and cloud cost management.", "page_id": 357, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "high"},
+   {"value": "SaaS platform spanning infrastructure monitoring, APM, log management, user experience monitoring, cloud security and software delivery.", "page_id": 322, "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155025000025/ddog-20241231.htm", "confidence": "medium"}
+  ],
+  "business_model_description": [
+   {"value": "Revenue comes from subscriptions to its cloud-based platform, sold in Pro and Enterprise tiers, with a land-and-expand model; professional services are immaterial.", "page_id": 322, "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155025000025/ddog-20241231.htm", "confidence": "medium"},
+   {"value": "Describes a subscription-style SaaS model but does not detail pricing or revenue mechanics.", "page_id": 357, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "high"}
+  ],
+  "customer_description": [
+   {"value": "Trusted globally by Fortune 500 companies and high-growth AI leaders.", "page_id": 193, "source_url": "https://www.datadoghq.com/about/", "confidence": "high"},
+   {"value": "Thousands of customers; the homepage shows only unnamed logos.", "page_id": 356, "source_url": "https://www.datadoghq.com", "confidence": "high"},
+   {"value": "Target users are engineering and operations teams; the article names no specific customers.", "page_id": 357, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "high"},
+   {"value": "Used by organizations of all sizes across a wide range of industries.", "page_id": 322, "source_url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155025000025/ddog-20241231.htm", "confidence": "medium"}
+  ],
+  "revenue": [
+   {"value": "US$3.43 billion (2025)", "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "high"},
+   {"value": "About US$3.43B (2025)", "page_id": 357, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "high"},
+   {"value": "$3.43 billion (2025), up roughly 28% year over year (hiring profile); $2.13 billion (2023, older Wikipedia data)", "page_id": 338, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "medium"}
+  ],
+  "web_traffic": [],
+  "employees": [
+   {"value": "8,100 (2025); about 6,500 in 33 countries (as of 2024, article body)", "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "high"},
+   {"value": "About 8,100 (2025, infobox); about 6,500 as of 2024 (body text)", "page_id": 357, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "high"},
+   {"value": "8,100 for 2025 (Wikipedia); 7,643 (Bitscale); 5,800 (Statvoo)", "page_id": 338, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "medium"}
+  ],
+  "founded_year": [
+   {"value": "2010", "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "high"},
+   {"value": "2010", "page_id": 357, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "high"},
+   {"value": "2010", "page_id": 338, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "medium"}
+  ],
+  "headquarters": [
+   {"value": "New York City, U.S.", "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "high"},
+   {"value": "New York City", "page_id": 357, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "high"},
+   {"value": "New York City", "page_id": 338, "source_url": "https://en.wikipedia.org/wiki/Datadog", "confidence": "medium"}
+  ]
+ },
+ "locations": [
+  {"value": "New York City, USA", "is_hq": true, "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog"},
+  {"value": "Boston, USA", "is_hq": false, "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog"},
+  {"value": "Denver, USA", "is_hq": false, "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog"},
+  {"value": "San Francisco, USA", "is_hq": false, "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog"},
+  {"value": "Paris, France", "is_hq": false, "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog"},
+  {"value": "Dublin, Ireland", "is_hq": false, "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog"},
+  {"value": "Amsterdam, Netherlands", "is_hq": false, "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog"},
+  {"value": "Sydney, Australia", "is_hq": false, "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog"},
+  {"value": "Tokyo, Japan", "is_hq": false, "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog"},
+  {"value": "Singapore", "is_hq": false, "page_id": 192, "source_url": "https://en.wikipedia.org/wiki/Datadog"}
+ ]
+}

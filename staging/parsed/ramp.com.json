@@ -1,0 +1,69 @@
+{"domain": "ramp.com", "name": "Ramp",
+ "fields": {
+   "description": [
+     {"value": "Financial operations platform for businesses that offers corporate cards, bill payments, expense and vendor management, travel booking and automated bookkeeping, all in one place.", "page_id": 13, "source_url": "https://support.ramp.com/ramp-overview", "confidence": "medium"},
+     {"value": "Spend management platform for businesses, offering corporate cards, expense management, accounts payable, accounting automation, banking, and integrations.", "page_id": 115, "source_url": "https://ramp.com", "confidence": "high"},
+     {"value": "An American financial technology company that offers corporate charge cards, expense management, and bill-payment software.", "page_id": 116, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "high"},
+     {"value": "Financial operations platform for businesses that combines corporate cards, expense management, bill payments, banking, and accounting automation.", "page_id": 268, "source_url": "https://ramp.com", "confidence": "high"},
+     {"value": "American fintech company that offers corporate charge cards, expense management, and bill-payment software. It is privately held.", "page_id": 269, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "high"},
+     {"value": "Financial operations platform that combines corporate cards with spend management, bill pay, and accounting tools.", "page_id": 226, "source_url": "https://support.ramp.com/ramp-overview", "confidence": "medium"},
+     {"value": "New York-based fintech company.", "page_id": 244, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Corporate cards, bill payments, expense and vendor management, travel booking, and automated bookkeeping.", "page_id": 13, "source_url": "https://support.ramp.com/ramp-overview", "confidence": "medium"},
+     {"value": "Cards and expense handling, bill payments and approvals, accounting automation (month-end close), business banking, global spend (cards in 30+ currencies), 200+ integrations, and newer AI products Ramp Intelligence and Policy Agents.", "page_id": 115, "source_url": "https://ramp.com", "confidence": "high"},
+     {"value": "Corporate charge cards, expense management, and bill-payment software.", "page_id": 116, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "high"},
+     {"value": "Corporate cards and expense management, accounts payable and procurement, accounting automation, banking, and global spend, plus travel, budgets, reporting, vendor management, 200+ integrations, and AI features such as Ramp Intelligence and Policy Agents.", "page_id": 268, "source_url": "https://ramp.com", "confidence": "high"},
+     {"value": "Corporate expense management platform and corporate credit cards; added procurement in 2023 and an AI tool in 2025 that checks transactions against company expense policies.", "page_id": 269, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "high"},
+     {"value": "Corporate cards with spend management, bill pay, accounting tools, travel booking and reimbursements.", "page_id": 226, "source_url": "https://support.ramp.com/ramp-overview", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Revenue comes from its finance software and card offering rather than from a single product.", "page_id": 226, "source_url": "https://support.ramp.com/ramp-overview", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "More than 85,000 businesses are cited as customers, including Notion, Shopify, Perplexity, Webflow, Glossier, Eight Sleep, Sierra, Foursquare, Virgin Voyages, Poshmark and KIPP Nashville Public Schools.", "page_id": 115, "source_url": "https://ramp.com", "confidence": "high"},
+     {"value": "85,000+ businesses use Ramp; named customers include Notion, Shopify, Perplexity, Webflow, Glossier, Eight Sleep, Sierra, Foursquare, Virgin Voyages, Poshmark, KIPP Nashville Public Schools, City of Ketchum, Idaho, and Boys & Girls Clubs of America.", "page_id": 268, "source_url": "https://ramp.com", "confidence": "high"},
+     {"value": "More than 25,000 businesses on its platform as of 2024.", "page_id": 116, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "high"},
+     {"value": "More than 25,000 businesses used the platform as of 2024.", "page_id": 269, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "high"},
+     {"value": "Customer figures vary by source and date: over 30,000 customers (earlier company page), more than 70,000 organizations (later company page), more than 45,000 companies (third-party profile).", "page_id": 13, "source_url": "https://support.ramp.com/ramp-overview", "confidence": "medium"},
+     {"value": "Customers span startups, nonprofits and large enterprises; one source lists Morning Brew, Glossier, Seed, KIPP Public Schools, Anduril, Virgin Voyages and Marqeta.", "page_id": 226, "source_url": "https://support.ramp.com/ramp-overview", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "US$1.0 billion in revenue for 2025", "page_id": 116, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "high"},
+     {"value": "About $1.0 billion in 2025", "page_id": 269, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "high"},
+     {"value": "US$1.0 billion (2025)", "page_id": 244, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "medium"},
+     {"value": "$1.4B in revenue (Latka)", "page_id": 244, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "medium"},
+     {"value": "About $1B (third-party directories)", "page_id": 226, "source_url": "https://support.ramp.com/ramp-overview", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "About 1,200 (2025)", "page_id": 116, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "high"},
+     {"value": "About 1,200 (2025)", "page_id": 269, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "high"},
+     {"value": "1,200 (2025)", "page_id": 244, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "medium"},
+     {"value": "1K - 5K (ZoomInfo)", "page_id": 244, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "medium"},
+     {"value": "3.2K team size (Latka)", "page_id": 244, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "medium"},
+     {"value": "About 1,500 (third-party directories)", "page_id": 226, "source_url": "https://support.ramp.com/ramp-overview", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "Founded in 2019", "page_id": 13, "source_url": "https://support.ramp.com/ramp-overview", "confidence": "medium"},
+     {"value": "March 2019 (formally launched February 2020)", "page_id": 116, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "high"},
+     {"value": "March 2019 (formally launched February 2020)", "page_id": 269, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "high"},
+     {"value": "March 2019 (Wikipedia)", "page_id": 244, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "medium"},
+     {"value": "Founded in 2019", "page_id": 226, "source_url": "https://support.ramp.com/ramp-overview", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "New York City", "page_id": 13, "source_url": "https://support.ramp.com/ramp-overview", "confidence": "medium"},
+     {"value": "28 West 23rd Street, Floor 2, New York, NY 10010", "page_id": 268, "source_url": "https://ramp.com", "confidence": "high"},
+     {"value": "New York City, with additional offices in Miami and San Francisco", "page_id": 116, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "high"},
+     {"value": "New York City, with offices in Miami and San Francisco", "page_id": 269, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "high"},
+     {"value": "New York", "page_id": 226, "source_url": "https://support.ramp.com/ramp-overview", "confidence": "medium"},
+     {"value": "New York City", "page_id": 244, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "New York, NY (28 West 23rd Street, Floor 2)", "is_hq": true, "page_id": 268, "source_url": "https://ramp.com"},
+   {"value": "New York City", "is_hq": true, "page_id": 116, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)"},
+   {"value": "Miami", "is_hq": false, "page_id": 116, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)"},
+   {"value": "San Francisco", "is_hq": false, "page_id": 116, "source_url": "https://en.wikipedia.org/wiki/Ramp_(company)"}
+ ]
+}

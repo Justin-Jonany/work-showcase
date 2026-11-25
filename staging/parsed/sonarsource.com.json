@@ -1,0 +1,61 @@
+{"domain": "sonarsource.com", "name": "Sonar",
+ "fields": {
+   "description": [
+     {"value": "Sonar is the global leader in code verification and automated code review. It provides the most accurate and comprehensive independent, multilayered code verification platform.", "page_id": 167, "source_url": "https://www.sonarsource.com", "confidence": "high"},
+     {"value": "Sonar is a Swiss company founded in 2008. It develops open source software and commercial software for continuous code quality and code security.", "page_id": 171, "source_url": "https://en.wikipedia.org/wiki/SonarSource", "confidence": "high"},
+     {"value": "Sonar (company) is a Swiss software company that develops open source and commercial tools for code quality and security. It was founded in 2008 in Geneva, Switzerland.", "page_id": 360, "source_url": "https://en.wikipedia.org/wiki/SonarSource", "confidence": "high"},
+     {"value": "Sonar (SonarSource) sells code verification and governance tools for human- and AI-written code.", "page_id": 359, "source_url": "https://www.sonarsource.com", "confidence": "high"},
+     {"value": "SonarSource is a Geneva-based company founded in 2008, and its main products are SonarQube (Server and Cloud), SonarLint, and SonarQube for IDE.", "page_id": 329, "source_url": "https://www.permira.com/portfolio/sonarsource/", "confidence": "medium"},
+     {"value": "SonarSource (marketed as Sonar) was founded in 2008.", "page_id": 341, "source_url": "https://www.getlatka.com/companies/sonarsource", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "A multilayered code verification platform that autonomously clears tech debt from existing codebases by opening verified, ready-to-merge pull requests. AC/DC is its methodology for ensuring AI agents operate in a trustworthy, consistent, and transparent way.", "page_id": 167, "source_url": "https://www.sonarsource.com", "confidence": "high"},
+     {"value": "The company offers three products: SonarQube Server (open core, self-hosted), SonarQube Cloud (SaaS), and SonarQube for IDE, an extension for static analysis.", "page_id": 171, "source_url": "https://en.wikipedia.org/wiki/SonarSource", "confidence": "high"},
+     {"value": "Offers SonarQube Cloud and self-managed Server editions, plus SonarQube Advanced Security, Gitar AI code review, Sonar Vortex, SonarQube Remediation Agent, and SonarQube Hunter Agent. Developer tools include SonarQube for IDE, a CLI, an MCP server, and plugins for Claude Code, Cursor, Codex, Antigravity, and GitHub Copilot CLI.", "page_id": 359, "source_url": "https://www.sonarsource.com", "confidence": "high"},
+     {"value": "SonarQube Server (self-hosted), SonarQube Cloud (SaaS), and SonarQube for IDE. They analyze code in 30+ languages with over 6,000 rules.", "page_id": 360, "source_url": "https://en.wikipedia.org/wiki/SonarSource", "confidence": "high"},
+     {"value": "Flagship SonarQube, offered as SonarQube Cloud, SonarQube Server, and SonarQube for IDE. Its IDE plugin gives real-time feedback and guidance on code quality as developers write code.", "page_id": 329, "source_url": "https://www.permira.com/portfolio/sonarsource/", "confidence": "medium"},
+     {"value": "The main products are SonarQube, SonarLint, and SonarCloud.", "page_id": 341, "source_url": "https://www.getlatka.com/companies/sonarsource", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Open core: SonarQube Server is an open core self-hosted code quality and security solution, alongside the SaaS SonarQube Cloud.", "page_id": 171, "source_url": "https://en.wikipedia.org/wiki/SonarSource", "confidence": "high"},
+     {"value": "Sold as cloud and self-managed products, plus add-ons and plugins. The page offers 'Start for free' and a 'Compare plans' link, with pricing details on a separate page.", "page_id": 359, "source_url": "https://www.sonarsource.com", "confidence": "high"},
+     {"value": "Largely open-core. Community editions are free and commercial tiers are sold on top. SonarQube Server editions are licensed per instance per year based on lines of code, and SonarQube Cloud is paid upfront for a maximum number of private lines of code.", "page_id": 329, "source_url": "https://www.permira.com/portfolio/sonarsource/", "confidence": "medium"},
+     {"value": "Offered on a subscription model.", "page_id": 341, "source_url": "https://www.getlatka.com/companies/sonarsource", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Trusted by over 7M developers and 75% of the Fortune 100. Logos include Mercedes Benz, Nvidia, and Santander.", "page_id": 167, "source_url": "https://www.sonarsource.com", "confidence": "high"},
+     {"value": "In 2017, more than 6,000 customers, including eBay, Bank of America, and BMW. As of 2025, more than 28,000 enterprise customers, including 75% of Fortune 100 companies.", "page_id": 171, "source_url": "https://en.wikipedia.org/wiki/SonarSource", "confidence": "high"},
+     {"value": "Named customers include Mercedes-Benz, Nvidia, Goldman Sachs, Santander, Kroger, Johnson & Johnson, Adobe, Barclays, NASA, Ford, and Morgan Stanley.", "page_id": 359, "source_url": "https://www.sonarsource.com", "confidence": "high"},
+     {"value": "More than 6,000 customers in 2017, including eBay, Bank of America, and BMW. As of 2025, more than 28,000 enterprise customers, including 75% of Fortune 100 companies.", "page_id": 360, "source_url": "https://en.wikipedia.org/wiki/SonarSource", "confidence": "high"},
+     {"value": "One profile cites over 6,000 customers and a Community Edition trusted by more than 200,000 organizations. Permira cites 5M+ developers and 80 Fortune 100 companies as customers.", "page_id": 329, "source_url": "https://www.permira.com/portfolio/sonarsource/", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$98.1M (2024, Latka)", "page_id": 341, "source_url": "https://www.getlatka.com/companies/sonarsource", "confidence": "medium"},
+     {"value": "$175M (Bitscale)", "page_id": 341, "source_url": "https://www.getlatka.com/companies/sonarsource", "confidence": "medium"},
+     {"value": "$500M (Datanyze)", "page_id": 341, "source_url": "https://www.getlatka.com/companies/sonarsource", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "869 (late 2025, Latka)", "page_id": 341, "source_url": "https://www.getlatka.com/companies/sonarsource", "confidence": "medium"},
+     {"value": "943 (PitchBook)", "page_id": 341, "source_url": "https://www.getlatka.com/companies/sonarsource", "confidence": "medium"},
+     {"value": "501-1,000 (Welcome to the Jungle)", "page_id": 341, "source_url": "https://www.getlatka.com/companies/sonarsource", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2008", "page_id": 171, "source_url": "https://en.wikipedia.org/wiki/SonarSource", "confidence": "high"},
+     {"value": "2008", "page_id": 360, "source_url": "https://en.wikipedia.org/wiki/SonarSource", "confidence": "high"},
+     {"value": "2008", "page_id": 329, "source_url": "https://www.permira.com/portfolio/sonarsource/", "confidence": "medium"},
+     {"value": "2008", "page_id": 341, "source_url": "https://www.getlatka.com/companies/sonarsource", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Geneva, Switzerland", "page_id": 171, "source_url": "https://en.wikipedia.org/wiki/SonarSource", "confidence": "high"},
+     {"value": "Geneva, Switzerland", "page_id": 360, "source_url": "https://en.wikipedia.org/wiki/SonarSource", "confidence": "high"},
+     {"value": "Geneva, Switzerland (several profiles)", "page_id": 341, "source_url": "https://www.getlatka.com/companies/sonarsource", "confidence": "medium"},
+     {"value": "Austin, Texas (Latka)", "page_id": 341, "source_url": "https://www.getlatka.com/companies/sonarsource", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Geneva, Switzerland", "is_hq": true, "page_id": 360, "source_url": "https://en.wikipedia.org/wiki/SonarSource"},
+   {"value": "Vernier, Geneva", "is_hq": false, "page_id": 341, "source_url": "https://www.getlatka.com/companies/sonarsource"},
+   {"value": "Austin", "is_hq": false, "page_id": 360, "source_url": "https://en.wikipedia.org/wiki/SonarSource"},
+   {"value": "Singapore", "is_hq": false, "page_id": 171, "source_url": "https://en.wikipedia.org/wiki/SonarSource"}
+ ]}

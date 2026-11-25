@@ -1,0 +1,44 @@
+{"domain": "clay.com", "name": "Clay",
+ "fields": {
+   "description": [
+     {"value": "Clay provides infrastructure for go-to-market (GTM) teams to gather data, run AI agent workflows, and launch sales and marketing plays.", "page_id": 381, "source_url": "https://clay.com", "confidence": "high"},
+     {"value": "Clay is a go-to-market (GTM) platform that combines data enrichment, workflow automation, and AI agents to help companies find, contact, and close customers.", "page_id": 340, "source_url": "https://research.contrary.com/company/clay", "confidence": "medium"},
+     {"value": "Clay is a go-to-market data tool. Teams use it to find prospects, enrich data, and automate outreach.", "page_id": 75, "source_url": "https://www.capitalg.com/portfolio/clay", "confidence": "medium"},
+     {"value": "A New York-based GTM platform founded in 2017.", "page_id": 355, "source_url": "https://sacra.com/c/clay/", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Data marketplace with access to 200+ data and AI vendors under one contract; Claygent AI research agents; a visual canvas for GTM workflows; activation integrations (ads sync to LinkedIn, Meta, and Google); waterfall and CRM enrichment; TAM sourcing; lead and account scoring; an email sequencer; and a plugin for coding agents.", "page_id": 381, "source_url": "https://clay.com", "confidence": "high"},
+     {"value": "Claygent AI research agents, waterfall enrichment, signals and intent data, a data marketplace, ads audiences, and a sequencer. Enrichment draws on over 130 data sources.", "page_id": 340, "source_url": "https://research.contrary.com/company/clay", "confidence": "medium"},
+     {"value": "Enrichment built around data from 130+ providers, workflow automation, and AI research agents.", "page_id": 355, "source_url": "https://sacra.com/c/clay/", "confidence": "medium"},
+     {"value": "Teams use it to build automated workflows that research thousands of companies, personalize outreach, and identify revenue signals.", "page_id": 75, "source_url": "https://www.capitalg.com/portfolio/clay", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Tiered pricing that scales with features and usage, with credits consumed per lookup. Reviews note unpredictable credit costs at scale are a common complaint.", "page_id": 340, "source_url": "https://research.contrary.com/company/clay", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Says it is trusted by more than 500,000 GTM teams of all sizes. Names customers including OpenAI, Anthropic, Figma, Intercom, Canva, Vanta, Rippling, Verkada, ElevenLabs, Hex, Lovable, Mistral AI, Google, Uber, Workday, and Okta.", "page_id": 381, "source_url": "https://clay.com", "confidence": "high"},
+     {"value": "Target buyers are RevOps and GTM engineering teams, plus sales, marketing, and revenue operations teams. Publishes references from Intercom, Rippling, Hex, Pendo, Sendoso, HubSpot, and Mutiny.", "page_id": 340, "source_url": "https://research.contrary.com/company/clay", "confidence": "medium"},
+     {"value": "Serves more than 14,000 customers, according to one profile.", "page_id": 355, "source_url": "https://sacra.com/c/clay/", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$150M annual recurring revenue (May 2026, Sacra estimate); $200M (Datanyze)", "page_id": 355, "source_url": "https://sacra.com/c/clay/", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "~250-500 (Komo); 500 (Datanyze); 1,001-5,000 (Simplify); ~1,400 (Apollo record, per one profile)", "page_id": 355, "source_url": "https://sacra.com/c/clay/", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "Founded in 2017 by Kareem Amin; Varun Anand joined as co-founder in 2021", "page_id": 75, "source_url": "https://www.capitalg.com/portfolio/clay", "confidence": "medium"},
+     {"value": "Founded in 2017", "page_id": 340, "source_url": "https://research.contrary.com/company/clay", "confidence": "medium"},
+     {"value": "Founded in 2017", "page_id": 355, "source_url": "https://sacra.com/c/clay/", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "New York", "page_id": 75, "source_url": "https://www.capitalg.com/portfolio/clay", "confidence": "medium"},
+     {"value": "New York", "page_id": 340, "source_url": "https://research.contrary.com/company/clay", "confidence": "medium"},
+     {"value": "New York (Datanyze, Simplify, and Sacra list a New York address)", "page_id": 355, "source_url": "https://sacra.com/c/clay/", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "New York", "is_hq": true, "page_id": 75, "source_url": "https://www.capitalg.com/portfolio/clay"},
+   {"value": "Lagos", "is_hq": false, "page_id": 381, "source_url": "https://clay.com"}
+ ]}

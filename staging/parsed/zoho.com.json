@@ -1,0 +1,58 @@
+{
+  "domain": "zoho.com",
+  "name": "Zoho Corporation",
+  "fields": {
+    "description": [
+      {"value": "An Indian multinational technology company that builds cloud-based business software, including workplace productivity and collaboration tools, CRM software and business management tools.", "page_id": 109, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "high"},
+      {"value": "An Indian, privately held technology company that makes cloud-based business software.", "page_id": 319, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "high"},
+      {"value": "A cloud software company that sells a suite of business applications.", "page_id": 317, "source_url": "https://www.zoho.com", "confidence": "high"},
+      {"value": "A privately held, bootstrapped software company that sells a broad cloud software suite, mainly on a subscription basis.", "page_id": 280, "source_url": "https://craft.co/zoho", "confidence": "medium"}
+    ],
+    "product_description": [
+      {"value": "Business apps including CRM, Mail, Creator, Books, Desk and Bigin; Catalyst for building applications; Zia Agent Studio for AI agents; and Zoho One, an all-in-one suite of 50+ applications.", "page_id": 317, "source_url": "https://www.zoho.com", "confidence": "high"},
+      {"value": "Zoho CRM, Zoho One, Zoho Workplace and Zoho Books; ManageEngine, its division, sells enterprise IT management and security software.", "page_id": 109, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "high"},
+      {"value": "Zoho CRM, Zoho One (an integrated suite of more than 45 apps), Zoho Books, Zoho Workplace, Zoho Desk, Zoho People and the Arattai messaging app; ManageEngine sells enterprise IT management and security software.", "page_id": 319, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "high"},
+      {"value": "CRM, Books (accounting), Projects, Desk (support) and Campaigns (email marketing), with about 55 products as of July 2024; Zoho One is an integrated suite that bundles them.", "page_id": 280, "source_url": "https://craft.co/zoho", "confidence": "medium"}
+    ],
+    "business_model_description": [
+      {"value": "Zoho One, an all-in-one suite, has pricing that starts at a per-user rate (the amount is not shown on the page).", "page_id": 317, "source_url": "https://www.zoho.com", "confidence": "high"},
+      {"value": "Sells its own software rather than services, mainly on a subscription basis. It has no advertising revenue model in any part of the business, including its free products. It runs a consulting partner program for outside firms that implement and support its products.", "page_id": 280, "source_url": "https://craft.co/zoho", "confidence": "medium"}
+    ],
+    "customer_description": [
+      {"value": "More than one million paying organizations and 150 million users worldwide, as of February 2026.", "page_id": 109, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "high"},
+      {"value": "More than one million paying organizations and 150 million users by February 2026, per the article.", "page_id": 319, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "high"},
+      {"value": "Named brands include IIFL, SpiceJet, L'Oréal, Amazon, Tata Play, Zomato and Max Life Insurance, with testimonials from 5paisa.com and Mercedes-Benz India.", "page_id": 317, "source_url": "https://www.zoho.com", "confidence": "high"},
+      {"value": "Targets small businesses, mid-sized companies, enterprises and home offices; a partner profile says it serves over 100 million users worldwide.", "page_id": 280, "source_url": "https://craft.co/zoho", "confidence": "medium"}
+    ],
+    "revenue": [
+      {"value": "₹12,313 crore (FY2025)", "page_id": 109, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "high"},
+      {"value": "₹12,313 crore (FY2025)", "page_id": 319, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "high"},
+      {"value": "₹12,313 crore (FY2025)", "page_id": 296, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "medium"},
+      {"value": "₹87 billion (FY2023)", "page_id": 280, "source_url": "https://craft.co/zoho", "confidence": "medium"}
+    ],
+    "web_traffic": [],
+    "employees": [
+      {"value": "18,000+ (2025)", "page_id": 109, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "high"},
+      {"value": "More than 18,000 (2025)", "page_id": 319, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "high"},
+      {"value": "19K+ employees worldwide (no year given)", "page_id": 317, "source_url": "https://www.zoho.com", "confidence": "high"},
+      {"value": "18,000+ (2025)", "page_id": 296, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "medium"}
+    ],
+    "founded_year": [
+      {"value": "1996 (as AdventNet)", "page_id": 109, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "high"},
+      {"value": "1996 (as AdventNet, Inc.)", "page_id": 319, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "high"},
+      {"value": "1996", "page_id": 296, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "medium"},
+      {"value": "1996 (formerly AdventNet)", "page_id": 280, "source_url": "https://craft.co/zoho", "confidence": "medium"}
+    ],
+    "headquarters": [
+      {"value": "Chennai, Tamil Nadu, India", "page_id": 109, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "high"},
+      {"value": "Chennai, Tamil Nadu, India", "page_id": 319, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "high"},
+      {"value": "Chennai, India", "page_id": 296, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation", "confidence": "medium"}
+    ]
+  },
+  "locations": [
+    {"value": "Chennai, Tamil Nadu, India", "is_hq": true, "page_id": 109, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation"},
+    {"value": "Del Valle, Texas, U.S.", "is_hq": false, "page_id": 319, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation"},
+    {"value": "Austin area, Texas, U.S.", "is_hq": false, "page_id": 296, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation"},
+    {"value": "Chengalpattu, India", "is_hq": false, "page_id": 296, "source_url": "https://en.wikipedia.org/wiki/Zoho_Corporation"}
+  ]
+}

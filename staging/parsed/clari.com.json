@@ -1,0 +1,48 @@
+{"domain": "clari.com", "name": "Clari",
+ "fields": {
+   "description": [
+     {"value": "Revenue operations platform that helps sales, marketing and customer success teams forecast revenue and manage pipelines. It pulls activity data from CRM, email and calendar systems and uses AI for forecasts and predictive insights.", "page_id": 26, "source_url": "https://craft.co/clari", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Sold as separate modules: Clari Forecast, Clari Copilot (add-on) and Clari Groove (add-on). All modules require a sales conversation.", "page_id": 31, "source_url": "https://www.docket.io/resources/research/clari-pricing", "confidence": "medium"},
+     {"value": "Features include deal inspection, forecasting, sales engagement, and recorded conversations.", "page_id": 26, "source_url": "https://craft.co/clari", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Primarily subscription-based, per Dealroom; sold per seat by module, with separate professional services for enterprise implementations.", "page_id": 31, "source_url": "https://www.docket.io/resources/research/clari-pricing", "confidence": "medium"},
+     {"value": "Clients pay for access to its platform and services through a subscription model.", "page_id": 26, "source_url": "https://craft.co/clari", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Named users include Okta, Adobe, Workday, Zoom and Finastra.", "page_id": 26, "source_url": "https://craft.co/clari", "confidence": "medium"},
+     {"value": "Positioned mainly for large enterprises, especially those that prioritize strict forecasting discipline.", "page_id": 31, "source_url": "https://www.docket.io/resources/research/clari-pricing", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$158.5M (2024, Latka estimate), up from $97.5M the company reported for 2023", "page_id": 27, "source_url": "https://getlatka.com/companies/clari", "confidence": "medium"}
+   ],
+   "web_traffic": [
+     {"value": "about 490.89K visits (May 2025, Semrush)", "page_id": 33, "source_url": "https://nl.semrush.com/website/clari.com/overview", "confidence": "medium"}
+   ],
+   "employees": [
+     {"value": "1,658 employees (Revelio Labs, Dec 2025)", "page_id": 28, "source_url": "https://wiza.co/d/clari/c56b", "confidence": "medium"},
+     {"value": "501-1,000 employees (Wiza, last updated May 2024)", "page_id": 28, "source_url": "https://wiza.co/d/clari/c56b", "confidence": "medium"},
+     {"value": "869 total employees (Clay, April 2025 snapshot)", "page_id": 28, "source_url": "https://wiza.co/d/clari/c56b", "confidence": "medium"},
+     {"value": "670 total employees (Built In)", "page_id": 28, "source_url": "https://wiza.co/d/clari/c56b", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2012 (Built In)", "page_id": 29, "source_url": "https://www.builtin.com/company/clari/offices", "confidence": "medium"},
+     {"value": "2013 (Salestools)", "page_id": 29, "source_url": "https://www.builtin.com/company/clari/offices", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Sunnyvale, CA", "page_id": 26, "source_url": "https://craft.co/clari", "confidence": "medium"},
+     {"value": "Sunnyvale, CA, United States", "page_id": 28, "source_url": "https://wiza.co/d/clari/c56b", "confidence": "medium"},
+     {"value": "Sunnyvale, California", "page_id": 29, "source_url": "https://www.builtin.com/company/clari/offices", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Sunnyvale, CA", "is_hq": true, "page_id": 26, "source_url": "https://craft.co/clari"},
+   {"value": "Sunnyvale, CA, United States", "is_hq": true, "page_id": 28, "source_url": "https://wiza.co/d/clari/c56b"},
+   {"value": "Sunnyvale, California", "is_hq": true, "page_id": 29, "source_url": "https://www.builtin.com/company/clari/offices"},
+   {"value": "Bengaluru, India", "is_hq": false, "page_id": 29, "source_url": "https://www.builtin.com/company/clari/offices"},
+   {"value": "Sydney, Australia", "is_hq": false, "page_id": 29, "source_url": "https://www.builtin.com/company/clari/offices"},
+   {"value": "London, UK", "is_hq": false, "page_id": 29, "source_url": "https://www.builtin.com/company/clari/offices"},
+   {"value": "Poland", "is_hq": false, "page_id": 29, "source_url": "https://www.builtin.com/company/clari/offices"}
+ ]}

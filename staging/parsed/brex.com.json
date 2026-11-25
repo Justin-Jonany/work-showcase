@@ -1,0 +1,59 @@
+{"domain": "brex.com", "name": "Brex",
+ "fields": {
+   "description": [
+     {"value": "Fintech company that sells corporate cards, business banking accounts, expense tracking and spend-management software to businesses, mainly startups and tech firms.", "page_id": 14, "source_url": "https://research.contrary.com/company/brex", "confidence": "medium"},
+     {"value": "Finance software platform that combines corporate cards, banking, expense management, travel, bill pay, and accounting automation.", "page_id": 117, "source_url": "https://www.brex.com", "confidence": "high"},
+     {"value": "San Francisco fintech that began as a corporate charge card issuer for startups and expanded into a broader financial suite.", "page_id": 285, "source_url": "https://sacra.com/c/brex/", "confidence": "medium"},
+     {"value": "Finance software platform that combines company cards, banking, expense management, and accounting.", "page_id": 325, "source_url": "https://www.brex.com", "confidence": "high"},
+     {"value": "American fintech company, now a subsidiary of Capital One, that provides business financial products to technology startups.", "page_id": 326, "source_url": "https://en.wikipedia.org/wiki/Brex", "confidence": "high"}
+   ],
+   "product_description": [
+     {"value": "Corporate credit cards, business banking accounts, and expense tracking, with integrations to accounting and finance systems and an API.", "page_id": 14, "source_url": "https://research.contrary.com/company/brex", "confidence": "medium"},
+     {"value": "Corporate cards with built-in spend controls, AI-driven expense management, in-app travel booking, AI-assisted bill pay, business banking and treasury (yields up to 4.36%), and accounting automation with ERP integrations.", "page_id": 117, "source_url": "https://www.brex.com", "confidence": "high"},
+     {"value": "Corporate card, Brex Cash cash management account, venture debt, Brex Empower spend management software, expense tracking and virtual accounts.", "page_id": 285, "source_url": "https://sacra.com/c/brex/", "confidence": "medium"},
+     {"value": "Corporate cards, expense management, travel, bill pay, banking and treasury, and accounting automation.", "page_id": 325, "source_url": "https://www.brex.com", "confidence": "high"},
+     {"value": "Credit cards, cash management accounts, and a spend management software platform; launched Brex Empower in 2022 to help employees follow expense policies.", "page_id": 326, "source_url": "https://en.wikipedia.org/wiki/Brex", "confidence": "high"}
+   ],
+   "business_model_description": [
+     {"value": "Revenue comes mainly from card transaction fees (interchange); it may also earn interest on cash management accounts.", "page_id": 14, "source_url": "https://research.contrary.com/company/brex", "confidence": "medium"},
+     {"value": "Revenue from interchange fees on card transactions and subscriptions (including Brex Premium); plans start at USD 0 per user per month, with advanced features at USD 12 per user per month (Preqin).", "page_id": 285, "source_url": "https://sacra.com/c/brex/", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Mainly startups and tech firms, spanning funded startups, mid-sized companies and enterprises.", "page_id": 14, "source_url": "https://research.contrary.com/company/brex", "confidence": "medium"},
+     {"value": "Startups, mid-size companies and enterprises; the page cites 35,000+ top companies but names none.", "page_id": 117, "source_url": "https://www.brex.com", "confidence": "high"},
+     {"value": "Startups and high-growth companies, moving upmarket to enterprise; one source cites 20,000+ clients from small startups to large enterprises and names OpenAI as an enterprise customer.", "page_id": 285, "source_url": "https://sacra.com/c/brex/", "confidence": "medium"},
+     {"value": "Startups, mid-size companies and enterprises; trusted by 35,000+ companies.", "page_id": 325, "source_url": "https://www.brex.com", "confidence": "high"},
+     {"value": "Startups, especially venture-backed ones with limited credit history; since June 2022 focused on enterprise customers after exiting the small and midsize business market.", "page_id": 326, "source_url": "https://en.wikipedia.org/wiki/Brex", "confidence": "high"}
+   ],
+   "revenue": [
+     {"value": "$721.8M (Datanyze and ZoomInfo)", "page_id": 302, "source_url": "https://en.wikipedia.org/wiki/Brex", "confidence": "medium"},
+     {"value": "$500M (GetLatka)", "page_id": 302, "source_url": "https://en.wikipedia.org/wiki/Brex", "confidence": "medium"},
+     {"value": "$500M-$1B (Levels.fyi estimate)", "page_id": 302, "source_url": "https://en.wikipedia.org/wiki/Brex", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "About 1,100 (2025)", "page_id": 326, "source_url": "https://en.wikipedia.org/wiki/Brex", "confidence": "high"},
+     {"value": "1,100 (2025, Wikipedia)", "page_id": 302, "source_url": "https://en.wikipedia.org/wiki/Brex", "confidence": "medium"},
+     {"value": "1,400 (Datanyze)", "page_id": 302, "source_url": "https://en.wikipedia.org/wiki/Brex", "confidence": "medium"},
+     {"value": "1.9K (GetLatka)", "page_id": 302, "source_url": "https://en.wikipedia.org/wiki/Brex", "confidence": "medium"},
+     {"value": "1,200 (Levels.fyi)", "page_id": 302, "source_url": "https://en.wikipedia.org/wiki/Brex", "confidence": "medium"},
+     {"value": "101-500 to 1,001-5,000 (aggregator profiles)", "page_id": 14, "source_url": "https://research.contrary.com/company/brex", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "Founded in 2017", "page_id": 14, "source_url": "https://research.contrary.com/company/brex", "confidence": "medium"},
+     {"value": "Founded in 2017", "page_id": 285, "source_url": "https://sacra.com/c/brex/", "confidence": "medium"},
+     {"value": "January 2017", "page_id": 302, "source_url": "https://en.wikipedia.org/wiki/Brex", "confidence": "medium"},
+     {"value": "January 2017", "page_id": 326, "source_url": "https://en.wikipedia.org/wiki/Brex", "confidence": "high"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco", "page_id": 14, "source_url": "https://research.contrary.com/company/brex", "confidence": "medium"},
+     {"value": "San Francisco", "page_id": 285, "source_url": "https://sacra.com/c/brex/", "confidence": "medium"},
+     {"value": "San Francisco", "page_id": 302, "source_url": "https://en.wikipedia.org/wiki/Brex", "confidence": "medium"},
+     {"value": "San Francisco, California", "page_id": 326, "source_url": "https://en.wikipedia.org/wiki/Brex", "confidence": "high"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco, California", "is_hq": true, "page_id": 326, "source_url": "https://en.wikipedia.org/wiki/Brex"},
+   {"value": "South of Market, San Francisco (about 100,000 sq ft leased in 2025)", "is_hq": false, "page_id": 326, "source_url": "https://en.wikipedia.org/wiki/Brex"}
+ ]
+}

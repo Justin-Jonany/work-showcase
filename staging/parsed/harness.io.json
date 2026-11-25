@@ -1,0 +1,46 @@
+{
+  "domain": "harness.io",
+  "name": "Harness",
+  "fields": {
+    "description": [
+      {"value": "Harness is a San Francisco-based software delivery company that uses AI agents to manage the software development lifecycle, from code commit through production, along with security, runtime protection, and cloud cost management.", "page_id": 413, "source_url": "https://www.harness.io", "confidence": "high"},
+      {"value": "A San Francisco-based, privately held company that sells an AI-driven software delivery platform.", "page_id": 386, "source_url": "https://craft.co/harness", "confidence": "medium"},
+      {"value": "An AI-driven software delivery platform company headquartered in San Francisco.", "page_id": 402, "source_url": "https://www.getlatka.com/companies/harness", "confidence": "medium"}
+    ],
+    "product_description": [
+      {"value": "Software Delivery Agent (CI/CD pipelines, builds, and deployments), Security Testing Agent (code and AI scanning, software supply chain security), Runtime Protection Agent (API and AI agent attack monitoring, AI firewall), Cost Management Agent (AI and cloud spend tracking), and Zero-day Remediation Agent.", "page_id": 413, "source_url": "https://www.harness.io", "confidence": "high"},
+      {"value": "Module lists vary by source. Gartner lists continuous integration, continuous delivery, feature flag management, cloud cost management, and chaos engineering; a longer list also includes an AI Development Assistant (AIDA).", "page_id": 386, "source_url": "https://craft.co/harness", "confidence": "medium"},
+      {"value": "CI/CD, feature flags, and cloud cost management, among other areas.", "page_id": 402, "source_url": "https://www.getlatka.com/companies/harness", "confidence": "medium"}
+    ],
+    "business_model_description": [
+      {"value": "Gartner reports a subscription-based pricing model, with pricing often based on usage or the number of resources managed within the software.", "page_id": 386, "source_url": "https://craft.co/harness", "confidence": "medium"}
+    ],
+    "customer_description": [
+      {"value": "Named customers include Citi, United Airlines, Ancestry, Morningstar, Workday, Experian, ADP, and The Home Depot.", "page_id": 413, "source_url": "https://www.harness.io", "confidence": "high"},
+      {"value": "Craft.co lists about 500 customers as of April 2024 (third-party aggregator). ZoomInfo describes the platform as trusted by leading companies.", "page_id": 386, "source_url": "https://craft.co/harness", "confidence": "medium"}
+    ],
+    "revenue": [],
+    "web_traffic": [],
+    "employees": [
+      {"value": "About 1,200", "page_id": 413, "source_url": "https://www.harness.io", "confidence": "high"},
+      {"value": "about 1,200 (PitchBook)", "page_id": 386, "source_url": "https://craft.co/harness", "confidence": "medium"},
+      {"value": "501-1,000 (Gartner and Snov.io)", "page_id": 386, "source_url": "https://craft.co/harness", "confidence": "medium"}
+    ],
+    "founded_year": [
+      {"value": "October 24, 2017", "page_id": 413, "source_url": "https://www.harness.io", "confidence": "high"},
+      {"value": "2017", "page_id": 386, "source_url": "https://craft.co/harness", "confidence": "medium"},
+      {"value": "2017 (most profiles, including Snov.io)", "page_id": 402, "source_url": "https://www.getlatka.com/companies/harness", "confidence": "medium"},
+      {"value": "2016 (Latka)", "page_id": 402, "source_url": "https://www.getlatka.com/companies/harness", "confidence": "medium"}
+    ],
+    "headquarters": [
+      {"value": "San Francisco, CA (55 Stockton Street, Floor 8)", "page_id": 413, "source_url": "https://www.harness.io", "confidence": "high"},
+      {"value": "San Francisco", "page_id": 386, "source_url": "https://craft.co/harness", "confidence": "medium"},
+      {"value": "55 Stockton Street, 8th Floor, San Francisco, CA 94108 (PitchBook)", "page_id": 402, "source_url": "https://www.getlatka.com/companies/harness", "confidence": "medium"},
+      {"value": "116 New Montgomery Street, Suite 200, San Francisco (Latka)", "page_id": 402, "source_url": "https://www.getlatka.com/companies/harness", "confidence": "medium"}
+    ]
+  },
+  "locations": [
+    {"value": "55 Stockton Street, Floor 8, San Francisco, CA 94108", "is_hq": true, "page_id": 413, "source_url": "https://www.harness.io"},
+    {"value": "116 New Montgomery Street, Suite 200, San Francisco, CA", "is_hq": true, "page_id": 402, "source_url": "https://www.getlatka.com/companies/harness"}
+  ]
+}

@@ -1,0 +1,17 @@
+{"domain": "newrelic.com", "name": "New Relic",
+ "fields": {
+   "description": [{"value": "Observability software company. Its platform collects telemetry (metrics, events, logs and traces) and turns it into insights in one interface.", "page_id": 132, "source_url": "https://newrelic.com/sites/default/files/2024-08/Final_Fact_Sheet_08_28_24.pdf", "confidence": "medium"}],
+   "product_description": [{"value": "Application performance monitoring (APM), real-user monitoring, infrastructure monitoring across public, private and hybrid cloud, Kubernetes monitoring, vulnerability management, log management, serverless monitoring, digital experience monitoring and AIOps-driven incident detection.", "page_id": 132, "source_url": "https://newrelic.com/sites/default/files/2024-08/Final_Fact_Sheet_08_28_24.pdf", "confidence": "medium"}],
+   "business_model_description": [{"value": "Usage-based pricing that bills on data ingested and number of billable users. The older product-based model is no longer generally available.", "page_id": 136, "source_url": "https://techcrunch.com/2020/07/30/new-relic-is-changing-its-pricing-model-to-encourage-broader-monitoring/", "confidence": "medium"}],
+   "customer_description": [{"value": "Mainly engineers, site reliability engineers, DevOps, security and operations teams. Named customers include Domino's and Ryanair.", "page_id": 132, "source_url": "https://newrelic.com/sites/default/files/2024-08/Final_Fact_Sheet_08_28_24.pdf", "confidence": "medium"}],
+   "revenue": [{"value": "$786 million (fiscal 2022, year ended March 31, 2022)", "page_id": 133, "source_url": "https://www.businesswire.com/news/home/20230522005781/en/New-Relic-Announces-Fourth-Quarter-and-Fiscal-Year-2023-Results", "confidence": "medium"}],
+   "web_traffic": [{"value": "1.21M visits in March (Semrush, last updated April 2025)", "page_id": 137, "source_url": "https://tr.semrush.com/website/newrelic.com/overview", "confidence": "medium"}],
+   "employees": [{"value": "2,663 employees (2023)", "page_id": 134, "source_url": "https://en.wikipedia.org/wiki/New_Relic", "confidence": "medium"}],
+   "founded_year": [{"value": "2008", "page_id": 132, "source_url": "https://newrelic.com/sites/default/files/2024-08/Final_Fact_Sheet_08_28_24.pdf", "confidence": "medium"},
+                    {"value": "2008", "page_id": 135, "source_url": "https://www.builtinchicago.org/company/new-relic/offices", "confidence": "medium"}],
+   "headquarters": [{"value": "San Francisco, California", "page_id": 132, "source_url": "https://newrelic.com/sites/default/files/2024-08/Final_Fact_Sheet_08_28_24.pdf", "confidence": "medium"},
+                    {"value": "San Francisco, California", "page_id": 134, "source_url": "https://en.wikipedia.org/wiki/New_Relic", "confidence": "medium"}]
+ },
+ "locations": [{"value": "San Francisco, California", "is_hq": true, "page_id": 132, "source_url": "https://newrelic.com/sites/default/files/2024-08/Final_Fact_Sheet_08_28_24.pdf"},
+               {"value": "Portland, Oregon", "is_hq": false, "page_id": 135, "source_url": "https://www.builtinchicago.org/company/new-relic/offices"},
+               {"value": "Atlanta, Georgia", "is_hq": false, "page_id": 135, "source_url": "https://www.builtinchicago.org/company/new-relic/offices"}]}

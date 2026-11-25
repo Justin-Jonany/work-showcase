@@ -1,0 +1,40 @@
+{"domain": "ivo.ai", "name": "Ivo AI, Inc.",
+ "fields": {
+   "description": [
+     {"value": "Ivo AI, Inc. sells AI software for contract work, aimed mainly at in-house legal teams.", "page_id": 320, "source_url": "https://www.ivo.ai", "confidence": "high"},
+     {"value": "Ivo is an AI contract review company for in-house legal teams.", "page_id": 289, "source_url": "https://www.ivo.ai/llms-info", "confidence": "medium"},
+     {"value": "Ivo is a San Francisco-based AI contract review company that was founded in New Zealand in 2021.", "page_id": 307, "source_url": "https://itbrief.co.nz/story/ivo-opens-london-new-york-hubs-amid-rapid-ai-growth", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Review checks contracts against playbooks, past agreements and deal context, and applies redlines in Microsoft Word or Google Docs. Assistant answers questions about past agreements and tracks legal changes, Intelligence connects to contract repositories and extracts data for plain-language queries, and Collaborate (newly announced) covers intake to signature.", "page_id": 320, "source_url": "https://www.ivo.ai", "confidence": "high"},
+     {"value": "Its core offering is Ivo Review, a Microsoft Word add-in that applies a company's playbooks clause-by-clause to incoming third-party paper. Other reports add a centralized repository and an AI assistant, and say it works in Google Docs too.", "page_id": 289, "source_url": "https://www.ivo.ai/llms-info", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Pricing is not public and is tailored to business needs after a demo request, which points to enterprise SaaS sales.", "page_id": 289, "source_url": "https://www.ivo.ai/llms-info", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Names Meta, Uber, IBM, Atlassian, Canva, DoorDash, Intel, Reddit, Coinbase, Pinterest, Mitsubishi, AVEVA, Whataburger, CDW and Strava as customers, and says it is the top choice for Fortune 500 legal teams.", "page_id": 320, "source_url": "https://www.ivo.ai", "confidence": "high"},
+     {"value": "Names Uber, Shopify, IBM, Atlassian, Canva, Reddit, Pinterest, CDW, Quora and Vantage Data Centers as customers. These come from Ivo's own materials, so they are self-reported.", "page_id": 289, "source_url": "https://www.ivo.ai/llms-info", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "ZoomInfo lists annual revenue of about $12.6 million (third-party estimate). Company-reported annual recurring revenue rose 600% over the past 12 months (IT Brief, March 2026).", "page_id": 307, "source_url": "https://itbrief.co.nz/story/ivo-opens-london-new-york-hubs-amid-rapid-ai-growth", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "11-50 (Promptloop, likely outdated); 51-200 (ZoomInfo); 117 (StartupHub); plans to roughly triple headcount to 180 (March 2026)", "page_id": 307, "source_url": "https://itbrief.co.nz/story/ivo-opens-london-new-york-hubs-amid-rapid-ai-growth", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2022 (per Ivo's own site); CB Insights and Craft give 2021", "page_id": 289, "source_url": "https://www.ivo.ai/llms-info", "confidence": "medium"},
+     {"value": "2021 (founded in New Zealand)", "page_id": 307, "source_url": "https://itbrief.co.nz/story/ivo-opens-london-new-york-hubs-amid-rapid-ai-growth", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco", "page_id": 289, "source_url": "https://www.ivo.ai/llms-info", "confidence": "medium"},
+     {"value": "San Francisco (headquarters later moved to the US)", "page_id": 307, "source_url": "https://itbrief.co.nz/story/ivo-opens-london-new-york-hubs-amid-rapid-ai-growth", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco, USA", "is_hq": true, "page_id": 289, "source_url": "https://www.ivo.ai/llms-info"},
+   {"value": "San Francisco, USA", "is_hq": true, "page_id": 307, "source_url": "https://itbrief.co.nz/story/ivo-opens-london-new-york-hubs-amid-rapid-ai-growth"},
+   {"value": "London, UK", "is_hq": false, "page_id": 307, "source_url": "https://itbrief.co.nz/story/ivo-opens-london-new-york-hubs-amid-rapid-ai-growth"},
+   {"value": "New York, USA", "is_hq": false, "page_id": 307, "source_url": "https://itbrief.co.nz/story/ivo-opens-london-new-york-hubs-amid-rapid-ai-growth"}
+ ]}

@@ -1,0 +1,54 @@
+{"domain": "cresta.com", "name": "Cresta",
+ "fields": {
+   "description": [
+     {"value": "Cresta calls itself \"The AI operating system for customer experience,\" letting human and AI agents work together across the customer lifecycle.", "page_id": 97, "source_url": "https://cresta.com", "confidence": "high"},
+     {"value": "Cresta describes itself as \"The AI operating system for customer experience.\" Its platform combines AI agents and human staff to handle customer conversations, automate back-office work and analyze interactions.", "page_id": 324, "source_url": "https://cresta.com", "confidence": "high"},
+     {"value": "A B2B enterprise AI platform for contact centers.", "page_id": 286, "source_url": "https://cbinsights.com/company/cresta", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Four product areas: AI Agent, Deputy Agent, Agentic Assist and Conversation Intelligence, plus Knowledge Agent and Quality Management (automated QA across 100% of conversations).", "page_id": 97, "source_url": "https://cresta.com", "confidence": "high"},
+     {"value": "AI Agent, Deputy Agent (long-running agent that automates work from intent to completion), Agentic Assist (real-time guidance for human agents), Conversation Intelligence, Knowledge Agent and Quality Management.", "page_id": 324, "source_url": "https://cresta.com", "confidence": "high"},
+     {"value": "Cresta AI Agent, agent assist, conversation intelligence, quality management and AI coaching, organized as Cresta for Agents, Cresta for Managers and Cresta for Business.", "page_id": 286, "source_url": "https://cbinsights.com/company/cresta", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "B2B enterprise software vendor. Pricing is negotiated privately, with custom pricing and private offers handled through the sales team.", "page_id": 286, "source_url": "https://cbinsights.com/company/cresta", "confidence": "medium"},
+     {"value": "Enterprise software-and-services model, inferred from the enterprise focus and AI-native transformation services; pricing is not stated.", "page_id": 324, "source_url": "https://cresta.com", "confidence": "low"}
+   ],
+   "customer_description": [
+     {"value": "Targets healthcare, travel and hospitality, airlines, financial services, retail, telecommunications, insurance, home services and automotive. Named customers include Propel Holdings, Cox, Xanterra, Vivint, AAA, CVS Health, Aptive, Alaska Airlines, Brinks Home, Marriott, Oportun, Aqua Finance, Sunbit, Achieve, United Airlines, Comcast, Optimum, Snap Finance and Windstar Cruises.", "page_id": 97, "source_url": "https://cresta.com", "confidence": "high"},
+     {"value": "Targets large enterprises in healthcare, travel and hospitality, airlines, financial services, retail, telecommunications, insurance, home services and automotive. Named customers include United Airlines, CVS Health, Marriott, Cox, Xanterra, Vivint, Alaska Airlines, Brinks Home, Optimum, Windstar Cruises, Snap Finance and Sunbit.", "page_id": 324, "source_url": "https://cresta.com", "confidence": "high"},
+     {"value": "Named customers include United Airlines, NRG, Cox Communications, CarMax, Hilton, Porsche and Vodafone. Mainly targets regulated and high-volume service environments.", "page_id": 286, "source_url": "https://cbinsights.com/company/cresta", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$52M for 2025 (Getlatka)", "page_id": 304, "source_url": "https://getlatka.com/companies/cresta", "confidence": "medium"},
+     {"value": "$100M annual recurring revenue as of April 2026 (Sacra estimate)", "page_id": 304, "source_url": "https://getlatka.com/companies/cresta", "confidence": "medium"},
+     {"value": "$100M+ (third-party aggregator)", "page_id": 286, "source_url": "https://cbinsights.com/company/cresta", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "roughly 250-500 (cyberdb.co estimate)", "page_id": 304, "source_url": "https://getlatka.com/companies/cresta", "confidence": "medium"},
+     {"value": "508 (Getlatka)", "page_id": 304, "source_url": "https://getlatka.com/companies/cresta", "confidence": "medium"},
+     {"value": "112 total employees (BuiltIn)", "page_id": 304, "source_url": "https://getlatka.com/companies/cresta", "confidence": "medium"},
+     {"value": "about 593 employees (third-party aggregator)", "page_id": 286, "source_url": "https://cbinsights.com/company/cresta", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2017", "page_id": 324, "source_url": "https://cresta.com", "confidence": "high"},
+     {"value": "2017 (several sources)", "page_id": 304, "source_url": "https://getlatka.com/companies/cresta", "confidence": "medium"},
+     {"value": "2017 (most sources)", "page_id": 286, "source_url": "https://cbinsights.com/company/cresta", "confidence": "medium"},
+     {"value": "2020 (one source)", "page_id": 286, "source_url": "https://cbinsights.com/company/cresta", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "100 South Murphy Ave Ste 300, Sunnyvale, CA 94086, US", "page_id": 97, "source_url": "https://cresta.com", "confidence": "high"},
+     {"value": "100 South Murphy Ave, Suite 300, Sunnyvale, CA 94086, USA", "page_id": 324, "source_url": "https://cresta.com", "confidence": "high"},
+     {"value": "Sunnyvale", "page_id": 286, "source_url": "https://cbinsights.com/company/cresta", "confidence": "medium"},
+     {"value": "Bay Area", "page_id": 286, "source_url": "https://cbinsights.com/company/cresta", "confidence": "medium"},
+     {"value": "Palo Alto", "page_id": 304, "source_url": "https://getlatka.com/companies/cresta", "confidence": "medium"},
+     {"value": "San Francisco (BuiltIn)", "page_id": 304, "source_url": "https://getlatka.com/companies/cresta", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Sunnyvale, CA", "is_hq": true, "page_id": 97, "source_url": "https://cresta.com"},
+   {"value": "Sunnyvale, CA", "is_hq": true, "page_id": 324, "source_url": "https://cresta.com"},
+   {"value": "Palo Alto, CA", "is_hq": false, "page_id": 304, "source_url": "https://getlatka.com/companies/cresta"},
+   {"value": "San Francisco, CA", "is_hq": false, "page_id": 304, "source_url": "https://getlatka.com/companies/cresta"}
+ ]}

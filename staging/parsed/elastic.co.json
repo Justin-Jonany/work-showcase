@@ -1,0 +1,61 @@
+{
+  "domain": "elastic.co",
+  "name": "Elastic",
+  "fields": {
+    "description": [
+      {"value": "Elastic is a Dutch-American software company offering a platform for enterprise search, observability, and cybersecurity. Its products let users search and analyze large datasets, monitor system performance, and detect anomalies.", "page_id": 208, "source_url": "https://en.wikipedia.org/wiki/Elastic_N.V.", "confidence": "high"},
+      {"value": "Elastic helps organizations get real value from their data, bringing AI models to customers' data on the open Elasticsearch foundation across Search, Observability, and Security.", "page_id": 209, "source_url": "https://www.elastic.co/about", "confidence": "high"},
+      {"value": "Elastic builds the Elastic Stack and describes Elasticsearch as 'the search database for AI.'", "page_id": 252, "source_url": "https://www.elastic.co", "confidence": "high"},
+      {"value": "Elastic is a Dutch-American software firm, formerly called Elasticsearch, that offers platforms for enterprise search, observability, and cybersecurity.", "page_id": 276, "source_url": "https://en.wikipedia.org/wiki/Elastic_NV", "confidence": "high"},
+      {"value": "Elastic N.V. is an Amsterdam-founded, publicly traded search and AI software company.", "page_id": 223, "source_url": "https://en.wikipedia.org/wiki/Elastic_NV", "confidence": "medium"}
+    ],
+    "product_description": [
+      {"value": "Elasticsearch, the core search and analytics engine (Serverless, Hosted, or self-managed), with solutions for Search, Observability, and Security, plus Kibana, Elastic Agent Builder, AutoOps, Workflows, and Jina AI search models.", "page_id": 209, "source_url": "https://www.elastic.co/about", "confidence": "high"},
+      {"value": "Three solutions: Search and AI (vector and hybrid search, reranking, RAG), Observability (logs, metrics, traces, APM, infrastructure and digital experience monitoring), and Security (SIEM, endpoint protection/XDR, security operations automation). Products include Elasticsearch, Kibana, Elastic Agent, Beats, Logstash, Elastic Agent Builder, AutoOps, Workflows, and Jina AI search models.", "page_id": 252, "source_url": "https://www.elastic.co", "confidence": "high"},
+      {"value": "Elasticsearch, Kibana, Beats, and Logstash, which together form the Elastic Stack, plus Elastic Cloud (SaaS), Elastic Cloud Enterprise, and Search AI Lake for large data lakes.", "page_id": 208, "source_url": "https://en.wikipedia.org/wiki/Elastic_N.V.", "confidence": "high"},
+      {"value": "The core is the Elasticsearch platform, which includes Kibana, Beats, and Logstash. Its three main solutions are Search & AI, Observability, and Security.", "page_id": 223, "source_url": "https://en.wikipedia.org/wiki/Elastic_NV", "confidence": "medium"}
+    ],
+    "business_model_description": [
+      {"value": "Revenue comes mainly from platform subscriptions, with resource-based pricing. Products are offered as hosted cloud services (Elastic Cloud Hosted and Serverless) and as self-managed software.", "page_id": 223, "source_url": "https://en.wikipedia.org/wiki/Elastic_NV", "confidence": "medium"},
+      {"value": "The article does not describe the business model directly. It indicates a software-licensing model with a SaaS offering (Elastic Cloud).", "page_id": 276, "source_url": "https://en.wikipedia.org/wiki/Elastic_NV", "confidence": "low"}
+    ],
+    "customer_description": [
+      {"value": "Enterprises; IT departments, DevOps teams, and security operations centers are the targeted buyers. One profile claims over 50% of the Fortune 500 use it.", "page_id": 223, "source_url": "https://en.wikipedia.org/wiki/Elastic_NV", "confidence": "medium"},
+      {"value": "Named customers include Docusign, Sitecore, Comcast, Discover, UOL, and PepsiCo; the company says over 75% of the Fortune 100 rely on Elastic.", "page_id": 209, "source_url": "https://www.elastic.co/about", "confidence": "high"},
+      {"value": "Named customers include Docusign, UOL, PepsiCo, GitHub, Wells Fargo, Dish, Siemens, and Visa; 75% of the Fortune 100 choose Elastic.", "page_id": 252, "source_url": "https://www.elastic.co", "confidence": "high"},
+      {"value": "Elasticsearch technology is reported to be used by eBay, Wikipedia, Yelp, Uber, Lyft, Tinder, and Netflix.", "page_id": 276, "source_url": "https://en.wikipedia.org/wiki/Elastic_NV", "confidence": "high"}
+    ],
+    "revenue": [
+      {"value": "About US$608 million (2021)", "page_id": 208, "source_url": "https://en.wikipedia.org/wiki/Elastic_N.V.", "confidence": "high"},
+      {"value": "US$608 million in 2021", "page_id": 276, "source_url": "https://en.wikipedia.org/wiki/Elastic_NV", "confidence": "high"},
+      {"value": "$1.267 billion (FY2024 10-K, year ended April 30, 2024)", "page_id": 239, "source_url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775324000014/estc-20240430.htm", "confidence": "medium"},
+      {"value": "$1.739 billion (most recent fiscal year, per roic.ai)", "page_id": 239, "source_url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775324000014/estc-20240430.htm", "confidence": "medium"},
+      {"value": "about $450.68 million (quarter ended April 2026, per Google Finance)", "page_id": 239, "source_url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775324000014/estc-20240430.htm", "confidence": "medium"}
+    ],
+    "web_traffic": [],
+    "employees": [
+      {"value": "About 3,403 (2025)", "page_id": 208, "source_url": "https://en.wikipedia.org/wiki/Elastic_N.V.", "confidence": "high"},
+      {"value": "3,403 (2025)", "page_id": 276, "source_url": "https://en.wikipedia.org/wiki/Elastic_NV", "confidence": "high"},
+      {"value": "3,187 employees as of April 30, 2024 (FY2024 10-K)", "page_id": 239, "source_url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775324000014/estc-20240430.htm", "confidence": "medium"},
+      {"value": "4,400 (Statvoo)", "page_id": 239, "source_url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775324000014/estc-20240430.htm", "confidence": "medium"},
+      {"value": "4.02K (Google Finance)", "page_id": 239, "source_url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775324000014/estc-20240430.htm", "confidence": "medium"},
+      {"value": "About 3,400 to 3,800, depending on the source and date", "page_id": 223, "source_url": "https://en.wikipedia.org/wiki/Elastic_NV", "confidence": "medium"}
+    ],
+    "founded_year": [
+      {"value": "2012, in Amsterdam, Netherlands (formerly called Elasticsearch)", "page_id": 208, "source_url": "https://en.wikipedia.org/wiki/Elastic_N.V.", "confidence": "high"},
+      {"value": "2012", "page_id": 276, "source_url": "https://en.wikipedia.org/wiki/Elastic_NV", "confidence": "high"},
+      {"value": "2012", "page_id": 223, "source_url": "https://en.wikipedia.org/wiki/Elastic_NV", "confidence": "medium"},
+      {"value": "February 9, 2012 (per TradingView)", "page_id": 239, "source_url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775324000014/estc-20240430.htm", "confidence": "medium"}
+    ],
+    "headquarters": [
+      {"value": "Amsterdam, Netherlands, with operational offices in San Francisco, California", "page_id": 208, "source_url": "https://en.wikipedia.org/wiki/Elastic_N.V.", "confidence": "high"},
+      {"value": "Amsterdam, Netherlands (with operational headquarters in San Francisco)", "page_id": 276, "source_url": "https://en.wikipedia.org/wiki/Elastic_NV", "confidence": "high"},
+      {"value": "Amsterdam, Netherlands", "page_id": 223, "source_url": "https://en.wikipedia.org/wiki/Elastic_NV", "confidence": "medium"},
+      {"value": "San Francisco, California (per TradingView)", "page_id": 239, "source_url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775324000014/estc-20240430.htm", "confidence": "medium"}
+    ]
+  },
+  "locations": [
+    {"value": "Amsterdam, Netherlands", "is_hq": true, "page_id": 208, "source_url": "https://en.wikipedia.org/wiki/Elastic_N.V."},
+    {"value": "San Francisco, California", "is_hq": false, "page_id": 208, "source_url": "https://en.wikipedia.org/wiki/Elastic_N.V."}
+  ]
+}

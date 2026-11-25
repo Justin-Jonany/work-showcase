@@ -1,0 +1,48 @@
+{"domain": "legora.com", "name": "Legora",
+ "fields": {
+   "description": [
+     {"value": "Legora is a legal AI company. It offers a collaborative AI platform that helps lawyers review and research faster, draft more effectively, and advise with precision.", "page_id": 254, "source_url": "https://legora.com", "confidence": "high"},
+     {"value": "Legora is a Swedish legal technology company that makes an AI platform used by law firms for contract review, legal research, and document drafting.", "page_id": 271, "source_url": "https://en.wikipedia.org/wiki/Legora", "confidence": "high"},
+     {"value": "Legora is a Stockholm-based legal AI company. It makes an AI workspace for law firms and corporate legal teams that handles document review, drafting, and research.", "page_id": 227, "source_url": "https://www.cbinsights.com/company/leya-2", "confidence": "medium"},
+     {"value": "Legora is a Stockholm-based legal AI company founded in 2023.", "page_id": 245, "source_url": "https://thenextweb.com/news/legora-series-e-550m-8-8bn-valuation", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Legora aOS is an agentic operating system for legal work that connects information, communication and legal work execution. Products include Agent, which carries out end-to-end legal work, Monitors, which scan global regulation for changes, and Word and Outlook add-ins.", "page_id": 254, "source_url": "https://legora.com", "confidence": "high"},
+     {"value": "Its platform connects to law firms' document management systems and runs AI-assisted analysis across large sets of documents. In November 2025 it added Portal, a client-facing collaboration tool.", "page_id": 271, "source_url": "https://en.wikipedia.org/wiki/Legora", "confidence": "high"},
+     {"value": "Listed offerings include a collaborative AI workspace, Legora Agent, due diligence, document review, regulatory monitoring, and LegoraOS. It uses generative and agentic AI to automate repetitive legal tasks and integrates with Microsoft Word and document management systems.", "page_id": 227, "source_url": "https://www.cbinsights.com/company/leya-2", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Makes money through enterprise subscriptions and platform contracts with law firms and corporate legal departments. One source says the FT reported average annual client charges around $100,000, and that pricing varies with firm size, seats and workflows.", "page_id": 227, "source_url": "https://www.cbinsights.com/company/leya-2", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Targets M&A, litigation, banking, tax, insurance, law firms (including mid-sized firms), in-house teams, public sector and private equity.", "page_id": 254, "source_url": "https://legora.com", "confidence": "high"},
+     {"value": "Users include international law firms White & Case, Cleary Gottlieb and Linklaters.", "page_id": 271, "source_url": "https://en.wikipedia.org/wiki/Legora", "confidence": "high"},
+     {"value": "Users are described as law firms, in-house legal departments, and M&A, litigation, banking, tax and insurance legal teams. One profile claims over 800 customers including Cleary Gottlieb, Deloitte and White & Case, from a third-party aggregator.", "page_id": 227, "source_url": "https://www.cbinsights.com/company/leya-2", "confidence": "medium"},
+     {"value": "Reports cite more than 2,400 law firms and in-house teams using the software, with more than half of the AmLaw 50 among them.", "page_id": 245, "source_url": "https://thenextweb.com/news/legora-series-e-550m-8-8bn-valuation", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "Reached $100 million in annual recurring revenue in April 2026.", "page_id": 271, "source_url": "https://en.wikipedia.org/wiki/Legora", "confidence": "high"},
+     {"value": "The company says its annual recurring revenue has passed $200 million; other reporting cites about $100 million, and the timing of those figures is unclear.", "page_id": 245, "source_url": "https://thenextweb.com/news/legora-series-e-550m-8-8bn-valuation", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "About 650 employees in June 2026; 501-1,000 employee range (another listing)", "page_id": 227, "source_url": "https://www.cbinsights.com/company/leya-2", "confidence": "medium"},
+     {"value": "More than 1,000 employees across 18 offices (one report); about 650 as of mid-2026, with a plan to reach 1,500 by year-end (FT figure); 201-500 (job listings); 101-200 (older directory)", "page_id": 245, "source_url": "https://thenextweb.com/news/legora-series-e-550m-8-8bn-valuation", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2023 (as Leya, Stockholm)", "page_id": 271, "source_url": "https://en.wikipedia.org/wiki/Legora", "confidence": "high"},
+     {"value": "founded in 2023", "page_id": 227, "source_url": "https://www.cbinsights.com/company/leya-2", "confidence": "medium"},
+     {"value": "founded in 2023", "page_id": 245, "source_url": "https://thenextweb.com/news/legora-series-e-550m-8-8bn-valuation", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Stockholm, Sweden", "page_id": 271, "source_url": "https://en.wikipedia.org/wiki/Legora", "confidence": "high"},
+     {"value": "Stockholm, Sweden (multiple sources)", "page_id": 245, "source_url": "https://thenextweb.com/news/legora-series-e-550m-8-8bn-valuation", "confidence": "medium"},
+     {"value": "Stockholm-based", "page_id": 227, "source_url": "https://www.cbinsights.com/company/leya-2", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Stockholm, Sweden", "is_hq": true, "page_id": 271, "source_url": "https://en.wikipedia.org/wiki/Legora"},
+   {"value": "New York, USA", "is_hq": false, "page_id": 271, "source_url": "https://en.wikipedia.org/wiki/Legora"},
+   {"value": "Stockholm, Sweden", "is_hq": true, "page_id": 245, "source_url": "https://thenextweb.com/news/legora-series-e-550m-8-8bn-valuation"},
+   {"value": "Stockholm", "is_hq": true, "page_id": 227, "source_url": "https://www.cbinsights.com/company/leya-2"}
+ ]}

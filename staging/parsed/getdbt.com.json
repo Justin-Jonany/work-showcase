@@ -1,0 +1,38 @@
+{"domain": "getdbt.com", "name": "dbt Labs",
+ "fields": {
+   "description": [
+     {"value": "dbt Labs empowers data teams to build reliable, governed data pipelines.", "page_id": 148, "source_url": "https://www.getdbt.com/", "confidence": "high"},
+     {"value": "dbt Labs is a Philadelphia company, founded in 2016 as Fishtown Analytics, that makes dbt (data build tool) and sells a hosted version of it.", "page_id": 8, "source_url": "https://invest.microventures.com/stock/dbt-labs", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "dbt combines SQL-based development with real-time validation. According to the site, dbt never stores your data.", "page_id": 148, "source_url": "https://www.getdbt.com/", "confidence": "high"},
+     {"value": "dbt is an open-source framework for transforming data already in a warehouse using SQL and Python. Users write SQL select statements, and dbt adds version control, testing and documentation.", "page_id": 8, "source_url": "https://invest.microventures.com/stock/dbt-labs", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "The company maintains both the open-source dbt Core project (Apache 2.0 license) and the commercial dbt Cloud managed service.", "page_id": 8, "source_url": "https://invest.microventures.com/stock/dbt-labs", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Named customers include phData, Nasdaq, Affirm, Toyota, Omni, CHG Healthcare, Siemens and Infinite Lambda.", "page_id": 148, "source_url": "https://www.getdbt.com/", "confidence": "high"},
+     {"value": "Sources differ: over 40,000 companies use dbt, while another says more than 60,000 data teams use it, including those at Siemens, Roche and Condé Nast.", "page_id": 8, "source_url": "https://invest.microventures.com/stock/dbt-labs", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "More than $100 million in annual recurring revenue (company announcement, February 2025)", "page_id": 9, "source_url": "https://sacra.com/c/dbt/", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "About 700 total employees (Built In)", "page_id": 24, "source_url": "https://builtin.com/company/dbt-labs", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2016 (as Fishtown Analytics)", "page_id": 8, "source_url": "https://invest.microventures.com/stock/dbt-labs", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Philadelphia, Pennsylvania", "page_id": 24, "source_url": "https://builtin.com/company/dbt-labs", "confidence": "medium"},
+     {"value": "Philadelphia", "page_id": 8, "source_url": "https://invest.microventures.com/stock/dbt-labs", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Philadelphia, Pennsylvania", "is_hq": true, "page_id": 24, "source_url": "https://builtin.com/company/dbt-labs"},
+   {"value": "Austin, Texas", "is_hq": false, "page_id": 24, "source_url": "https://builtin.com/company/dbt-labs"},
+   {"value": "New York, New York", "is_hq": false, "page_id": 24, "source_url": "https://builtin.com/company/dbt-labs"}
+ ]
+}

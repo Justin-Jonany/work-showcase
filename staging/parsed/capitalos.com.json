@@ -1,0 +1,40 @@
+{"domain": "capitalos.com", "name": "CapitalOS",
+ "fields": {
+   "description": [
+     {"value": "Money orchestration for B2B platforms: lets a platform's users and agents issue and use cards, pay bills and manage cash, while CapitalOS handles risk, underwriting, compliance and capital.", "page_id": 174, "source_url": "https://www.capitalos.com", "confidence": "high"},
+     {"value": "Money orchestration for B2B platforms: lets a platform's users and agents issue and use cards, pay bills and manage cash, while CapitalOS handles risk, underwriting, compliance and capital.", "page_id": 251, "source_url": "https://capitalos.com", "confidence": "high"},
+     {"value": "An embedded spend-management company for B2B platforms that offers business credit cards, expense management and bill pay to their users.", "page_id": 220, "source_url": "https://www.startuphub.ai/startups/capitalos.md", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Business credit cards, pre-funded balance cards, expense management, a business wallet that holds and grows customers' cash, AI-assisted bill pay (AP) and automated payment collection (AR).", "page_id": 174, "source_url": "https://www.capitalos.com", "confidence": "high"},
+     {"value": "Business credit cards, balance cards, expense management, a business wallet, bill pay (AP) and payment collection (AR).", "page_id": 251, "source_url": "https://capitalos.com", "confidence": "high"},
+     {"value": "Business credit cards, expense management and bill pay, offered to platform users.", "page_id": 220, "source_url": "https://www.startuphub.ai/startups/capitalos.md", "confidence": "medium"}
+   ],
+   "business_model_description": [],
+   "customer_description": [
+     {"value": "B2B platforms and their users. Customers shown include Guesty, Adaptive, Givefront, Buildium, Dentira, Gaviti, Hint Health, Workiz, Beam, Moovs, Lili, Jobox, OPAL, Restoke, RollCredits and IronLedger.", "page_id": 174, "source_url": "https://www.capitalos.com", "confidence": "high"},
+     {"value": "B2B platforms and their users. Logos shown include Guesty, Adaptive, Buildium, Dentira, Gaviti, Workiz, Beam, Moovs, Lili, OPAL and RollCredits.", "page_id": 251, "source_url": "https://capitalos.com", "confidence": "high"},
+     {"value": "B2B platforms that offer financial products such as business credit cards, expense management and bill pay to their own users.", "page_id": 220, "source_url": "https://www.startuphub.ai/startups/capitalos.md", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "about $5.1M (StartupHub estimate)", "page_id": 220, "source_url": "https://www.startuphub.ai/startups/capitalos.md", "confidence": "medium"},
+     {"value": "about $5.1M (StartupHub estimate, range $4.1M to $5.9M)", "page_id": 233, "source_url": "https://startupim.com/company/capitalos", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "17 employees (StartupHub)", "page_id": 220, "source_url": "https://www.startuphub.ai/startups/capitalos.md", "confidence": "medium"},
+     {"value": "17 employees (StartupHub)", "page_id": 233, "source_url": "https://startupim.com/company/capitalos", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2022 (StartupHub)", "page_id": 220, "source_url": "https://www.startuphub.ai/startups/capitalos.md", "confidence": "medium"},
+     {"value": "2022 (StartupHub lists August 20, 2022; CapitalOS's job page says it was founded that year)", "page_id": 233, "source_url": "https://startupim.com/company/capitalos", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco", "page_id": 220, "source_url": "https://www.startuphub.ai/startups/capitalos.md", "confidence": "medium"},
+     {"value": "San Francisco (StartupHub and VCBacked)", "page_id": 233, "source_url": "https://startupim.com/company/capitalos", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco", "is_hq": true, "page_id": 220, "source_url": "https://www.startuphub.ai/startups/capitalos.md"},
+   {"value": "San Francisco", "is_hq": true, "page_id": 233, "source_url": "https://startupim.com/company/capitalos"}
+ ]}

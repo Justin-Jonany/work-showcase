@@ -1,0 +1,46 @@
+{"domain": "snowflake.com", "name": "Snowflake Inc.",
+ "fields": {
+   "description": [
+     {"value": "Snowflake Inc. is a U.S. company that describes itself as a 'cloud-based artificial intelligence (AI) data platform company.' Its platform lets many users access the same datasets with minimal delay.", "page_id": 179, "source_url": "https://en.wikipedia.org/wiki/Snowflake_Inc.", "confidence": "high"},
+     {"value": "Snowflake helps you innovate faster and do more with your data. The platform is a fully managed service that's truly easy to use.", "page_id": 180, "source_url": "https://www.snowflake.com", "confidence": "high"},
+     {"value": "Snowflake is a cloud data platform company, founded in 2012.", "page_id": 30, "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/000162828020013010/snowflakes-1.htm", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Products on the company site include Snowflake CoCo, a governed AI coding agent, and Snowflake CoWork, a personal work agent. It also offers tools to securely create and deploy LLMs and ML models customized with your data, and Data Engineering for building reliable, continuous data pipelines.", "page_id": 180, "source_url": "https://www.snowflake.com", "confidence": "high"},
+     {"value": "The article lists the Data Cloud platform, Snowpark, Unistore, the Native App Framework, Snowpipe, the Snowflake Marketplace, Cortex generative AI services, Snowflake Intelligence and Openflow.", "page_id": 179, "source_url": "https://en.wikipedia.org/wiki/Snowflake_Inc.", "confidence": "high"},
+     {"value": "Its core product is a cloud data platform, which it markets as the Snowflake AI Data Cloud. It lets organizations store, query and share data without moving it.", "page_id": 30, "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/000162828020013010/snowflakes-1.htm", "confidence": "medium"}
+   ],
+   "business_model_description": [],
+   "customer_description": [
+     {"value": "Leading companies lead with Snowflake. Named customers include Under Armour, Novo Nordisk, United Rentals, Booking.com and Fanatics.", "page_id": 180, "source_url": "https://www.snowflake.com", "confidence": "high"},
+     {"value": "Over 9,100 accounts using Snowflake AI features.", "page_id": 179, "source_url": "https://en.wikipedia.org/wiki/Snowflake_Inc.", "confidence": "high"}
+   ],
+   "revenue": [
+     {"value": "About US$4.68 billion (2026)", "page_id": 179, "source_url": "https://en.wikipedia.org/wiki/Snowflake_Inc.", "confidence": "high"},
+     {"value": "$4.68 billion (fiscal 2026, ended January 31, 2026)", "page_id": 35, "source_url": "https://www.nasdaq.com/articles/snowflake-q4-revenue-jumps-loss-narrows", "confidence": "medium"},
+     {"value": "About $2.8 billion (2024)", "page_id": 34, "source_url": "https://wikipedia.com/wiki/Snowflake_Inc", "confidence": "medium"}
+   ],
+   "web_traffic": [
+     {"value": "About 4.8 million monthly visits (AltIndex, table covering January to June 2026)", "page_id": 37, "source_url": "https://altindex.com/ticker/snow/webtraffic", "confidence": "medium"}
+   ],
+   "employees": [
+     {"value": "9,060 (2026)", "page_id": 179, "source_url": "https://en.wikipedia.org/wiki/Snowflake_Inc.", "confidence": "high"},
+     {"value": "About 9,060 employees in 2026", "page_id": 36, "source_url": "https://en.wikipedia.org/wiki/Snowflake_Inc.", "confidence": "medium"},
+     {"value": "Roughly 7,000 employees", "page_id": 34, "source_url": "https://wikipedia.com/wiki/Snowflake_Inc", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "July 23, 2012", "page_id": 179, "source_url": "https://en.wikipedia.org/wiki/Snowflake_Inc.", "confidence": "high"},
+     {"value": "2012", "page_id": 30, "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/000162828020013010/snowflakes-1.htm", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Menlo Park, California", "page_id": 179, "source_url": "https://en.wikipedia.org/wiki/Snowflake_Inc.", "confidence": "high"},
+     {"value": "Menlo Park, California", "page_id": 36, "source_url": "https://en.wikipedia.org/wiki/Snowflake_Inc.", "confidence": "medium"},
+     {"value": "Bozeman, Montana", "page_id": 30, "source_url": "https://www.sec.gov/Archives/edgar/data/1640147/000162828020013010/snowflakes-1.htm", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Menlo Park, California", "is_hq": true, "page_id": 179, "source_url": "https://en.wikipedia.org/wiki/Snowflake_Inc."},
+   {"value": "Bozeman, Montana", "is_hq": false, "page_id": 179, "source_url": "https://en.wikipedia.org/wiki/Snowflake_Inc."},
+   {"value": "San Mateo, California", "is_hq": false, "page_id": 179, "source_url": "https://en.wikipedia.org/wiki/Snowflake_Inc."}
+ ]
+}

@@ -1,0 +1,43 @@
+{"domain": "alpha-sense.com", "name": "AlphaSense",
+ "fields": {
+   "description": [
+     {"value": "AlphaSense is a market intelligence and search platform offering AI insights with sentence-level citations.", "page_id": 424, "source_url": "https://www.alpha-sense.com", "confidence": "high"},
+     {"value": "AlphaSense is a New York-based, AI-driven market intelligence and search platform, founded in 2011 by Jack Kokko and Raj Neervannan.", "page_id": 292, "source_url": "https://alpha-sense.com/about/", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "SuperAnalyst, described as the AI analyst for financial and strategic work, monitors key topics and delivers cited outputs; the platform gives access to over 500 million premium financial and business documents, including Tegus expert transcripts.", "page_id": 162, "source_url": "https://www.alpha-sense.com", "confidence": "high"},
+     {"value": "AlphaSense Platform, SuperAnalyst, Deep Research, PowerPoint and Excel add-ins, Tegus Expert Insights and Expert Call Services, and Wall Street Insights.", "page_id": 424, "source_url": "https://www.alpha-sense.com", "confidence": "high"},
+     {"value": "Indexes equity research, company filings, event transcripts, expert calls, news and trade journals; features include semantic search, smart alerts, document summarization and collaboration tools.", "page_id": 292, "source_url": "https://alpha-sense.com/about/", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Revenue comes from subscriptions, priced by number of users, functionality needed and type of data sources included.", "page_id": 292, "source_url": "https://alpha-sense.com/about/", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Trusted by 8,000+ of the world's largest enterprises; logos include Pfizer, Microsoft, J.P. Morgan, PG&E and McKesson; case studies include Salesforce, Dow, ODDO BHF, YH2 Capital, Recurve Capital and Royalty Pharma.", "page_id": 162, "source_url": "https://www.alpha-sense.com", "confidence": "high"},
+     {"value": "Target segments include investment banking, hedge funds, private equity, asset management, venture capital, corporations, consulting, law firms and insurance; named customers include Pfizer, Microsoft, J.P. Morgan, PG&E and McKesson.", "page_id": 424, "source_url": "https://www.alpha-sense.com", "confidence": "high"},
+     {"value": "Comparison page says it serves 95% of top consultancies, 80% of top asset management firms, 20 largest pharmaceutical companies and 88% of the S&P 100.", "page_id": 292, "source_url": "https://alpha-sense.com/about/", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "Estimates vary: 400M (one profile); $295.8M (StartupHub estimate, range $249.2M to $780.8M); about $200M (third profile).", "page_id": 303, "source_url": "https://www.startuphub.ai/startups/alphasense", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "Over 1,000 (company boilerplate); 1,001 to 5,000 (Gartner); 3,173 (PitchBook); about 3,165 (StartupHub).", "page_id": 303, "source_url": "https://www.startuphub.ai/startups/alphasense", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2011", "page_id": 292, "source_url": "https://alpha-sense.com/about/", "confidence": "medium"},
+     {"value": "2011", "page_id": 303, "source_url": "https://www.startuphub.ai/startups/alphasense", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "New York City", "page_id": 303, "source_url": "https://www.startuphub.ai/startups/alphasense", "confidence": "medium"},
+     {"value": "New York", "page_id": 292, "source_url": "https://alpha-sense.com/about/", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "New York City", "is_hq": true, "page_id": 303, "source_url": "https://www.startuphub.ai/startups/alphasense"},
+   {"value": "United Kingdom", "is_hq": false, "page_id": 303, "source_url": "https://www.startuphub.ai/startups/alphasense"},
+   {"value": "Germany", "is_hq": false, "page_id": 303, "source_url": "https://www.startuphub.ai/startups/alphasense"},
+   {"value": "Finland", "is_hq": false, "page_id": 303, "source_url": "https://www.startuphub.ai/startups/alphasense"},
+   {"value": "India", "is_hq": false, "page_id": 303, "source_url": "https://www.startuphub.ai/startups/alphasense"},
+   {"value": "Singapore", "is_hq": false, "page_id": 303, "source_url": "https://www.startuphub.ai/startups/alphasense"}
+ ]}

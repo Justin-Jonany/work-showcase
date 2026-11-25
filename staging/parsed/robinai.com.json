@@ -1,0 +1,47 @@
+{"domain": "robinai.com", "name": "Robin AI",
+ "fields": {
+   "description": [
+     {"value": "Robin AI (Robin AI Limited) sells AI-powered contract software, described as a 'Legal Intelligence Platform' for enterprise legal teams.", "page_id": 477, "source_url": "https://robinai.com", "confidence": "high"},
+     {"value": "Robin AI is a legal AI platform for enterprises that reviews, analyses and finalises contracts.", "page_id": 120, "source_url": "https://robinai.com", "confidence": "high"},
+     {"value": "Robin AI is a London-based legal AI company founded in 2019 by Richard Robinson and James Clough. Its core product is an AI contract copilot for reviewing, drafting and negotiating contracts.", "page_id": 452, "source_url": "https://www.cbinsights.com/company/robin-ai", "confidence": "medium"},
+     {"value": "Robin AI is a London-headquartered legal AI company.", "page_id": 468, "source_url": "https://www.levels.fyi/companies/robin-ai", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Chat for conversations with the AI and teammates about specific documents, search for locating contracts and their key terms, obligations tracking that turns commitments into checklists with alerts, and shared Workspaces.", "page_id": 120, "source_url": "https://robinai.com", "confidence": "high"},
+     {"value": "Reviews, analyzes and helps finalize contracts. Also offers chat, search across large document sets, obligations tracking with alerts for payment deadlines, renewals and reporting duties, and synced workspaces.", "page_id": 477, "source_url": "https://robinai.com", "confidence": "high"},
+     {"value": "AI contract copilot for reviewing, drafting and negotiating contracts that integrates with Microsoft Word. Use cases include side letter management, speeding up DDQs and faster NDA turnaround.", "page_id": 452, "source_url": "https://www.cbinsights.com/company/robin-ai", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Sells AI-powered contract software, with human legal oversight as the differentiator; human legal experts validate the output. The site also links to a Managed Services offering.", "page_id": 477, "source_url": "https://robinai.com", "confidence": "high"},
+     {"value": "Sells software, with human legal oversight as the differentiator; human legal experts validate the output.", "page_id": 452, "source_url": "https://www.cbinsights.com/company/robin-ai", "confidence": "medium"},
+     {"value": "Pricing is not listed; the page only links to a demo request.", "page_id": 120, "source_url": "https://robinai.com", "confidence": "high"}
+   ],
+   "customer_description": [
+     {"value": "Main buyers are legal departments in businesses that require contract processing and management. Three-quarters of revenues reportedly come from the US.", "page_id": 452, "source_url": "https://www.cbinsights.com/company/robin-ai", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "Levels.fyi estimates $10M-$50M; Indeed gives $5M to $25M (USD); the company says revenue has grown 20x since its last fundraise, with no absolute figure given.", "page_id": 468, "source_url": "https://www.levels.fyi/companies/robin-ai", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "roughly 96 to 200 employees (sources conflict)", "page_id": 452, "source_url": "https://www.cbinsights.com/company/robin-ai", "confidence": "medium"},
+     {"value": "184 total (Built In); 101 to 150 (YourStory); 60 (Levels.fyi); 51 to 200 (Indeed)", "page_id": 468, "source_url": "https://www.levels.fyi/companies/robin-ai", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2019", "page_id": 452, "source_url": "https://www.cbinsights.com/company/robin-ai", "confidence": "medium"},
+     {"value": "2019", "page_id": 468, "source_url": "https://www.levels.fyi/companies/robin-ai", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "London, UK (London-based)", "page_id": 452, "source_url": "https://www.cbinsights.com/company/robin-ai", "confidence": "medium"},
+     {"value": "London, United Kingdom (CB Insights lists 10 Devonshire Square)", "page_id": 468, "source_url": "https://www.levels.fyi/companies/robin-ai", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "10 Devonshire Square, London", "is_hq": true, "page_id": 468, "source_url": "https://www.levels.fyi/companies/robin-ai"},
+   {"value": "London: 10 Devonshire Square, EC2M 4YP", "is_hq": false, "page_id": 120, "source_url": "https://robinai.com"},
+   {"value": "New York: 450 Park Avenue South, NY 10016", "is_hq": false, "page_id": 120, "source_url": "https://robinai.com"},
+   {"value": "Singapore: 36 Robinson Road, Level 2, 068877", "is_hq": false, "page_id": 120, "source_url": "https://robinai.com"},
+   {"value": "London (10 Devonshire Square)", "is_hq": false, "page_id": 477, "source_url": "https://robinai.com"},
+   {"value": "New York (450 Park Avenue South)", "is_hq": false, "page_id": 477, "source_url": "https://robinai.com"},
+   {"value": "Singapore (36 Robinson Road)", "is_hq": false, "page_id": 477, "source_url": "https://robinai.com"}
+ ]}

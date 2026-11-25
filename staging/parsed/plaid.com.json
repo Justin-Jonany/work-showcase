@@ -1,0 +1,57 @@
+{"domain": "plaid.com", "name": "Plaid",
+ "fields": {
+   "description": [
+     {"value": "An American financial services company in San Francisco, California, that runs a 'data transfer network' powering fintech and digital finance products.", "page_id": 82, "source_url": "https://en.wikipedia.org/wiki/Plaid_(company)", "confidence": "high"},
+     {"value": "A privately held fintech company headquartered in San Francisco that runs a data-transfer network letting financial apps connect to users' bank accounts for balance checks, payments and related services.", "page_id": 476, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "high"},
+     {"value": "A fintech infrastructure company that helps companies 'Turn data into revolutionary financial products', with real-time insights on the Plaid Network.", "page_id": 138, "source_url": "https://plaid.com", "confidence": "high"},
+     {"value": "A financial data platform that helps companies build fintech products.", "page_id": 475, "source_url": "https://plaid.com", "confidence": "high"},
+     {"value": "Runs a data network that connects bank accounts to apps.", "page_id": 455, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "medium"},
+     {"value": "A San Francisco fintech that acts as middleware between apps and users' bank accounts, and bills for that access.", "page_id": 443, "source_url": "https://sacra.com/c/plaid", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Transactions, Auth, Balance, Identity, Assets, Investments, Liabilities, Payment Initiation, Income and Monitor.", "page_id": 82, "source_url": "https://en.wikipedia.org/wiki/Plaid_(company)", "confidence": "high"},
+     {"value": "Auth, Identity, Balance, Signal, Transfer, Identity Verification, Monitor, Transactions, Investments, Liabilities, Enrich, Assets, Income, Underwriting, Plaid Link, Layer, Investments Move, Protect, Cash Advance Index, LendScore, Guarantee and Database Auth.", "page_id": 138, "source_url": "https://plaid.com", "confidence": "high"},
+     {"value": "Auth, Identity, Balance, Signal, Transfer, Identity Verification, Monitor, Transactions, Investments, Liabilities, Enrich, Assets, Income, Underwriting, Plaid Link, Layer, Investments Move, Protect, Cash Advance Index, LendScore, Guarantee and Database Auth; for financial institutions, Open Finance Solution, Core Exchange, Permissions Manager and App Directory.", "page_id": 475, "source_url": "https://plaid.com", "confidence": "high"},
+     {"value": "Connects apps to users' bank accounts for balance checks and payments, and offers instant payouts over the Real Time Payments network.", "page_id": 476, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "high"},
+     {"value": "Onboarding tools such as Auth, Identity and Balance; historical account data; payment initiation and ACH-based Transfer; newer products include LendScore, a credit risk score, and Trust Index 2, a fraud model.", "page_id": 443, "source_url": "https://sacra.com/c/plaid", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Usage-based pricing with three revenue streams: per-account connection fees, API call charges, and subscriptions for certain products; a freemium sandbox also exists, with two paid plans, Launch and Scale.", "page_id": 443, "source_url": "https://sacra.com/c/plaid", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Fintech apps such as Venmo and Chime are named as users; the references also cite data agreements with JPMorgan Chase and U.S. Bank.", "page_id": 476, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "high"},
+     {"value": "Companies in AI, auto, banks and credit unions, billing and recurring payments, consumer lending, earned wage access, fraud prevention, gaming, government, healthcare, insurance, mortgage, platforms and marketplaces, and property management, among others. No named customers are listed on the page.", "page_id": 138, "source_url": "https://plaid.com", "confidence": "high"},
+     {"value": "Industries include AI companies, auto, banks and credit unions, lending, insurance, mortgage, healthcare, gaming and government; the page gives no customer list.", "page_id": 475, "source_url": "https://plaid.com", "confidence": "high"},
+     {"value": "Individual consumers, small businesses and large enterprises; an estimated 8,000+ customers, with examples including LendingTree and Square, and fintechs such as Venmo, Cash App and Robinhood.", "page_id": 443, "source_url": "https://sacra.com/c/plaid", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "US$170 million (2020)", "page_id": 82, "source_url": "https://en.wikipedia.org/wiki/Plaid_(company)", "confidence": "high"},
+     {"value": "US$170 million in 2020", "page_id": 476, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "high"},
+     {"value": "$170 million (2020, Wikipedia)", "page_id": 455, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "medium"},
+     {"value": "$575 million (2025, Latka); $400 million in 2024 (Latka)", "page_id": 455, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "medium"},
+     {"value": "$252.1 million (year not stated; Datanyze and ZoomInfo)", "page_id": 455, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "medium"},
+     {"value": "$390M ARR (2024, Sacra estimate)", "page_id": 443, "source_url": "https://sacra.com/c/plaid", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "1,200", "page_id": 82, "source_url": "https://en.wikipedia.org/wiki/Plaid_(company)", "confidence": "high"},
+     {"value": "About 1,200", "page_id": 476, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "high"},
+     {"value": "About 1,200 (Wikipedia and Datanyze)", "page_id": 455, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "medium"},
+     {"value": "900 (Latka)", "page_id": 455, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "medium"},
+     {"value": "800+ to 1,000-5,000 (other directories)", "page_id": 455, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "May 2013 (infobox; the History section says 2012)", "page_id": 82, "source_url": "https://en.wikipedia.org/wiki/Plaid_(company)", "confidence": "high"},
+     {"value": "2013 (infobox; the history section says 2012)", "page_id": 476, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "high"},
+     {"value": "May 2013 (Wikipedia)", "page_id": 455, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco, California, US", "page_id": 82, "source_url": "https://en.wikipedia.org/wiki/Plaid_(company)", "confidence": "high"},
+     {"value": "San Francisco, California", "page_id": 476, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "high"},
+     {"value": "San Francisco, California", "page_id": 455, "source_url": "https://en.wikipedia.org/wiki/Plaid_Inc.", "confidence": "medium"},
+     {"value": "San Francisco", "page_id": 443, "source_url": "https://sacra.com/c/plaid", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco, California, United States", "is_hq": true, "page_id": 82, "source_url": "https://en.wikipedia.org/wiki/Plaid_(company)"}
+ ]}

@@ -1,0 +1,38 @@
+{"domain": "galileo-ft.com", "name": "Galileo Financial Technologies",
+ "fields": {
+   "description": [
+     {"value": "Galileo is a SoFi-owned fintech infrastructure provider, not a bank. Its platform lets other companies build and run financial products.", "page_id": 284, "source_url": "https://www.cbinsights.com/company/galileo-processing/customers", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Its API-based platform handles issuing physical and virtual payment cards, mobile push provisioning, and tailored financial products. Another listing describes transaction processing (debit card, ACH, account transfer, virtual cards) and a risk platform that uses machine learning to flag fraud.", "page_id": 284, "source_url": "https://www.cbinsights.com/company/galileo-processing/customers", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "B2B platform that partners with many issuing banks to provide banking services in North and South America.", "page_id": 284, "source_url": "https://www.cbinsights.com/company/galileo-processing/customers", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Clients include fintechs, banks, and established brands; named customers include SoFi, Uala, and Save. One source says it has helped hundreds of established companies in 16 countries across North America and Latin America.", "page_id": 284, "source_url": "https://www.cbinsights.com/company/galileo-processing/customers", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "Roughly $824.9M revenue (one directory); between 100M and 500M (another directory)", "page_id": 300, "source_url": "https://pitchbook.com/profiles/company/55413-82", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "1,700+ employees (one source)", "page_id": 284, "source_url": "https://www.cbinsights.com/company/galileo-processing/customers", "confidence": "medium"},
+     {"value": "250 to 500 (one profile); about 1,600 (PitchBook and another directory); 750 (Built In)", "page_id": 300, "source_url": "https://pitchbook.com/profiles/company/55413-82", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "Founded in 2000 or 2001, depending on the source; PitchBook lists 2001", "page_id": 300, "source_url": "https://pitchbook.com/profiles/company/55413-82", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Sandy, Utah (9800 South Monroe Street, 7th Floor, Sandy, UT 84070)", "page_id": 300, "source_url": "https://pitchbook.com/profiles/company/55413-82", "confidence": "medium"},
+     {"value": "Salt Lake City, Utah, USA (one profile; Built In also lists Salt Lake City)", "page_id": 300, "source_url": "https://pitchbook.com/profiles/company/55413-82", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Sandy, Utah", "is_hq": true, "page_id": 300, "source_url": "https://pitchbook.com/profiles/company/55413-82"},
+   {"value": "Salt Lake City, Utah", "is_hq": false, "page_id": 300, "source_url": "https://pitchbook.com/profiles/company/55413-82"},
+   {"value": "Mexico", "is_hq": false, "page_id": 300, "source_url": "https://pitchbook.com/profiles/company/55413-82"},
+   {"value": "New York", "is_hq": false, "page_id": 300, "source_url": "https://pitchbook.com/profiles/company/55413-82"},
+   {"value": "San Francisco", "is_hq": false, "page_id": 300, "source_url": "https://pitchbook.com/profiles/company/55413-82"}
+ ]
+}

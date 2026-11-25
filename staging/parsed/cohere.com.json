@@ -1,0 +1,50 @@
+{"domain": "cohere.com", "name": "Cohere",
+ "fields": {
+   "description": [
+     {"value": "Cohere Inc. is a Canadian AI company founded in 2019 by Aidan Gomez, Ivan Zhang and Nick Frosst. It builds large language models and generative AI products, mainly for regulated sectors.", "page_id": 427, "source_url": "https://en.wikipedia.org/wiki/Cohere", "confidence": "high"},
+     {"value": "Cohere Inc. (Toronto, Ontario, Canada) is a privately held artificial intelligence company.", "page_id": 153, "source_url": "https://en.wikipedia.org/wiki/Cohere", "confidence": "high"},
+     {"value": "Cohere sells enterprise AI; its flagship offering is North, an agentic enterprise AI platform that customers control and deploy on their own terms.", "page_id": 426, "source_url": "https://cohere.com", "confidence": "high"},
+     {"value": "Cohere is a Toronto-based enterprise AI company founded in 2019 by Aidan Gomez, Nick Frosst and Ivan Zhang.", "page_id": 348, "source_url": "https://sacra.com/c/cohere/", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Platforms North and Compass; Command, Transcribe, North Small Translate, Parse, Embed, Rerank and Aya models; Model Vault dedicated inference and Private Deployments.", "page_id": 426, "source_url": "https://cohere.com", "confidence": "high"},
+     {"value": "Command models (Command A+, Command A Reasoning, Command A Translate, Command A Vision), Cohere North (a secure AI workspace), and Aya Vision (free for research only).", "page_id": 427, "source_url": "https://en.wikipedia.org/wiki/Cohere", "confidence": "high"},
+     {"value": "Generative models Command, Aya and Expanse; retrieval models Embed and Rerank; workplace systems North and Compass.", "page_id": 348, "source_url": "https://sacra.com/c/cohere/", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Enterprise AI sold as a managed API and through Amazon SageMaker and Google Vertex AI; technology also embedded in Oracle and Salesforce products.", "page_id": 427, "source_url": "https://en.wikipedia.org/wiki/Cohere", "confidence": "high"},
+     {"value": "Revenue comes mainly from API access, with a rate-limited free tier, usage-based paid tiers and custom enterprise pricing for dedicated deployments.", "page_id": 348, "source_url": "https://sacra.com/c/cohere/", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Financial services, public sector, technology, telecommunications, energy and utilities, healthcare, life sciences and manufacturing; named customers include Oracle, Dell Technologies, RBC, Fujitsu, SAP, Salesforce, TD Bank and McKinsey & Company.", "page_id": 152, "source_url": "https://cohere.com", "confidence": "high"},
+     {"value": "Regulated sectors such as finance, healthcare, manufacturing, energy and the public sector; customers include Oracle, Salesforce, McKinsey, RBC, SAP, Dell, Bell Canada, Thales, Hanwha Ocean, Saab, Fujitsu, LG and Aston Martin F1.", "page_id": 427, "source_url": "https://en.wikipedia.org/wiki/Cohere", "confidence": "high"},
+     {"value": "Named clients include Fujitsu, Notion and Oracle; serves financial services, healthcare, manufacturing, energy and the public sector.", "page_id": 348, "source_url": "https://sacra.com/c/cohere/", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "About $240 million, as reported by CNBC in February 2026.", "page_id": 153, "source_url": "https://en.wikipedia.org/wiki/Cohere", "confidence": "high"},
+     {"value": "$240M reported in February 2026, up from about $100M annualized in May 2025 and $150M in October 2025.", "page_id": 427, "source_url": "https://en.wikipedia.org/wiki/Cohere", "confidence": "high"},
+     {"value": "Sacra estimates $240 million ARR in 2025, up 287% from $62 million at end of 2024; Latka reports $85M in 2023 revenue.", "page_id": 361, "source_url": "https://en.wikipedia.org/wiki/Cohere", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "More than 450 (2025).", "page_id": 153, "source_url": "https://en.wikipedia.org/wiki/Cohere", "confidence": "high"},
+     {"value": "450+ (2025, Wikipedia); 700 (TrueUp); 842 (Rocketlist).", "page_id": 361, "source_url": "https://en.wikipedia.org/wiki/Cohere", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2019", "page_id": 153, "source_url": "https://en.wikipedia.org/wiki/Cohere", "confidence": "high"},
+     {"value": "2019", "page_id": 348, "source_url": "https://sacra.com/c/cohere/", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Toronto", "page_id": 153, "source_url": "https://en.wikipedia.org/wiki/Cohere", "confidence": "high"},
+     {"value": "Toronto; San Francisco also listed as co-headquarters by one source", "page_id": 361, "source_url": "https://en.wikipedia.org/wiki/Cohere", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Toronto", "is_hq": true, "page_id": 153, "source_url": "https://en.wikipedia.org/wiki/Cohere"},
+   {"value": "Montreal", "is_hq": false, "page_id": 153, "source_url": "https://en.wikipedia.org/wiki/Cohere"},
+   {"value": "New York City", "is_hq": false, "page_id": 153, "source_url": "https://en.wikipedia.org/wiki/Cohere"},
+   {"value": "San Francisco", "is_hq": false, "page_id": 153, "source_url": "https://en.wikipedia.org/wiki/Cohere"},
+   {"value": "London", "is_hq": false, "page_id": 153, "source_url": "https://en.wikipedia.org/wiki/Cohere"},
+   {"value": "Paris", "is_hq": false, "page_id": 153, "source_url": "https://en.wikipedia.org/wiki/Cohere"},
+   {"value": "Seoul", "is_hq": false, "page_id": 153, "source_url": "https://en.wikipedia.org/wiki/Cohere"}
+ ]}

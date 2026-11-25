@@ -1,0 +1,56 @@
+{"domain": "salesloft.com", "name": "Salesloft",
+ "fields": {
+   "description": [
+     {"value": "Salesloft describes itself as a predictive revenue system. It captures revenue signals across a company's tools, separates the ones that drive outcomes from noise, and turns them into next actions for sales teams.", "page_id": 212, "source_url": "https://www.salesloft.com", "confidence": "high"},
+     {"value": "Salesloft describes itself as 'The Leading Predictive Revenue System,' helping revenue teams create, convert, and grow revenue.", "page_id": 262, "source_url": "https://salesloft.com", "confidence": "high"},
+     {"value": "US sales engagement platform. It began with sales development tools and has since expanded to serve the entire sales organization.", "page_id": 213, "source_url": "https://en.wikipedia.org/wiki/Salesloft", "confidence": "high"},
+     {"value": "A sales engagement platform. It began with sales development tools and has since expanded to serve entire sales organizations.", "page_id": 264, "source_url": "https://en.wikipedia.org/wiki/Salesloft", "confidence": "high"},
+     {"value": "Atlanta-based sales software company, now positioned as a revenue orchestration platform.", "page_id": 221, "source_url": "https://datanyze.com/companies/salesloft/347502433", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "For account teams: Cadence (sales engagement), Conversation Intelligence, Deals (deal management), and Rhythm (workflow prioritization). For executive and RevOps teams: Clari Forecast, Inspect (pipeline inspection), Revenue Cadences, and Analytics. Also Signals, AI Agents, Consulting Services, and a partner marketplace.", "page_id": 212, "source_url": "https://www.salesloft.com", "confidence": "high"},
+     {"value": "Cadence, Conversation Intelligence, Deals, and Rhythm for account teams; Clari Forecast, Inspect, Revenue Cadences, and Analytics for executive and RevOps teams; plus Signals (a live layer that feeds a Data and AI engine that triggers AI agents), AI Agents, and Consulting Services.", "page_id": 262, "source_url": "https://salesloft.com", "confidence": "high"},
+     {"value": "A sales engagement platform. Through the Drift acquisition, its products also include the Drift platform.", "page_id": 213, "source_url": "https://en.wikipedia.org/wiki/Salesloft", "confidence": "high"},
+     {"value": "A sales engagement platform.", "page_id": 264, "source_url": "https://en.wikipedia.org/wiki/Salesloft", "confidence": "high"},
+     {"value": "Advanced analytics, sales forecasting, sales automation, sales coaching, deal management, revenue intelligence, sales engagement, and conversation intelligence. Its AI layer is described as Rhythm.", "page_id": 221, "source_url": "https://datanyze.com/companies/salesloft/347502433", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Sells B2B software subscriptions to revenue teams.", "page_id": 221, "source_url": "https://datanyze.com/companies/salesloft/347502433", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Cites more than 4,000 sales teams. Industries served: High Tech, Logistics, Manufacturing, Medical Software & Devices, Professional Services, Telecommunications, and Financial Services. Named customer: Wrike.", "page_id": 212, "source_url": "https://www.salesloft.com", "confidence": "high"},
+     {"value": "Cites more than 4,000 sales teams. Named customer: Wrike. Other customers are quoted from sales operations and sales leadership roles.", "page_id": 262, "source_url": "https://salesloft.com", "confidence": "high"},
+     {"value": "Targets sales professionals, marketing teams, and revenue operations leaders. One vendor profile claims more than 5,000 customers including Google, 3M, IBM, Shopify, Square, and Cisco.", "page_id": 221, "source_url": "https://datanyze.com/companies/salesloft/347502433", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "About $135.9M (Datanyze estimate; ZoomInfo gives the same figure)", "page_id": 240, "source_url": "https://builtin.com/company/salesloft", "confidence": "medium"},
+     {"value": "Revenue estimates run from about $100 million to $135.9 million (directory estimates)", "page_id": 221, "source_url": "https://datanyze.com/companies/salesloft/347502433", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "More than 700", "page_id": 213, "source_url": "https://en.wikipedia.org/wiki/Salesloft", "confidence": "high"},
+     {"value": "More than 700", "page_id": 264, "source_url": "https://en.wikipedia.org/wiki/Salesloft", "confidence": "high"},
+     {"value": "704 Total Employees (Built In); 647 (Datanyze); 501-1,000 (ZoomInfo)", "page_id": 240, "source_url": "https://builtin.com/company/salesloft", "confidence": "medium"},
+     {"value": "Roughly 650 employees (directory estimate)", "page_id": 221, "source_url": "https://datanyze.com/companies/salesloft/347502433", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "Incorporated in September 2011", "page_id": 213, "source_url": "https://en.wikipedia.org/wiki/Salesloft", "confidence": "high"},
+     {"value": "Founded in September 2011", "page_id": 264, "source_url": "https://en.wikipedia.org/wiki/Salesloft", "confidence": "high"},
+     {"value": "2011 (most sources)", "page_id": 221, "source_url": "https://datanyze.com/companies/salesloft/347502433", "confidence": "medium"},
+     {"value": "Year Founded: 2011 (Built In)", "page_id": 240, "source_url": "https://builtin.com/company/salesloft", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Atlanta, Georgia", "page_id": 213, "source_url": "https://en.wikipedia.org/wiki/Salesloft", "confidence": "high"},
+     {"value": "Atlanta, Georgia", "page_id": 264, "source_url": "https://en.wikipedia.org/wiki/Salesloft", "confidence": "high"},
+     {"value": "Atlanta, Georgia", "page_id": 221, "source_url": "https://datanyze.com/companies/salesloft/347502433", "confidence": "medium"},
+     {"value": "Atlanta, Georgia, USA (Built In)", "page_id": 240, "source_url": "https://builtin.com/company/salesloft", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Atlanta, Georgia", "is_hq": true, "page_id": 213, "source_url": "https://en.wikipedia.org/wiki/Salesloft"},
+   {"value": "San Francisco", "is_hq": false, "page_id": 213, "source_url": "https://en.wikipedia.org/wiki/Salesloft"},
+   {"value": "New York", "is_hq": false, "page_id": 213, "source_url": "https://en.wikipedia.org/wiki/Salesloft"},
+   {"value": "London", "is_hq": false, "page_id": 213, "source_url": "https://en.wikipedia.org/wiki/Salesloft"},
+   {"value": "Singapore", "is_hq": false, "page_id": 213, "source_url": "https://en.wikipedia.org/wiki/Salesloft"},
+   {"value": "Guadalajara, Mexico", "is_hq": false, "page_id": 213, "source_url": "https://en.wikipedia.org/wiki/Salesloft"}
+ ]}

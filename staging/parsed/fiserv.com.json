@@ -1,0 +1,56 @@
+{"domain": "fiserv.com", "name": "Fiserv",
+ "fields": {
+   "description": [
+     {"value": "An American multinational financial technology company headquartered in Milwaukee, Wisconsin, that processes debit and credit card transactions, loyalty programs and loans for financial institutions.", "page_id": 177, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "high"},
+     {"value": "A publicly traded American financial technology company that processes card transactions, bill payments, transfers, check deposits and ATM transactions for banks and other financial institutions, and makes payment cards and point-of-sale terminals.", "page_id": 370, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "high"},
+     {"value": "Calls itself 'the largest fintech at the intersection of banking and commerce', powering growth and innovation for financial institutions and businesses worldwide.", "page_id": 178, "source_url": "https://www.fiserv.com", "confidence": "high"},
+     {"value": "Describes itself as 'the largest fintech at the intersection of banking and commerce', offering technology for financial institutions and businesses worldwide.", "page_id": 369, "source_url": "https://www.fiserv.com", "confidence": "high"},
+     {"value": "A global payments and financial technology company providing payments and financial services technology to clients including merchants, banks, credit unions and other financial institutions.", "page_id": 334, "source_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/fi-20251231.htm", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Debit and credit card transaction processing, loyalty programs, loans and related banking services for financial institutions.", "page_id": 177, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "high"},
+     {"value": "Card, bill payment, transfer, check deposit and ATM processing for banks; payment cards and point-of-sale terminals. Products include Clover, Carat, CardHub and Pinch Payments.", "page_id": 370, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "high"},
+     {"value": "Commerce Hub (payment and embedded finance for enterprises and platforms); agentOS, an operating system for financial services agents; digital banking and platforms for banks and credit unions; small business systems for merchants; bill pay for the public sector; and integrated payments for software providers and ISVs.", "page_id": 178, "source_url": "https://www.fiserv.com", "confidence": "high"},
+     {"value": "Commerce Hub (payment orchestration across 190+ countries); digital banking and platforms; agentOS; Finxact, a SaaS banking platform; bill pay and public sector payments; and software provider payments.", "page_id": 369, "source_url": "https://www.fiserv.com", "confidence": "high"},
+     {"value": "Account processing and digital banking, card issuer processing and network services, payments, e-commerce, merchant acquiring and processing, and the Clover point-of-sale and business management platform. A third-party profile adds fraud and risk tools and bill pay.", "page_id": 334, "source_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/fi-20251231.htm", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Processing made up 81% of revenue and products 19% (2024).", "page_id": 370, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "high"},
+     {"value": "Largely recurring: processing and services were 80% of 2025 revenue, primarily account- and transaction-based fees under multi-year contracts with high renewal rates.", "page_id": 334, "source_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/fi-20251231.htm", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Financial institutions, for whom it processes card transactions and related banking services.", "page_id": 177, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "high"},
+     {"value": "Mainly financial institutions such as banks, credit unions and savings and loans, plus broker-dealers, mortgage, insurance and leasing firms, and retailers.", "page_id": 370, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "high"},
+     {"value": "Enterprises and large merchants (which it says include 70% of the world's leading brands), small businesses, banks, credit unions and large financial institutions, fintechs, public sector clients (government, education, utilities), and software providers and ISVs.", "page_id": 178, "source_url": "https://www.fiserv.com", "confidence": "high"},
+     {"value": "Banks, credit unions and large financial institutions; enterprises and large merchants; fintechs; small businesses and merchants; software providers and ISVs; public sector clients.", "page_id": 369, "source_url": "https://www.fiserv.com", "confidence": "high"},
+     {"value": "Merchants, banks, credit unions, other financial institutions, and corporate and public sector clients.", "page_id": 334, "source_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/fi-20251231.htm", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "About US$19.8 billion (2025)", "page_id": 177, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "high"},
+     {"value": "About $19.8 billion (2025)", "page_id": 370, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "high"},
+     {"value": "$21.2 billion total revenue (2025, per the FY2025 10-K)", "page_id": 334, "source_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/fi-20251231.htm", "confidence": "medium"},
+     {"value": "US$19.8 billion (2025, Wikipedia)", "page_id": 349, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "medium"},
+     {"value": "$21.19B (FY2025, Komo)", "page_id": 349, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "medium"},
+     {"value": "$20.5B (Latka)", "page_id": 349, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "About 38,000 (2024)", "page_id": 177, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "high"},
+     {"value": "About 38,000 (2024)", "page_id": 370, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "high"},
+     {"value": "About 38,000 (2024, Wikipedia)", "page_id": 349, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "medium"},
+     {"value": "39.4K (Latka)", "page_id": 349, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "1984", "page_id": 177, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "high"},
+     {"value": "1984", "page_id": 370, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "high"},
+     {"value": "July 31, 1984 (TradingView); Wikipedia also lists 1984", "page_id": 349, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Milwaukee, Wisconsin, U.S.", "page_id": 177, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "high"},
+     {"value": "Milwaukee, Wisconsin", "page_id": 370, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "high"},
+     {"value": "Milwaukee, Wisconsin (TradingView and Wikipedia)", "page_id": 349, "source_url": "https://en.wikipedia.org/wiki/Fiserv", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Milwaukee, Wisconsin, United States", "is_hq": true, "page_id": 177, "source_url": "https://en.wikipedia.org/wiki/Fiserv"}
+ ]}

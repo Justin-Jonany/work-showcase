@@ -1,0 +1,49 @@
+{"domain": "alation.com", "name": "Alation",
+ "fields": {
+   "description": [
+     {"value": "Enterprise software company in Silicon Valley that makes data catalog software.", "page_id": 265, "source_url": "https://en.wikipedia.org/wiki/Alation", "confidence": "high"},
+     {"value": "A data and AI governance company whose product is the Alation Intelligence Operating System (AIOS).", "page_id": 263, "source_url": "https://www.alation.com", "confidence": "high"},
+     {"value": "Privately held enterprise software company in Redwood City, California, whose main product is a data catalog.", "page_id": 225, "source_url": "https://en.wikipedia.org/wiki/Alation", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Alation Intelligence Operating System (AIOS) modules: Catalog, Lineage, Quality, Curation, Critical Data Manager, Data Products, Marketplace, Ontologies, Analytics, Agents, and Connectors + SDKs.", "page_id": 263, "source_url": "https://www.alation.com", "confidence": "high"},
+     {"value": "Alation Data Catalog, launched in 2015, lets users search enterprise data using natural language.", "page_id": 265, "source_url": "https://en.wikipedia.org/wiki/Alation", "confidence": "high"},
+     {"value": "Enterprise catalog covering metadata management and governance, with lineage tracking and connectors to systems such as Snowflake and Redshift.", "page_id": 225, "source_url": "https://en.wikipedia.org/wiki/Alation", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Sells subscription licenses and support contracts, with professional services for onboarding; one profile cites a starting price of about $60,000 for a 12-month catalog subscription.", "page_id": 225, "source_url": "https://en.wikipedia.org/wiki/Alation", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Named logos on the company site include BBC, Brambles, Cisco, CNA, Children's Hospital of Philadelphia, Euromonitor International, Finnair, Georgia Pacific, 8451, Japan Airlines, Lipton Teas and Infusions, M&S, Nasdaq, NTT docomo, Sallie Mae and Veolia.", "page_id": 263, "source_url": "https://www.alation.com", "confidence": "high"},
+     {"value": "Over 570 enterprise customers in 32 countries as of 2023, including Cisco, Pfizer and Nasdaq (one profile); Bloor Research reports over 500 enterprise customers.", "page_id": 225, "source_url": "https://en.wikipedia.org/wiki/Alation", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "Over $100 million in annual recurring revenue by September 2022 (Bloor Research)", "page_id": 225, "source_url": "https://en.wikipedia.org/wiki/Alation", "confidence": "medium"},
+     {"value": "$80.1M for 2023 (Latka)", "page_id": 246, "source_url": "https://www.getlatka.com/companies/alation", "confidence": "medium"},
+     {"value": "$176.1M (StartupHub estimate, very wide range; year not stated)", "page_id": 246, "source_url": "https://www.getlatka.com/companies/alation", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "Over 700 as of November 2022", "page_id": 265, "source_url": "https://en.wikipedia.org/wiki/Alation", "confidence": "high"},
+     {"value": "Nearly 500 to 800 (Bloor Research)", "page_id": 225, "source_url": "https://en.wikipedia.org/wiki/Alation", "confidence": "medium"},
+     {"value": "About 439 (LinkedIn, per one profile)", "page_id": 225, "source_url": "https://en.wikipedia.org/wiki/Alation", "confidence": "medium"},
+     {"value": "732 for 2023 (Latka)", "page_id": 246, "source_url": "https://www.getlatka.com/companies/alation", "confidence": "medium"},
+     {"value": "About 627 (StartupHub)", "page_id": 246, "source_url": "https://www.getlatka.com/companies/alation", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2012", "page_id": 265, "source_url": "https://en.wikipedia.org/wiki/Alation", "confidence": "high"},
+     {"value": "2012", "page_id": 225, "source_url": "https://en.wikipedia.org/wiki/Alation", "confidence": "medium"},
+     {"value": "2012", "page_id": 246, "source_url": "https://www.getlatka.com/companies/alation", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Redwood City, California", "page_id": 265, "source_url": "https://en.wikipedia.org/wiki/Alation", "confidence": "high"},
+     {"value": "Redwood City, California", "page_id": 225, "source_url": "https://en.wikipedia.org/wiki/Alation", "confidence": "medium"},
+     {"value": "Redwood City, California", "page_id": 246, "source_url": "https://www.getlatka.com/companies/alation", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Redwood City, California", "is_hq": true, "page_id": 265, "source_url": "https://en.wikipedia.org/wiki/Alation"},
+   {"value": "London", "is_hq": false, "page_id": 265, "source_url": "https://en.wikipedia.org/wiki/Alation"},
+   {"value": "Chennai, India", "is_hq": false, "page_id": 265, "source_url": "https://en.wikipedia.org/wiki/Alation"},
+   {"value": "3 Lagoon Dr, Suite 300, Redwood City, CA 94065", "is_hq": true, "page_id": 246, "source_url": "https://www.getlatka.com/companies/alation"}
+ ]}

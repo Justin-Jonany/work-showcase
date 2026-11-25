@@ -1,0 +1,61 @@
+{"domain": "confluent.io", "name": "Confluent, Inc.",
+ "fields": {
+   "description": [
+     {"value": "An American technology company headquartered in Mountain View, California, founded to commercialize Apache Kafka.", "page_id": 183, "source_url": "https://en.wikipedia.org/wiki/Confluent_(company)", "confidence": "high"},
+     {"value": "An American technology company headquartered in Mountain View, California. It was founded in 2014 to commercialize Apache Kafka, an open-source streaming platform the founders built at LinkedIn.", "page_id": 354, "source_url": "https://en.wikipedia.org/wiki/Confluent", "confidence": "high"},
+     {"value": "A data streaming platform from the original co-creators of Apache Kafka.", "page_id": 184, "source_url": "https://www.confluent.io", "confidence": "high"},
+     {"value": "A data streaming platform company built by the original co-creators of Apache Kafka, helping organizations stream, connect, process, and govern real-time data for applications, analytics, and AI.", "page_id": 339, "source_url": "https://www.confluent.io", "confidence": "high"},
+     {"value": "A cloud-native data streaming platform founded in 2014 by the original creators of Apache Kafka, headquartered in Mountain View, California.", "page_id": 305, "source_url": "https://bitscale.ai/directory/confluent", "confidence": "medium"},
+     {"value": "A Mountain View, California company founded in 2014 to commercialize Apache Kafka.", "page_id": 321, "source_url": "https://en.wikipedia.org/wiki/Confluent", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Confluent Cloud, a fully managed Apache Kafka service, and Confluent Platform, a self-managed data streaming platform for on-premises deployment, with Connectors, Stream Governance, Stream Processing (Apache Flink), Tableflow, Confluent Intelligence and Streaming Agents. Also offered as Confluent Private Cloud and WarpStream.", "page_id": 184, "source_url": "https://www.confluent.io", "confidence": "high"},
+     {"value": "Data Streaming with 120+ pre-built connectors and Stream Governance; Stream Processing (Apache Flink) and Tableflow; Confluent Intelligence and Streaming Agents. Deployed as Confluent Cloud, Confluent Platform, Confluent Private Cloud or WarpStream.", "page_id": 339, "source_url": "https://www.confluent.io", "confidence": "high"},
+     {"value": "Confluent Cloud, Confluent Platform, Connectors, Apache Flink, Stream Governance, and Confluent Hub. In 2025 it launched Confluent Intelligence, a managed service for AI-driven anomaly detection, fraud detection, and forecasting on real-time data streams.", "page_id": 354, "source_url": "https://en.wikipedia.org/wiki/Confluent", "confidence": "high"},
+     {"value": "Services: Confluent Cloud and Confluent Platform.", "page_id": 183, "source_url": "https://en.wikipedia.org/wiki/Confluent_(company)", "confidence": "high"},
+     {"value": "Confluent Platform, an on-premises distribution of Kafka with enterprise tools, and Confluent Cloud, a fully managed cloud service for real-time data, plus Kafka Connect, ksqlDB, stream governance and WarpStream.", "page_id": 305, "source_url": "https://bitscale.ai/directory/confluent", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Consumption-based pricing (\"transparent consumption-based pricing\"), with a Cost Estimator that compares savings to self-managed Kafka and $400 in credits for new Confluent Cloud sign-ups.", "page_id": 184, "source_url": "https://www.confluent.io", "confidence": "high"},
+     {"value": "Revenue comes mainly from the sale of subscriptions and services, and it also offers training and professional services.", "page_id": 305, "source_url": "https://bitscale.ai/directory/confluent", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Organizations of all sizes, from startups to global enterprises. Named customers include SAS, Notion and GEP Worldwide.", "page_id": 184, "source_url": "https://www.confluent.io", "confidence": "high"},
+     {"value": "Organizations from startups to global enterprises use the platform; named customers are SAS, Notion and GEP Worldwide.", "page_id": 339, "source_url": "https://www.confluent.io", "confidence": "high"},
+     {"value": "Customers range from large enterprises to small and medium-sized businesses; typical clients include financial institutions and tech companies.", "page_id": 305, "source_url": "https://bitscale.ai/directory/confluent", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "US$0.963 billion (FY 2024)", "page_id": 183, "source_url": "https://en.wikipedia.org/wiki/Confluent_(company)", "confidence": "high"},
+     {"value": "About US$0.963 billion for FY 2024", "page_id": 354, "source_url": "https://en.wikipedia.org/wiki/Confluent", "confidence": "high"},
+     {"value": "US$0.963 billion (FY 2024)", "page_id": 321, "source_url": "https://en.wikipedia.org/wiki/Confluent", "confidence": "medium"},
+     {"value": "around $1.2B", "page_id": 321, "source_url": "https://en.wikipedia.org/wiki/Confluent", "confidence": "medium"},
+     {"value": "FY 2025 subscription revenue of $1.120B", "page_id": 321, "source_url": "https://en.wikipedia.org/wiki/Confluent", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "3,263 (Q3 2025)", "page_id": 183, "source_url": "https://en.wikipedia.org/wiki/Confluent_(company)", "confidence": "high"},
+     {"value": "3,263 as of Q3 2025", "page_id": 354, "source_url": "https://en.wikipedia.org/wiki/Confluent", "confidence": "high"},
+     {"value": "3,263 (Q3 2025)", "page_id": 321, "source_url": "https://en.wikipedia.org/wiki/Confluent", "confidence": "medium"},
+     {"value": "about 2,600 (Latka, as of 2026)", "page_id": 321, "source_url": "https://en.wikipedia.org/wiki/Confluent", "confidence": "medium"},
+     {"value": "about 5,000 (Statvoo and Zeliq)", "page_id": 321, "source_url": "https://en.wikipedia.org/wiki/Confluent", "confidence": "medium"},
+     {"value": "3,060 (one profile)", "page_id": 305, "source_url": "https://bitscale.ai/directory/confluent", "confidence": "medium"},
+     {"value": "3,241 (another profile)", "page_id": 305, "source_url": "https://bitscale.ai/directory/confluent", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "September 23, 2014", "page_id": 183, "source_url": "https://en.wikipedia.org/wiki/Confluent_(company)", "confidence": "high"},
+     {"value": "September 23, 2014", "page_id": 354, "source_url": "https://en.wikipedia.org/wiki/Confluent", "confidence": "high"},
+     {"value": "2014", "page_id": 305, "source_url": "https://bitscale.ai/directory/confluent", "confidence": "medium"},
+     {"value": "September 2014", "page_id": 321, "source_url": "https://en.wikipedia.org/wiki/Confluent", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Mountain View, California, U.S.", "page_id": 183, "source_url": "https://en.wikipedia.org/wiki/Confluent_(company)", "confidence": "high"},
+     {"value": "Mountain View, California", "page_id": 354, "source_url": "https://en.wikipedia.org/wiki/Confluent", "confidence": "high"},
+     {"value": "Mountain View, California", "page_id": 305, "source_url": "https://bitscale.ai/directory/confluent", "confidence": "medium"},
+     {"value": "Mountain View, California", "page_id": 321, "source_url": "https://en.wikipedia.org/wiki/Confluent", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Mountain View, California", "is_hq": true, "page_id": 183, "source_url": "https://en.wikipedia.org/wiki/Confluent_(company)"},
+   {"value": "Palo Alto", "is_hq": false, "page_id": 305, "source_url": "https://bitscale.ai/directory/confluent"},
+   {"value": "London", "is_hq": false, "page_id": 305, "source_url": "https://bitscale.ai/directory/confluent"}
+ ]}

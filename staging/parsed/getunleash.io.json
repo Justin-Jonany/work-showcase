@@ -1,0 +1,14 @@
+{"domain": "getunleash.io", "name": "Unleash",
+ "fields": {
+   "description": [{"value": "FeatureOps platform enterprises use to control how software behaves in production. Described as the largest open source feature flagging solution built for enterprises.", "page_id": 165, "source_url": "https://www.getunleash.io", "confidence": "high"},
+                   {"value": "Feature management company based in Oslo, Norway. Its tools let developers implement changes and roll them back if necessary, supporting canary releases.", "page_id": 3, "source_url": "https://www.cbinsights.com/compare/launchdarkly-vs-unleash-1", "confidence": "medium"}],
+   "product_description": [{"value": "Open-source feature flagging that can be self-hosted, plus Enterprise Edge for sub-50ms flag evaluation across 35+ regions, managed or self-hosted.", "page_id": 165, "source_url": "https://www.getunleash.io", "confidence": "high"}],
+   "business_model_description": [{"value": "Open Source edition is free to self-host. The pay-as-you-go plan starts at $75 per seat per month with a 14-day free trial. Enterprise plans offer custom annual pricing.", "page_id": 165, "source_url": "https://www.getunleash.io", "confidence": "high"}],
+   "customer_description": [{"value": "Enterprises at the world's largest organisations, across banking and insurance, retail, payments and enterprise technology.", "page_id": 165, "source_url": "https://www.getunleash.io", "confidence": "high"}],
+   "revenue": [],
+   "web_traffic": [],
+   "employees": [],
+   "founded_year": [{"value": "2019", "page_id": 3, "source_url": "https://www.cbinsights.com/compare/launchdarkly-vs-unleash-1", "confidence": "medium"}],
+   "headquarters": [{"value": "Oslo, Norway", "page_id": 3, "source_url": "https://www.cbinsights.com/compare/launchdarkly-vs-unleash-1", "confidence": "medium"}]
+ },
+ "locations": [{"value": "Oslo, Norway", "is_hq": true, "page_id": 3, "source_url": "https://www.cbinsights.com/compare/launchdarkly-vs-unleash-1"}]}

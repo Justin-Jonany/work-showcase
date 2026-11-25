@@ -1,0 +1,44 @@
+{"domain": "starburst.io", "name": "Starburst Data",
+ "fields": {
+   "description": [
+     {"value": "The Boston-headquartered company sells a data lake analytics platform built on the open-source Trino query engine. Its pitch centers on reducing data silos and vendor lock-in.", "page_id": 59, "source_url": "https://www.builtinsf.com/company/starburst", "confidence": "medium"},
+     {"value": "Starburst, the data analytics company built on open-source Trino, was founded in 2017 and describes itself as remote-first.", "page_id": 62, "source_url": "https://www.builtinboston.com/company/starburst/offices", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Starburst offers a full-featured data lake analytics platform, built on open-source Trino. It lets customers find, organize and use data without large migration projects.", "page_id": 59, "source_url": "https://www.builtinsf.com/company/starburst", "confidence": "medium"},
+     {"value": "Starburst Galaxy is its managed cloud service, and it also sells a self-managed Enterprise edition for on-premises and hybrid deployments. Both are built on open-source Trino.", "page_id": 63, "source_url": "https://www.modern-datatools.com/tools/starburst/pricing", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Credit-based, consumption-style pricing for the managed Starburst Galaxy service, with pay-as-you-go billing and no upfront commitment (Pro roughly $0.50 per credit, Enterprise $0.75, Mission-Critical $1.00). The self-managed Enterprise edition is sold through sales with custom pricing.", "page_id": 63, "source_url": "https://www.modern-datatools.com/tools/starburst/pricing", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "More than 200 leading organizations trust the company, per its pitch as quoted on Built In.", "page_id": 59, "source_url": "https://www.builtinsf.com/company/starburst", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "Under $5 million (ZoomInfo page) vs. about $59.5 million (directory listing)", "page_id": 59, "source_url": "https://www.builtinsf.com/company/starburst", "confidence": "medium"},
+     {"value": "About $100M (Latka); $105 million for 2025 (RocketReach); $113.4M per year (Growjo, data dated February 2022)", "page_id": 60, "source_url": "https://growjo.com/company/Starburst", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "450 employees (Latka)", "page_id": 60, "source_url": "https://growjo.com/company/Starburst", "confidence": "medium"},
+     {"value": "481 total employees (Built In); 450 (GetLatka, 2026); 550 (Neuron)", "page_id": 61, "source_url": "https://builtinboston.com/company/starburst/offices", "confidence": "medium"},
+     {"value": "About 481 employees (Built In); 500+ (sales-data site)", "page_id": 62, "source_url": "https://www.builtinboston.com/company/starburst/offices", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2017", "page_id": 62, "source_url": "https://www.builtinboston.com/company/starburst/offices", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Boston", "page_id": 59, "source_url": "https://www.builtinsf.com/company/starburst", "confidence": "medium"},
+     {"value": "Boston, Massachusetts", "page_id": 61, "source_url": "https://builtinboston.com/company/starburst/offices", "confidence": "medium"},
+     {"value": "Boston, Massachusetts", "page_id": 62, "source_url": "https://www.builtinboston.com/company/starburst/offices", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Boston, Massachusetts", "is_hq": true, "page_id": 61, "source_url": "https://builtinboston.com/company/starburst/offices"},
+   {"value": "London", "is_hq": false, "page_id": 62, "source_url": "https://www.builtinboston.com/company/starburst/offices"},
+   {"value": "Warsaw", "is_hq": false, "page_id": 62, "source_url": "https://www.builtinboston.com/company/starburst/offices"},
+   {"value": "Tel Aviv", "is_hq": false, "page_id": 62, "source_url": "https://www.builtinboston.com/company/starburst/offices"},
+   {"value": "Mountain View, California", "is_hq": false, "page_id": 62, "source_url": "https://www.builtinboston.com/company/starburst/offices"},
+   {"value": "San Francisco", "is_hq": false, "page_id": 62, "source_url": "https://www.builtinboston.com/company/starburst/offices"}
+ ]
+}

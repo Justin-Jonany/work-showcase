@@ -1,0 +1,16 @@
+{"domain": "launchdarkly.com", "name": "LaunchDarkly",
+ "fields": {
+   "description": [{"value": "Oakland-based software company, founded in 2014, that sells a feature management platform. Its core use is feature flagging, which separates deploying code from releasing features to users.", "page_id": 83, "source_url": "https://ghost.bitscale.ai/launchdarkly/", "confidence": "medium"}],
+   "product_description": [{"value": "Feature management platform covering gradual rollouts, experimentation, targeted rollouts and A/B testing. Named product areas include Guarded Releases, AI Configurations, Experimentation and Release Management.", "page_id": 83, "source_url": "https://ghost.bitscale.ai/launchdarkly/", "confidence": "medium"}],
+   "business_model_description": [{"value": "Subscription. Revenue comes from providing the platform to clients on a subscription basis.", "page_id": 83, "source_url": "https://ghost.bitscale.ai/launchdarkly/", "confidence": "medium"}],
+   "customer_description": [{"value": "Over 5,500 enterprises, including a quarter of the Fortune 500 (per G2).", "page_id": 83, "source_url": "https://ghost.bitscale.ai/launchdarkly/", "confidence": "medium"}],
+   "revenue": [{"value": "about $200 million ARR (undated)", "page_id": 84, "source_url": "https://bitscale.ai/directory/launchdarkly", "confidence": "medium"}],
+   "web_traffic": [{"value": "407.04K visits in August 2026 (Semrush)", "page_id": 88, "source_url": "https://www.semrush.com/website/launchdarkly.com/overview/", "confidence": "medium"}],
+   "employees": [{"value": "450 employees (Bitscale profile, last updated Feb 2026)", "page_id": 84, "source_url": "https://bitscale.ai/directory/launchdarkly", "confidence": "medium"},
+                 {"value": "648 employees (StartupHub profile, dated July 2026)", "page_id": 85, "source_url": "https://bitscale.ai/directory/launchdarkly", "confidence": "medium"}],
+   "founded_year": [{"value": "2014", "page_id": 83, "source_url": "https://ghost.bitscale.ai/launchdarkly/", "confidence": "medium"},
+                    {"value": "2014 (founded in Oakland, California, per CB Insights)", "page_id": 86, "source_url": "https://www.cbinsights.com/company/launchdarkly", "confidence": "medium"}],
+   "headquarters": [{"value": "Oakland, California", "page_id": 85, "source_url": "https://bitscale.ai/directory/launchdarkly", "confidence": "medium"},
+                    {"value": "1999 Harrison Street Suite 1100, Oakland, California 94612 (per CB Insights)", "page_id": 86, "source_url": "https://www.cbinsights.com/company/launchdarkly", "confidence": "medium"}]
+ },
+ "locations": [{"value": "Oakland, California", "is_hq": true, "page_id": 86, "source_url": "https://www.cbinsights.com/company/launchdarkly"}]}

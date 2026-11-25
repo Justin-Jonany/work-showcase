@@ -1,0 +1,39 @@
+{"domain": "instantly.ai", "name": "Instantly",
+ "fields": {
+  "description": [
+   {"value": "Sells cold email and sales engagement software; its tools cover lead finding, outreach automation, email deliverability, and a CRM, with AI features throughout.", "page_id": 460, "source_url": "https://instantly.ai", "confidence": "high"},
+   {"value": "Lets users find leads, create AI Sales Agents, and automate outreach and sales.", "page_id": 106, "source_url": "https://instantly.ai/", "confidence": "high"},
+   {"value": "Sales platform that combines cold email automation with a built-in B2B Lead Database.", "page_id": 433, "source_url": "https://help.instantly.ai/en/articles/6221655-what-is-instantly", "confidence": "medium"},
+   {"value": "A comprehensive suite for sales automation and lead management.", "page_id": 447, "source_url": "https://craft.co/instantly", "confidence": "medium"}
+  ],
+  "product_description": [
+   {"value": "Outreach and automation (campaign creation, AI Sales Agent, AI Reply Agent, AI BDR, Automations, AI Agents); lead generation (B2B Lead Database, Lead Finder Agent, Website Visitors, Email Verification); deliverability (Inbox Placement, email warmup, Email Accounts); a CRM with revenue tracking; AI copilot, AirMail, and Managed Services.", "page_id": 460, "source_url": "https://instantly.ai", "confidence": "high"},
+   {"value": "AI Sales Agent, Outreach, Lead Database, Verification, CRM, Website Visitors, Inbox Placement, Deliverability, Email Accounts, Automations, Lead Finder Agent, AI Agents, AI BDR, AI Reply Agent, AirMail, and Managed Services.", "page_id": 106, "source_url": "https://instantly.ai/", "confidence": "high"},
+   {"value": "Cold email automation with unlimited sending accounts, automated warmup, automatic email account and domain setup, a unified inbox (Unibox), A/B testing, and API v2 with webhooks.", "page_id": 433, "source_url": "https://help.instantly.ai/en/articles/6221655-what-is-instantly", "confidence": "medium"},
+   {"value": "Sales automation and lead management suite; LinkedIn cites a lead database of 450M+ leads.", "page_id": 447, "source_url": "https://craft.co/instantly", "confidence": "medium"}
+  ],
+  "business_model_description": [
+   {"value": "Free start ('Start For Free', no credit card required) with a separate pricing page; also runs partner, affiliate, referral, and solution-partner programs. Plan prices are not given on the page.", "page_id": 460, "source_url": "https://instantly.ai", "confidence": "high"},
+   {"value": "Flat-fee SaaS subscription; Growth plan at $37 per month (5K sends, unlimited accounts) and Hypergrowth plan at $97 per month; another source gives a $197 tier.", "page_id": 433, "source_url": "https://help.instantly.ai/en/articles/6221655-what-is-instantly", "confidence": "medium"}
+  ],
+  "customer_description": [
+   {"value": "Agencies, freelancers, founders, enterprises, and sales, marketing, and sales development teams; claims 50,000+ sales teams have switched; logos include HP, Sony, Stripe, Ramp, Revolut, and Linear.", "page_id": 460, "source_url": "https://instantly.ai", "confidence": "high"},
+   {"value": "Logos shown include HP, Sony, Twitter, Stripe, Lovable, Flexport, Ramp, Revolut, and Linear; claims '50,000+ sales teams' have switched.", "page_id": 106, "source_url": "https://instantly.ai/", "confidence": "high"},
+   {"value": "Agencies, SDR teams, and founders, plus small sales teams doing their own outbound prospecting.", "page_id": 433, "source_url": "https://help.instantly.ai/en/articles/6221655-what-is-instantly", "confidence": "medium"}
+  ],
+  "revenue": [],
+  "web_traffic": [],
+  "employees": [],
+  "founded_year": [
+   {"value": "2021 (another source says it launched in January 2022)", "page_id": 433, "source_url": "https://help.instantly.ai/en/articles/6221655-what-is-instantly", "confidence": "medium"}
+  ],
+  "headquarters": [
+   {"value": "Sheridan, Wyoming (LinkedIn and several other sources)", "page_id": 447, "source_url": "https://craft.co/instantly", "confidence": "medium"},
+   {"value": "Shelton, United States (Dealroom)", "page_id": 447, "source_url": "https://craft.co/instantly", "confidence": "medium"}
+  ]
+ },
+ "locations": [
+  {"value": "Sheridan, Wyoming", "is_hq": true, "page_id": 447, "source_url": "https://craft.co/instantly"},
+  {"value": "Shelton, United States", "is_hq": false, "page_id": 447, "source_url": "https://craft.co/instantly"}
+ ]
+}

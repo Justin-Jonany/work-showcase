@@ -1,0 +1,34 @@
+{"domain": "creatio.com", "name": "Creatio",
+ "fields": {
+   "description": [
+     {"value": "AI CRM and Workflow Platform, where people and AI agents work together, with no limits on users, agents, workflows, or scale.", "page_id": 101, "source_url": "https://www.creatio.com/", "confidence": "high"},
+     {"value": "Boston-headquartered software company that sells a no-code platform for CRM and workflow automation, built around Studio Creatio.", "page_id": 17, "source_url": "websearch://Creatio company overview what does it do", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "AI Studio (manages the end-to-end enterprise agent lifecycle), AI Twin (personal agents for every employee), Business Studio (builds apps with AI coding agents and no-code designers), and Sales, Marketing and Service applications.", "page_id": 101, "source_url": "https://www.creatio.com/", "confidence": "high"},
+     {"value": "Studio Creatio, a visual tool for building enterprise apps without code; modular CRM apps for marketing, sales and service automation; a service center product; industry solutions for 20 verticals; and a marketplace of ready-made apps and templates.", "page_id": 17, "source_url": "websearch://Creatio company overview what does it do", "confidence": "medium"}
+   ],
+   "business_model_description": [],
+   "customer_description": [
+     {"value": "Customers include BSN Sports (60% growth in sales book size, per its case study); customer logos on the site include Coca-Cola, Nasdaq and MetLife.", "page_id": 101, "source_url": "https://www.creatio.com/", "confidence": "high"},
+     {"value": "Thousands of clients using its platform in 100 countries.", "page_id": 17, "source_url": "websearch://Creatio company overview what does it do", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "about $200M (2025, Latka estimate)", "page_id": 18, "source_url": "websearch://Creatio revenue", "confidence": "medium"},
+     {"value": "$100M to $200M (as of April 2026, Similarweb estimate)", "page_id": 18, "source_url": "websearch://Creatio revenue", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "700+ employees (company's own description)", "page_id": 17, "source_url": "websearch://Creatio company overview what does it do", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2014 (one profile)", "page_id": 17, "source_url": "websearch://Creatio company overview what does it do", "confidence": "medium"},
+     {"value": "2011 (another profile)", "page_id": 17, "source_url": "websearch://Creatio company overview what does it do", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Boston", "page_id": 17, "source_url": "websearch://Creatio company overview what does it do", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Boston", "is_hq": true, "page_id": 17, "source_url": "websearch://Creatio company overview what does it do"}
+ ]}

@@ -1,0 +1,47 @@
+{"domain": "hebbia.com", "name": "Hebbia",
+ "fields": {
+   "description": [
+     {"value": "Hebbia is a private American technology company in New York City that builds AI and automation tools for financial and legal research. George Sivulka founded it in August 2020.", "page_id": 423, "source_url": "https://en.wikipedia.org/wiki/Hebbia", "confidence": "high"},
+     {"value": "Hebbia is an AI company that builds tools for finance and other professional services.", "page_id": 422, "source_url": "https://www.hebbia.com", "confidence": "high"},
+     {"value": "Hebbia is a New York-based AI company founded in 2020, and its main customers are financial firms.", "page_id": 250, "source_url": "https://www.cbinsights.com/company/hebbia", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Max, an AI analyst for investment research that lets teams share AI work across a firm, and Matrix, a tool for running research at scale with source documents attached.", "page_id": 422, "source_url": "https://www.hebbia.com", "confidence": "high"},
+     {"value": "Max is an AI analyst for deal teams and Matrix manages AI-driven research at scale; integrations include SEC filings, earnings transcripts, FactSet, S&P Capital IQ, PitchBook, SharePoint, Box, Salesforce and Snowflake.", "page_id": 160, "source_url": "https://www.hebbia.com", "confidence": "high"},
+     {"value": "Its main product, Matrix, analyzes PDFs, spreadsheets and slide decks and answers plain-language questions with linked source citations; in 2025 Hebbia acquired FlashDocs, which generates slide decks.", "page_id": 423, "source_url": "https://en.wikipedia.org/wiki/Hebbia", "confidence": "high"},
+     {"value": "Flagship product is Matrix; profiles also describe AI agents that break complex tasks into smaller actions and a neural search feature.", "page_id": 250, "source_url": "https://www.cbinsights.com/company/hebbia", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "No pricing or subscription terms stated; the only call to action is Request a demo, which suggests an enterprise sales model.", "page_id": 422, "source_url": "https://www.hebbia.com", "confidence": "low"},
+     {"value": "Implies enterprise software sold to financial and legal firms; no pricing or revenue model stated.", "page_id": 423, "source_url": "https://en.wikipedia.org/wiki/Hebbia", "confidence": "low"}
+   ],
+   "customer_description": [
+     {"value": "Investors, bankers, lawyers, consultants and Fortune 500 companies; named clients include Morgan Stanley, MetLife, Centerview, OHA, 26North, Rice Management Company, New Mountain Capital and Latham & Watkins.", "page_id": 160, "source_url": "https://www.hebbia.com", "confidence": "high"},
+     {"value": "Investing, investment banking, legal and professional services, and corporate finance strategy; named clients include Morgan Stanley, MetLife, Centerview, OHA, New Mountain Capital and Latham & Watkins.", "page_id": 422, "source_url": "https://www.hebbia.com", "confidence": "high"},
+     {"value": "Asset managers, investment banks and private equity firms use Matrix for due diligence, M&A and investment research; law firms use it for contract clause review and M&A diligence.", "page_id": 423, "source_url": "https://en.wikipedia.org/wiki/Hebbia", "confidence": "high"},
+     {"value": "Powers investment decisions for BlackRock, KKR, Carlyle, Centerview and 40% of the world's largest asset managers.", "page_id": 272, "source_url": "https://getlatka.com/companies/hebbia", "confidence": "medium"},
+     {"value": "Third-party profiles say its users include professionals in finance, law, government and pharma.", "page_id": 250, "source_url": "https://www.cbinsights.com/company/hebbia", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "About $13M in 2024 revenue (Latka estimate); Built In attributes roughly $13M to TechCrunch as of mid-2024.", "page_id": 272, "source_url": "https://getlatka.com/companies/hebbia", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "138 employees (PitchBook)", "page_id": 250, "source_url": "https://www.cbinsights.com/company/hebbia", "confidence": "medium"},
+     {"value": "Estimates range widely: 103 (Latka), 120 (Built In), 80+ (Salestools), 31 (Levels.fyi).", "page_id": 272, "source_url": "https://getlatka.com/companies/hebbia", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "August 2020", "page_id": 423, "source_url": "https://en.wikipedia.org/wiki/Hebbia", "confidence": "high"},
+     {"value": "2020", "page_id": 250, "source_url": "https://www.cbinsights.com/company/hebbia", "confidence": "medium"},
+     {"value": "2020", "page_id": 272, "source_url": "https://getlatka.com/companies/hebbia", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "New York City", "page_id": 423, "source_url": "https://en.wikipedia.org/wiki/Hebbia", "confidence": "high"},
+     {"value": "New York", "page_id": 272, "source_url": "https://getlatka.com/companies/hebbia", "confidence": "medium"},
+     {"value": "New York", "page_id": 250, "source_url": "https://www.cbinsights.com/company/hebbia", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "New York City", "is_hq": true, "page_id": 423, "source_url": "https://en.wikipedia.org/wiki/Hebbia"},
+   {"value": "San Francisco", "is_hq": false, "page_id": 272, "source_url": "https://getlatka.com/companies/hebbia"}
+ ]}

@@ -1,0 +1,47 @@
+{"domain": "squareup.com", "name": "Square",
+ "fields": {
+   "description": [
+     {"value": "A payments and point-of-sale company, now part of Block, whose business has expanded well beyond card readers.", "page_id": 407, "source_url": "https://fourweekmba.com/square-business-model/", "confidence": "medium"},
+     {"value": "A payments and point-of-sale company for small and mid-sized businesses, presented as a single platform for taking payments and running the business.", "page_id": 453, "source_url": "https://squareup.com", "confidence": "high"}
+   ],
+   "product_description": [
+     {"value": "Card and contactless payment processing with POS software for restaurants, retail and appointment-based businesses, plus hardware such as terminals and card readers. Also online ordering and stores, invoicing, marketing and loyalty tools, staff scheduling, business loans and Square Card.", "page_id": 453, "source_url": "https://squareup.com", "confidence": "high"},
+     {"value": "A point-of-sale platform, launched in 2009, that lets businesses accept card payments and manage payroll, bookings, inventory, e-commerce, banking and business loans.", "page_id": 454, "source_url": "https://en.wikipedia.org/wiki/Block,_Inc.", "confidence": "high"},
+     {"value": "Point-of-sale systems, Square Capital business loans, payroll, customer engagement tools, e-commerce, inventory management, invoicing and a mobile card reader.", "page_id": 407, "source_url": "https://fourweekmba.com/square-business-model/", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Earns from payment processing fees and subscriptions. The 2015 SEC filing describes a low-cost, self-serve model in which Square acts as a payment service provider that sets its own pricing, chargeback and risk policies.", "page_id": 407, "source_url": "https://fourweekmba.com/square-business-model/", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Mainly small businesses and sole proprietors, including individual entrepreneurs and freelancers.", "page_id": 407, "source_url": "https://fourweekmba.com/square-business-model/", "confidence": "medium"},
+     {"value": "Small and mid-sized businesses in food and beverage, retail, beauty (salons, barbershops, spas) and services such as trades, automotive, professional services, pet care, cleaning and landscaping.", "page_id": 453, "source_url": "https://squareup.com", "confidence": "high"},
+     {"value": "A 2022 survey found 35% of U.S. small business owners used Square.", "page_id": 454, "source_url": "https://en.wikipedia.org/wiki/Block,_Inc.", "confidence": "high"}
+   ],
+   "revenue": [
+     {"value": "$21.92 billion (2023; Block, Inc.)", "page_id": 430, "source_url": "https://wikipedia.com/wiki/Square_Inc", "confidence": "medium"},
+     {"value": "$24.19 billion (fiscal 2025; Block, Inc., per Hyring)", "page_id": 430, "source_url": "https://wikipedia.com/wiki/Square_Inc", "confidence": "medium"},
+     {"value": "$22.1 billion (2024; total Block gross revenue, per Salesmotion)", "page_id": 430, "source_url": "https://wikipedia.com/wiki/Square_Inc", "confidence": "medium"},
+     {"value": "US$24.2 billion (2025; Block, Inc.)", "page_id": 454, "source_url": "https://en.wikipedia.org/wiki/Block,_Inc.", "confidence": "high"},
+     {"value": "about $24.1 billion (2024; Block, Inc.)", "page_id": 454, "source_url": "https://en.wikipedia.org/wiki/Block,_Inc.", "confidence": "high"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "12,985 (2023; Block, Inc.)", "page_id": 430, "source_url": "https://wikipedia.com/wiki/Square_Inc", "confidence": "medium"},
+     {"value": "about 10,205 (Hyring; Block, Inc.)", "page_id": 430, "source_url": "https://wikipedia.com/wiki/Square_Inc", "confidence": "medium"},
+     {"value": "11.37K (TradingView; Block, Inc.)", "page_id": 430, "source_url": "https://wikipedia.com/wiki/Square_Inc", "confidence": "medium"},
+     {"value": "about 6,000 (2026; Block, Inc.)", "page_id": 454, "source_url": "https://en.wikipedia.org/wiki/Block,_Inc.", "confidence": "high"}
+   ],
+   "founded_year": [
+     {"value": "February 14, 2009 (as Square, Inc.)", "page_id": 430, "source_url": "https://wikipedia.com/wiki/Square_Inc", "confidence": "medium"},
+     {"value": "February 14, 2009 (as Square, Inc.; renamed Block, Inc. in December 2021)", "page_id": 454, "source_url": "https://en.wikipedia.org/wiki/Block,_Inc.", "confidence": "high"}
+   ],
+   "headquarters": [
+     {"value": "No formal headquarters; principal office in Oakland, California (Block, Inc.)", "page_id": 454, "source_url": "https://en.wikipedia.org/wiki/Block,_Inc.", "confidence": "high"}
+   ]
+ },
+ "locations": [
+   {"value": "Oakland, California", "is_hq": true, "page_id": 454, "source_url": "https://en.wikipedia.org/wiki/Block,_Inc."},
+   {"value": "San Francisco, California", "is_hq": false, "page_id": 454, "source_url": "https://en.wikipedia.org/wiki/Block,_Inc."},
+   {"value": "St. Louis, Missouri", "is_hq": false, "page_id": 430, "source_url": "https://wikipedia.com/wiki/Square_Inc"}
+ ]
+}

@@ -1,0 +1,41 @@
+{"domain": "rogo.ai", "name": "Rogo",
+ "fields": {
+  "description": [
+   {"value": "An AI company for finance, headquartered in New York City, with a London office opened in early 2026.", "page_id": 66, "source_url": "https://www.esd.ny.gov/esd-media-center/press-releases/empire-state-development-announces-rogo-expand-new-york-city", "confidence": "medium"},
+   {"value": "Described as a secure generative AI platform built for elite financial institutions.", "page_id": 68, "source_url": "https://www.similarweb.com/company/rogo.ai", "confidence": "medium"}
+  ],
+  "product_description": [
+   {"value": "A secure generative AI platform built for elite financial institutions (Similarweb profile).", "page_id": 68, "source_url": "https://www.similarweb.com/company/rogo.ai", "confidence": "medium"}
+  ],
+  "business_model_description": [
+   {"value": "Job postings describe a shift from a seat-based model toward consumption-based pricing, with tier architecture, enterprise license structures and credit-based pricing. The company does not publish prices.", "page_id": 67, "source_url": "https://www.tealhq.com/job/senior-manager-deal-strategy-monetization_7ea1adf79c5262be73cd4927854d35661feb3", "confidence": "medium"}
+  ],
+  "customer_description": [
+   {"value": "Bulge-bracket and tier-one banks; a job posting says the company is focused on wall-to-wall adoption at those institutions.", "page_id": 67, "source_url": "https://www.tealhq.com/job/senior-manager-deal-strategy-monetization_7ea1adf79c5262be73cd4927854d35661feb3", "confidence": "medium"}
+  ],
+  "revenue": [
+   {"value": "over $50M annual recurring revenue (reported, per Enterprise DNA)", "page_id": 64, "source_url": "https://enterprisedna.co/resources/ai-map/company/rogo", "confidence": "medium"}
+  ],
+  "web_traffic": [],
+  "employees": [
+   {"value": "over 100 across New York and London (company's January 2026 London launch announcement)", "page_id": 65, "source_url": "https://www.bolsamania.com/nota-de-prensa_print/mercados/rogo-expands-to-london-with-its-first-international-office--21572773.html", "confidence": "medium"},
+   {"value": "more than 120 in New York City (Empire State Development)", "page_id": 66, "source_url": "https://www.esd.ny.gov/esd-media-center/press-releases/empire-state-development-announces-rogo-expand-new-york-city", "confidence": "medium"},
+   {"value": "51 to 200 (Similarweb profile)", "page_id": 68, "source_url": "https://www.similarweb.com/company/rogo.ai", "confidence": "medium"},
+   {"value": "11-50 (business directory estimate)", "page_id": 65, "source_url": "https://www.bolsamania.com/nota-de-prensa_print/mercados/rogo-expands-to-london-with-its-first-international-office--21572773.html", "confidence": "medium"},
+   {"value": "201-500 (business directory estimate)", "page_id": 65, "source_url": "https://www.bolsamania.com/nota-de-prensa_print/mercados/rogo-expands-to-london-with-its-first-international-office--21572773.html", "confidence": "medium"},
+   {"value": "101-250 (business directory estimate)", "page_id": 65, "source_url": "https://www.bolsamania.com/nota-de-prensa_print/mercados/rogo-expands-to-london-with-its-first-international-office--21572773.html", "confidence": "medium"}
+  ],
+  "founded_year": [
+   {"value": "2022 (PromptLoop)", "page_id": 66, "source_url": "https://www.esd.ny.gov/esd-media-center/press-releases/empire-state-development-announces-rogo-expand-new-york-city", "confidence": "medium"},
+   {"value": "2021 (Similarweb profile)", "page_id": 68, "source_url": "https://www.similarweb.com/company/rogo.ai", "confidence": "medium"}
+  ],
+  "headquarters": [
+   {"value": "New York City, NY", "page_id": 66, "source_url": "https://www.esd.ny.gov/esd-media-center/press-releases/empire-state-development-announces-rogo-expand-new-york-city", "confidence": "medium"},
+   {"value": "New York City, NY", "page_id": 65, "source_url": "https://www.bolsamania.com/nota-de-prensa_print/mercados/rogo-expands-to-london-with-its-first-international-office--21572773.html", "confidence": "medium"}
+  ]
+ },
+ "locations": [
+   {"value": "New York City, NY (360 Park Avenue South)", "is_hq": true, "page_id": 66, "source_url": "https://www.esd.ny.gov/esd-media-center/press-releases/empire-state-development-announces-rogo-expand-new-york-city"},
+   {"value": "London, UK", "is_hq": false, "page_id": 65, "source_url": "https://www.bolsamania.com/nota-de-prensa_print/mercados/rogo-expands-to-london-with-its-first-international-office--21572773.html"}
+ ]
+}

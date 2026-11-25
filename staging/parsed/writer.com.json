@@ -1,0 +1,42 @@
+{"domain": "writer.com", "name": "WRITER",
+ "fields": {
+   "description": [
+     {"value": "WRITER is an enterprise AI platform for agentic work, where AI agents carry out multi-step marketing, sales and other business tasks.", "page_id": 425, "source_url": "https://writer.com", "confidence": "high"},
+     {"value": "WRITER describes itself as 'The enterprise AI platform for agentic work.'", "page_id": 151, "source_url": "https://writer.com", "confidence": "high"},
+     {"value": "Writer is an enterprise generative AI company founded in 2020 by CEO May Habib and CTO Waseem AlShikh.", "page_id": 318, "source_url": "https://writer.com/newsroom", "confidence": "medium"},
+     {"value": "Writer is a San Francisco-based enterprise generative AI company founded in 2020.", "page_id": 335, "source_url": "https://sacra.com/c/writer", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "WRITER Agent, Playbooks, Connectors (Salesforce, Adobe, Snowflake), AI Studio for IT integration with security, identity and observability systems, plus Enterprise Brain, Models and Trust & security.", "page_id": 151, "source_url": "https://writer.com", "confidence": "high"},
+     {"value": "WRITER Agent, Playbooks, Connectors (Salesforce, Adobe, Snowflake, HubSpot, PitchBook, Gong), AI Studio, Enterprise Brain, Models, Trust & security, and a Knowledge Graph; also WRITER for Slack and Teams.", "page_id": 425, "source_url": "https://writer.com", "confidence": "high"},
+     {"value": "Palmyra family of LLMs, a graph-based Knowledge Graph for retrieval, AI Studio, Writer Framework and agents with brand and compliance governance controls.", "page_id": 318, "source_url": "https://writer.com/newsroom", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Enterprise software sold through free trials, demos and paid plans; the page gives no pricing.", "page_id": 425, "source_url": "https://writer.com", "confidence": "low"},
+     {"value": "Sells software subscriptions and enterprise contracts; Enterprise plans are custom, reflecting usage, model access, governance and support needs.", "page_id": 318, "source_url": "https://writer.com/newsroom", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Financial services, healthcare and life sciences, retail and consumer goods, and technology; named customers include Vanguard, Salesforce, KPMG, Uber, Dropbox, e.l.f. Cosmetics, SCAN Health Plan, VOIS and The Clorox Company.", "page_id": 151, "source_url": "https://writer.com", "confidence": "high"},
+     {"value": "Named customers include Vanguard, Salesforce, KPMG, Uber, Dropbox, e.l.f. Cosmetics, SCAN Health Plan, VOIS and The Clorox Company.", "page_id": 425, "source_url": "https://writer.com", "confidence": "high"},
+     {"value": "Hundreds of customers including Accenture, Intuit, Mars, Marriott, Uber and Vanguard, focused on regulated and brand-sensitive industries.", "page_id": 318, "source_url": "https://writer.com/newsroom", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "ARR about $47M as of November 2024 (Sacra estimate), up from $16M in 2023; $52.5M (Datanyze).", "page_id": 335, "source_url": "https://sacra.com/c/writer", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "Estimates range from about 250 (Datanyze) to about 350 (Built In) to about 500 (Komo); WFH.team lists 201-500.", "page_id": 335, "source_url": "https://sacra.com/c/writer", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2020", "page_id": 318, "source_url": "https://writer.com/newsroom", "confidence": "medium"},
+     {"value": "2020", "page_id": 335, "source_url": "https://sacra.com/c/writer", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco", "page_id": 335, "source_url": "https://sacra.com/c/writer", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco", "is_hq": true, "page_id": 335, "source_url": "https://sacra.com/c/writer"},
+   {"value": "New York City", "is_hq": false, "page_id": 335, "source_url": "https://sacra.com/c/writer"},
+   {"value": "London", "is_hq": false, "page_id": 335, "source_url": "https://sacra.com/c/writer"}
+ ]}

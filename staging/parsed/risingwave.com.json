@@ -1,0 +1,39 @@
+{"domain": "risingwave.com", "name": "RisingWave",
+ "fields": {
+   "description": [
+     {"value": "RisingWave is a streaming data platform that ingests, processes and serves real-time data to AI agents, applications and analytics; it calls itself 'Streaming Infrastructure for Agentic AI'.", "page_id": 484, "source_url": "https://risingwave.com", "confidence": "high"},
+     {"value": "RisingWave Labs is a San Francisco database company whose main product is an open-source streaming database.", "page_id": 470, "source_url": "https://www.cbinsights.com/company/risingwave-labs", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "RisingWave Ultra (in-memory stream processing for sub-100ms workloads); Open Lake (managed Apache Iceberg tables powered by Apache DataFusion); Low-Latency Serving (row storage for live data); cloud and self-managed deployment options.", "page_id": 484, "source_url": "https://risingwave.com", "confidence": "high"},
+     {"value": "Open-source distributed streaming database written in Rust, built on standard SQL, with native Apache Iceberg integration; RisingWave Cloud is the managed offering.", "page_id": 470, "source_url": "https://www.cbinsights.com/company/risingwave-labs", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "The core engine is open source under the Apache 2.0 license; RisingWave Cloud is a managed service with enterprise features, with a 'Start Free' trial and a 'Talk to Sales' option.", "page_id": 484, "source_url": "https://risingwave.com", "confidence": "high"},
+     {"value": "Pattern of a free open-source core plus a paid managed cloud service, with a Forever-Free Developer Tier introduced in 2024; this is inferred from the sources, not a stated pricing model.", "page_id": 470, "source_url": "https://www.cbinsights.com/company/risingwave-labs", "confidence": "low"}
+   ],
+   "customer_description": [
+     {"value": "Claims 1,000+ organizations; logos include PepsiCo, Siemens, Robinhood, Tencent, Booksy and OpenSea; industry solutions cover financial services, energy, manufacturing, sports betting, logistics, ad tech, e-commerce and healthcare.", "page_id": 484, "source_url": "https://risingwave.com", "confidence": "high"},
+     {"value": "Enterprises across financial services, e-commerce, advertising technology, manufacturing and logistics, for use cases such as trading and risk systems and IoT telemetry.", "page_id": 470, "source_url": "https://www.cbinsights.com/company/risingwave-labs", "confidence": "medium"}
+   ],
+   "revenue": [],
+   "web_traffic": [],
+   "employees": [
+     {"value": "~43 employees (one profile)", "page_id": 478, "source_url": "https://techcrunch.com/?p=2422646", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "Founded in January 2021 (one source); most sources date the company to 2021.", "page_id": 478, "source_url": "https://techcrunch.com/?p=2422646", "confidence": "medium"},
+     {"value": "Founded in 2021.", "page_id": 470, "source_url": "https://www.cbinsights.com/company/risingwave-labs", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco, CA (95 3rd St, 2nd Floor)", "page_id": 484, "source_url": "https://risingwave.com", "confidence": "high"},
+     {"value": "San Francisco, California (one directory lists 95 3rd Street, 2nd Floor)", "page_id": 478, "source_url": "https://techcrunch.com/?p=2422646", "confidence": "medium"},
+     {"value": "San Francisco, California", "page_id": 470, "source_url": "https://www.cbinsights.com/company/risingwave-labs", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco, CA", "is_hq": true, "page_id": 484, "source_url": "https://risingwave.com"},
+   {"value": "San Francisco, California", "is_hq": true, "page_id": 478, "source_url": "https://techcrunch.com/?p=2422646"},
+   {"value": "San Francisco, California", "is_hq": true, "page_id": 470, "source_url": "https://www.cbinsights.com/company/risingwave-labs"}
+ ]
+}

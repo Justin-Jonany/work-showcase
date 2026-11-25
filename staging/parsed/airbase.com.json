@@ -1,0 +1,43 @@
+{"domain": "airbase.com", "name": "Airbase",
+ "fields": {
+   "description": [
+     {"value": "Airbase, a Paylocity company, offers spend management. Its Paylocity for Finance product combines advanced spend management capabilities with Paylocity's HCM platform, so finance teams can manage payroll and non-payroll expenses in one place.", "page_id": 139, "source_url": "https://airbase.com", "confidence": "high"},
+     {"value": "Airbase, a Paylocity company, is a spend management provider.", "page_id": 270, "source_url": "https://www.airbase.com", "confidence": "high"},
+     {"value": "Airbase is a spend management platform for non-payroll spending, covering bill pay, accounts payable automation, expense management, corporate cards, and procurement.", "page_id": 241, "source_url": "https://expertinsights.com/reviews/airbase", "confidence": "medium"},
+     {"value": "A spend management platform.", "page_id": 253, "source_url": "https://getlatka.com/companies/airbase", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Paylocity for Finance combines spend management with Paylocity's HCM platform so finance teams can manage payroll and non-payroll expenses in one place. Airbase also offers separate logins for customers and vendors and interactive product tours of its modules.", "page_id": 139, "source_url": "https://airbase.com", "confidence": "high"},
+     {"value": "Paylocity for Finance combines spend management with Paylocity's HCM platform so companies can manage payroll and non-payroll expenses in one place. Also offers vendor and customer portals and interactive product tours of its modules.", "page_id": 270, "source_url": "https://www.airbase.com", "confidence": "high"},
+     {"value": "Core modules include guided procurement and purchase approvals, AI-assisted accounts payable for invoices and payments, and expense reporting with policy enforcement. Physical and virtual corporate cards come with spend controls, and it integrates with NetSuite, Sage Intacct, and QuickBooks.", "page_id": 241, "source_url": "https://expertinsights.com/reviews/airbase", "confidence": "medium"},
+     {"value": "Described as three products in one system: all-inclusive accounts payable automation, software-enabled corporate cards, and simplified employee expense reimbursements.", "page_id": 253, "source_url": "https://getlatka.com/companies/airbase", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Sold as a software subscription, with pricing not public (pricing upon request, with a free demo).", "page_id": 241, "source_url": "https://expertinsights.com/reviews/airbase", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Serves finance teams at client companies.", "page_id": 139, "source_url": "https://airbase.com", "confidence": "high"},
+     {"value": "Serves existing clients, who can keep working with their current contacts.", "page_id": 270, "source_url": "https://www.airbase.com", "confidence": "high"},
+     {"value": "Mid-market and early-enterprise companies; best suited to tech startups and mid-sized companies with complex financial operations, such as finance teams at SaaS and e-commerce businesses.", "page_id": 241, "source_url": "https://expertinsights.com/reviews/airbase", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$96.6M (2024, per Latka)", "page_id": 253, "source_url": "https://getlatka.com/companies/airbase", "confidence": "medium"},
+     {"value": "$89.5M annual revenue (StartupHub estimate)", "page_id": 253, "source_url": "https://getlatka.com/companies/airbase", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "Roughly 200 to 350 (estimates); 353 in one profile, 292 in another, 210 in a third", "page_id": 253, "source_url": "https://getlatka.com/companies/airbase", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2017 (most sources agree)", "page_id": 253, "source_url": "https://getlatka.com/companies/airbase", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco, United States (most sources)", "page_id": 253, "source_url": "https://getlatka.com/companies/airbase", "confidence": "medium"},
+     {"value": "Burlingame, California, United States (one listing)", "page_id": 253, "source_url": "https://getlatka.com/companies/airbase", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco, California", "is_hq": true, "page_id": 253, "source_url": "https://getlatka.com/companies/airbase"},
+   {"value": "Burlingame, California", "is_hq": false, "page_id": 253, "source_url": "https://getlatka.com/companies/airbase"}
+ ]
+}

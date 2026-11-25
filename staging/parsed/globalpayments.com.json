@@ -1,0 +1,56 @@
+{"domain": "globalpayments.com", "name": "Global Payments",
+ "fields": {
+   "description": [
+     {"value": "An American multinational financial technology company that provides payment technology to merchants, card issuers and consumers.", "page_id": 81, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "high"},
+     {"value": "A payment technology company that serves merchants, card issuers and consumers, processing credit card, debit card, digital and contactless payments.", "page_id": 420, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "high"},
+     {"value": "A payments technology company headquartered in Atlanta, Georgia, that helps merchants, banks and consumers accept and process electronic payments.", "page_id": 16, "source_url": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926023872/tm267259-1_424b5.htm", "confidence": "medium"},
+     {"value": "A payment technology and software company.", "page_id": 390, "source_url": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926024776/tm267259-2_424b5.htm", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Integrated payments, e-commerce and omnichannel services.", "page_id": 81, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "high"},
+     {"value": "Payment services to merchants directly and through other financial institutions, including integrated payments, e-commerce and omnichannel commerce.", "page_id": 420, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "high"},
+     {"value": "Merchant Solutions (authorization, settlement, chargebacks, terminal services); Issuer Solutions (payment products and services for financial institutions); and vertical software for restaurants, healthcare, education and gaming.", "page_id": 16, "source_url": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926023872/tm267259-1_424b5.htm", "confidence": "medium"},
+     {"value": "Merchant terminal rental, payment security, reporting and vertical software such as Genius and specialty POS software; accounts receivable automation and inventory management; and Netspend prepaid debit and payroll cards and demand deposit accounts.", "page_id": 390, "source_url": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926024776/tm267259-2_424b5.htm", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Largely transaction-based; one profile also lists subscription SaaS, licensing and professional services.", "page_id": 390, "source_url": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926024776/tm267259-2_424b5.htm", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "About 3.5 million merchants and 1,300 financial institutions in more than 100 countries.", "page_id": 81, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "high"},
+     {"value": "About 3.5 million merchants and 1,300 financial institutions in more than 100 countries.", "page_id": 420, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "high"},
+     {"value": "Merchants, banks, financial institutions and consumers, with Issuer Solutions serving financial institutions.", "page_id": 16, "source_url": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926023872/tm267259-1_424b5.htm", "confidence": "medium"},
+     {"value": "Small-to-medium sized businesses, enterprise retailers, education institutions and others.", "page_id": 390, "source_url": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926024776/tm267259-2_424b5.htm", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "US$10.1 billion (2024)", "page_id": 81, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "high"},
+     {"value": "US$10.1 billion in 2024", "page_id": 420, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "high"},
+     {"value": "US$10.1 billion (2024, Wikipedia)", "page_id": 404, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "27,000 (2024)", "page_id": 81, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "high"},
+     {"value": "About 27,000 as of 2024; nearly 24,000 shortly after the 2019 TSYS merger", "page_id": 420, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "high"},
+     {"value": "approximately 27,000 employees worldwide", "page_id": 16, "source_url": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926023872/tm267259-1_424b5.htm", "confidence": "medium"},
+     {"value": "approximately 27,000 employees worldwide", "page_id": 390, "source_url": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926024776/tm267259-2_424b5.htm", "confidence": "medium"},
+     {"value": "27,000 (2024, Wikipedia)", "page_id": 404, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2000 (as a National Data Corporation subsidiary; spun off in 2001)", "page_id": 81, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "high"},
+     {"value": "2000 (infobox; spun off 2001). The history section says it was founded in 1996.", "page_id": 420, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "high"},
+     {"value": "Incorporated 2000 and spun off from its former parent in 2001", "page_id": 16, "source_url": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926023872/tm267259-1_424b5.htm", "confidence": "medium"},
+     {"value": "Founded in 1967 (per SEC filings summary); incorporated 2000 and spun off in 2001", "page_id": 390, "source_url": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926024776/tm267259-2_424b5.htm", "confidence": "medium"},
+     {"value": "2000 (Wikipedia; National Data Corporation subsidiary)", "page_id": 404, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "medium"},
+     {"value": "1967 (TradingView and FWB listings, founder George W. Thorpe)", "page_id": 404, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Three Alliance Center, Atlanta, Georgia, U.S.", "page_id": 81, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "high"},
+     {"value": "Three Alliance Center, Atlanta, Georgia (moved there from Sandy Springs, Georgia, in 2016)", "page_id": 420, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "high"},
+     {"value": "Atlanta, Georgia", "page_id": 16, "source_url": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926023872/tm267259-1_424b5.htm", "confidence": "medium"},
+     {"value": "Georgia", "page_id": 390, "source_url": "https://www.sec.gov/Archives/edgar/data/1123360/000110465926024776/tm267259-2_424b5.htm", "confidence": "medium"},
+     {"value": "Three Alliance Center, Atlanta, Georgia", "page_id": 404, "source_url": "https://en.wikipedia.org/wiki/Global_Payments", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Atlanta, Georgia, United States", "is_hq": true, "page_id": 81, "source_url": "https://en.wikipedia.org/wiki/Global_Payments"},
+   {"value": "Sandy Springs, Georgia (former headquarters)", "is_hq": false, "page_id": 420, "source_url": "https://en.wikipedia.org/wiki/Global_Payments"}
+ ]}

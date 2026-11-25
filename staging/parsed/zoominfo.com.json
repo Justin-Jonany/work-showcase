@@ -1,0 +1,68 @@
+{"domain": "zoominfo.com", "name": "ZoomInfo",
+ "fields": {
+   "description": [
+     {"value": "All-in-one AI GTM Platform for B2B sales, marketing, RevOps and customer success teams.", "page_id": 217, "source_url": "https://www.zoominfo.com", "confidence": "high"},
+     {"value": "Registered data broker in the United States that collects and sells public and private personal data through data and web scraping, plus business information.", "page_id": 216, "source_url": "https://en.wikipedia.org/wiki/ZoomInfo", "confidence": "high"},
+     {"value": "B2B go-to-market platform that gives sales, marketing and recruiting teams data on companies and contacts, with intent signals and automation on top.", "page_id": 89, "source_url": "https://www.zoominfo.com/about-us", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Verified data on 500M+ contacts and 100M+ companies, plus GTM Context Graph, GTM Workspace AI agents, Agent Teams, and GTM.AI access via API, CLI and MCP server.", "page_id": 217, "source_url": "https://www.zoominfo.com", "confidence": "high"},
+     {"value": "Paid lineup of ZoomInfo Copilot, Sales, Marketing, Operations and Talent, plus ZoomInfo Lite; pushes data into the CRM and tracks buying signals.", "page_id": 89, "source_url": "https://www.zoominfo.com/about-us", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Free to start, with consumption credits based on usage; no fixed seat tiers; ZoomInfo Lite is a permanent free plan.", "page_id": 217, "source_url": "https://www.zoominfo.com", "confidence": "high"},
+     {"value": "Sells subscriptions priced by functionality, users and records under management; many plans run on credits, and add-ons are priced on expected usage. Pricing is custom per customer.", "page_id": 93, "source_url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451525000045/zi-20241231.htm", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Trusted by 35,000+ companies worldwide, including 8 of the 10 largest companies in the world and more than half of the Fortune 500, per its FAQ.", "page_id": 217, "source_url": "https://www.zoominfo.com", "confidence": "high"},
+     {"value": "Serves global enterprises, mid-market companies and small businesses across many industries.", "page_id": 89, "source_url": "https://www.zoominfo.com/about-us", "confidence": "medium"},
+     {"value": "Broad base from the largest global enterprises down to mid-market and small businesses; no single customer contributed more than 1% of 2024 revenue.", "page_id": 93, "source_url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451525000045/zi-20241231.htm", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "US$1.25 billion (2025)", "page_id": 216, "source_url": "https://en.wikipedia.org/wiki/ZoomInfo", "confidence": "high"},
+     {"value": "about $1.25 billion (2025), 3% year-over-year growth", "page_id": 90, "source_url": "https://ycharts.com/companies/GTM/revenues", "confidence": "medium"}
+   ],
+   "web_traffic": [
+     {"value": "10.09M visits (January 2026, Semrush)", "page_id": 94, "source_url": "https://semrush.com/website/zoominfo.com/overview", "confidence": "medium"}
+   ],
+   "employees": [
+     {"value": "3,508 (2024)", "page_id": 216, "source_url": "https://en.wikipedia.org/wiki/ZoomInfo", "confidence": "high"},
+     {"value": "3,824 total employees (July 2025, UnifyGTM)", "page_id": 91, "source_url": "https://www.unifygtm.com/insights-headcount/zoominfo", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "Founded in 2007", "page_id": 217, "source_url": "https://www.zoominfo.com", "confidence": "high"},
+     {"value": "2007 (as DiscoverOrg)", "page_id": 216, "source_url": "https://en.wikipedia.org/wiki/ZoomInfo", "confidence": "high"},
+     {"value": "2007 (business began as DiscoverOrg, per company site)", "page_id": 89, "source_url": "https://www.zoominfo.com/about-us", "confidence": "medium"},
+     {"value": "co-founded in 2007 by CEO Henry Schuck; operated as DiscoverOrg before the name change", "page_id": 92, "source_url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451524000016/zi-20231231.htm", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Vancouver, Washington", "page_id": 217, "source_url": "https://www.zoominfo.com", "confidence": "high"},
+     {"value": "Vancouver, Washington, U.S.", "page_id": 216, "source_url": "https://en.wikipedia.org/wiki/ZoomInfo", "confidence": "high"},
+     {"value": "Vancouver, Washington", "page_id": 89, "source_url": "https://www.zoominfo.com/about-us", "confidence": "medium"},
+     {"value": "Vancouver, WA", "page_id": 91, "source_url": "https://www.unifygtm.com/insights-headcount/zoominfo", "confidence": "medium"},
+     {"value": "Vancouver, Washington", "page_id": 92, "source_url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451524000016/zi-20231231.htm", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Vancouver, Washington", "is_hq": true, "page_id": 217, "source_url": "https://www.zoominfo.com"},
+   {"value": "Vancouver, Washington, U.S.", "is_hq": true, "page_id": 216, "source_url": "https://en.wikipedia.org/wiki/ZoomInfo"},
+   {"value": "Vancouver, Washington", "is_hq": true, "page_id": 89, "source_url": "https://www.zoominfo.com/about-us"},
+   {"value": "Vancouver, Washington", "is_hq": true, "page_id": 91, "source_url": "https://www.unifygtm.com/insights-headcount/zoominfo"},
+   {"value": "Bethesda, Maryland", "is_hq": false, "page_id": 91, "source_url": "https://www.unifygtm.com/insights-headcount/zoominfo"},
+   {"value": "Conshohocken, Pennsylvania", "is_hq": false, "page_id": 91, "source_url": "https://www.unifygtm.com/insights-headcount/zoominfo"},
+   {"value": "San Francisco, California", "is_hq": false, "page_id": 91, "source_url": "https://www.unifygtm.com/insights-headcount/zoominfo"},
+   {"value": "Waltham, Massachusetts", "is_hq": false, "page_id": 91, "source_url": "https://www.unifygtm.com/insights-headcount/zoominfo"},
+   {"value": "Bengaluru, India", "is_hq": false, "page_id": 91, "source_url": "https://www.unifygtm.com/insights-headcount/zoominfo"},
+   {"value": "Chennai, India", "is_hq": false, "page_id": 91, "source_url": "https://www.unifygtm.com/insights-headcount/zoominfo"},
+   {"value": "London, UK", "is_hq": false, "page_id": 91, "source_url": "https://www.unifygtm.com/insights-headcount/zoominfo"},
+   {"value": "Vancouver, Washington", "is_hq": true, "page_id": 92, "source_url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451524000016/zi-20231231.htm"},
+   {"value": "Waltham, Massachusetts", "is_hq": false, "page_id": 92, "source_url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451524000016/zi-20231231.htm"},
+   {"value": "Bethesda, Maryland", "is_hq": false, "page_id": 92, "source_url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451524000016/zi-20231231.htm"},
+   {"value": "Conshohocken, Pennsylvania", "is_hq": false, "page_id": 92, "source_url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451524000016/zi-20231231.htm"},
+   {"value": "Grand Rapids, Michigan", "is_hq": false, "page_id": 92, "source_url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451524000016/zi-20231231.htm"},
+   {"value": "San Francisco, California", "is_hq": false, "page_id": 92, "source_url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451524000016/zi-20231231.htm"},
+   {"value": "Ra'anana, Israel", "is_hq": false, "page_id": 92, "source_url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451524000016/zi-20231231.htm"},
+   {"value": "Toronto, Canada", "is_hq": false, "page_id": 92, "source_url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451524000016/zi-20231231.htm"},
+   {"value": "Chennai, India", "is_hq": false, "page_id": 92, "source_url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451524000016/zi-20231231.htm"},
+   {"value": "London, England", "is_hq": false, "page_id": 92, "source_url": "https://www.sec.gov/Archives/edgar/data/1794515/000179451524000016/zi-20231231.htm"}
+ ]}

@@ -1,0 +1,19 @@
+{"domain": "postman.com", "name": "Postman, Inc.",
+ "fields": {
+   "description": [{"value": "American software company that offers an API testing platform for developers. It also maintains the Postman API Network, a directory of over 100,000 public APIs.", "page_id": 128, "source_url": "https://en.wikipedia.org/wiki/Postman_(software)", "confidence": "high"}],
+   "product_description": [{"value": "API testing platform for developers, plus the Postman API Network, a directory of over 100,000 public APIs.", "page_id": 128, "source_url": "https://en.wikipedia.org/wiki/Postman_(software)", "confidence": "high"}],
+   "business_model_description": [{"value": "Tiered pricing, ranging from free options for small teams.", "page_id": 128, "source_url": "https://en.wikipedia.org/wiki/Postman_(software)", "confidence": "high"}],
+   "customer_description": [{"value": "Developers, as the stated audience for its API testing platform.", "page_id": 128, "source_url": "https://en.wikipedia.org/wiki/Postman_(software)", "confidence": "low"}],
+   "revenue": [{"value": "estimated annual revenue is currently $506.1M per year (Growjo estimate)", "page_id": 123, "source_url": "https://growjo.com/company/Postman", "confidence": "medium"}],
+   "web_traffic": [{"value": "3.78M visits in October (Semrush; year not stated)", "page_id": 121, "source_url": "https://cw.semrush.com/website/postman.com/overview", "confidence": "medium"},
+                   {"value": "5.16M visits in March (Semrush; year not stated)", "page_id": 122, "source_url": "https://semrush.com/website/postman.com/overview", "confidence": "medium"}],
+   "employees": [{"value": "828 employees (July 2025 press release)", "page_id": 124, "source_url": "https://www.businesswire.com/news/home/20250723358311/en/Postman-Announces-New-San-Francisco-Headquarters-to-Accelerate-Growth-and-Innovation/", "confidence": "medium"},
+                 {"value": "1,455 total employees (Built In)", "page_id": 125, "source_url": "https://builtin.com/company/postman", "confidence": "medium"},
+                 {"value": "850 total employees (Built In Boston)", "page_id": 126, "source_url": "https://www.builtinboston.com/company/postman", "confidence": "medium"}],
+   "founded_year": [],
+   "headquarters": [{"value": "San Francisco, at One Market Plaza, Steuart Tower (new headquarters)", "page_id": 124, "source_url": "https://www.businesswire.com/news/home/20250723358311/en/Postman-Announces-New-San-Francisco-Headquarters-to-Accelerate-Growth-and-Innovation/", "confidence": "medium"},
+                    {"value": "San Francisco", "page_id": 128, "source_url": "https://en.wikipedia.org/wiki/Postman_(software)", "confidence": "high"}]
+ },
+ "locations": [{"value": "San Francisco, California (One Market Plaza, Steuart Tower)", "is_hq": true, "page_id": 124, "source_url": "https://www.businesswire.com/news/home/20250723358311/en/Postman-Announces-New-San-Francisco-Headquarters-to-Accelerate-Growth-and-Innovation/"},
+               {"value": "Tokyo", "is_hq": false, "page_id": 128, "source_url": "https://en.wikipedia.org/wiki/Postman_(software)"},
+               {"value": "Bengaluru", "is_hq": false, "page_id": 128, "source_url": "https://en.wikipedia.org/wiki/Postman_(software)"}]}

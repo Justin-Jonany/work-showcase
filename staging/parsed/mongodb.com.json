@@ -1,0 +1,68 @@
+{"domain": "mongodb.com", "name": "MongoDB, Inc.",
+ "fields": {
+   "description": [
+     {"value": "American software company that develops and provides commercial support for the source-available database engine MongoDB.", "page_id": 185, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "New York City-based software company that develops and supports the MongoDB database, a source-available database for unstructured data.", "page_id": 428, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "Combines real-time operational data, vectors, and elastic scale in a single intelligent data platform built on the document model, deployable across any cloud or on your own infrastructure.", "page_id": 186, "source_url": "https://www.mongodb.com", "confidence": "high"},
+     {"value": "A document-based data platform, MongoDB Atlas, positioned as an intelligent data platform for the AI era.", "page_id": 406, "source_url": "https://www.mongodb.com", "confidence": "high"},
+     {"value": "A New York-based database company founded in 2007 that has grown from its NoSQL roots into a cloud-focused business.", "page_id": 378, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "MongoDB database engine; Atlas, a SaaS version introduced in 2016.", "page_id": 185, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "Atlas (Atlas Database, Atlas Search, Vector Search, Atlas Stream Processing and Atlas Agent Engine, now in public preview), Voyage AI embedding and reranking models, Enterprise Advanced, Community Edition, Compass and Relational Migrator.", "page_id": 186, "source_url": "https://www.mongodb.com", "confidence": "high"},
+     {"value": "MongoDB Atlas managed cloud platform; Voyage AI embedding models and rerankers; self-managed Enterprise Advanced and free Community Edition; Compass GUI, Integrations and Relational Migrator. MongoDB 9.0 is the current version.", "page_id": 406, "source_url": "https://www.mongodb.com", "confidence": "high"},
+     {"value": "The MongoDB database, which began as a NoSQL product and added ACID transactions, analytics, encryption and vector search. Its cloud service, Atlas, launched in 2016.", "page_id": 428, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "A document database flagship; Atlas cloud service; Enterprise Advanced self-managed server; free Community Server; consulting and training services.", "page_id": 378, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Source-available database under the Server Side Public License (SSPL), which is not OSI-approved; the company moved away from AGPL in 2018.", "page_id": 185, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "Cloud service Atlas, launched in 2016, accounted for 73% of fiscal 2026 revenue.", "page_id": 428, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "Revenue comes from a mix of subscriptions and usage-based pricing, spanning cloud service fees, on-premises licenses, and support and consulting. Free tiers feed the developer base that converts to paid plans.", "page_id": 378, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "The product has expanded beyond its NoSQL roots to appeal to enterprise customers; the article cites 59,000 customers as of 2025.", "page_id": 185, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "Trusted by Anthropic, Factory AI, Mercor, ElevenLabs, Fireworks AI, Coinbase and Emergent Labs; case studies include Victoria's Secret, Toyota Connected, LG U+, Novo Nordisk and Coinbase.", "page_id": 186, "source_url": "https://www.mongodb.com", "confidence": "high"},
+     {"value": "The page cites 50,000 customers in 2024, 59,000 in 2025, and over 65,200 total customers in fiscal 2026.", "page_id": 428, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "Trusted by Anthropic, Factory AI, Mercor, ElevenLabs, Fireworks AI, Coinbase and Emergent Labs; case studies include Victoria's Secret, Toyota Connected, LG U+, Novo Nordisk and Coinbase.", "page_id": 406, "source_url": "https://www.mongodb.com", "confidence": "high"},
+     {"value": "Named users include Adobe, eBay, Forbes and The New York Times; industries range from finance and healthcare to retail.", "page_id": 378, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "US$2.46 billion (2026)", "page_id": 185, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "$2.46 billion in fiscal 2026, up 23% year over year.", "page_id": 428, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "US$2.46 billion (2026)", "page_id": 391, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"},
+     {"value": "US$1.68 billion (2024)", "page_id": 391, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"},
+     {"value": "about $2.46B in annual revenue (Statvoo)", "page_id": 391, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"},
+     {"value": "around $2 billion in 2025 (one aggregator)", "page_id": 378, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "5,636 (2026)", "page_id": 185, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "5,636 (2026)", "page_id": 428, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "5,636 (2026)", "page_id": 391, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"},
+     {"value": "about 5,200 (Statvoo)", "page_id": 391, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"},
+     {"value": "roughly 5.56K for the latest fiscal year (TradingView)", "page_id": 391, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"},
+     {"value": "5,695 (PitchBook)", "page_id": 391, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2007", "page_id": 185, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "2007 as 10gen", "page_id": 428, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "2007 as 10gen", "page_id": 391, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"},
+     {"value": "2007", "page_id": 378, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Paramount Plaza, New York City, U.S.", "page_id": 185, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "Paramount Plaza, New York City", "page_id": 428, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "high"},
+     {"value": "Paramount Plaza, New York City", "page_id": 391, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"},
+     {"value": "New York-based", "page_id": 378, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc.", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Paramount Plaza, New York City", "is_hq": true, "page_id": 185, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc."},
+   {"value": "1633 Broadway, New York", "is_hq": false, "page_id": 391, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc."},
+   {"value": "Palo Alto", "is_hq": false, "page_id": 185, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc."},
+   {"value": "Reston", "is_hq": false, "page_id": 185, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc."},
+   {"value": "London", "is_hq": false, "page_id": 185, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc."},
+   {"value": "Dublin", "is_hq": false, "page_id": 185, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc."},
+   {"value": "Barcelona", "is_hq": false, "page_id": 185, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc."},
+   {"value": "Sydney", "is_hq": false, "page_id": 185, "source_url": "https://en.wikipedia.org/wiki/MongoDB_Inc."}
+ ]}

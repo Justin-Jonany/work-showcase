@@ -1,0 +1,50 @@
+{"domain": "paypal.com", "name": "PayPal",
+ "fields": {
+   "description": [
+     {"value": "A two-sided payments platform that connects consumers and merchants, with 439 million active accounts across approximately 200 markets as of December 31, 2025.", "page_id": 347, "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/pypl-20251231.htm", "confidence": "medium"},
+     {"value": "A digital wallet that lets consumers pay merchants, send money, and request payments.", "page_id": 393, "source_url": "https://www.paypal.com", "confidence": "high"},
+     {"value": "PayPal Holdings, Inc. is an American financial technology company that runs an online payments system in most countries that support online money transfers.", "page_id": 394, "source_url": "https://en.wikipedia.org/wiki/PayPal", "confidence": "high"}
+   ],
+   "product_description": [
+     {"value": "Online payments, PayPal Credit, in-store payments, and cryptocurrency and stablecoin offerings (PYUSD). Subsidiaries include Braintree, Venmo, Xoom, Zettle and Honey.", "page_id": 394, "source_url": "https://en.wikipedia.org/wiki/PayPal", "confidence": "high"},
+     {"value": "Checkout with PayPal, Pay in 4 (four interest-free instalments on eligible purchases of $10 to $2,000 CAD), Pay Monthly (6, 12 or 24-month plans), Send and Request Money, and the PayPal app.", "page_id": 393, "source_url": "https://www.paypal.com", "confidence": "high"},
+     {"value": "Digital wallets (PayPal and Venmo) for paying online and in person, managing finances including crypto, and sending money. Merchant offering covers authorization, settlement, instant access to funds and risk tools.", "page_id": 347, "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/pypl-20251231.htm", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Charges fees for processing payments for online vendors, auction sites, and other businesses.", "page_id": 394, "source_url": "https://en.wikipedia.org/wiki/PayPal", "confidence": "high"},
+     {"value": "Two-sided network in which merchants and consumers both hold PayPal accounts with stored balance functionality, built on a proprietary Payments Platform that combines PayPal, Venmo and Braintree.", "page_id": 347, "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/pypl-20251231.htm", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Online merchants, auction sites, businesses and individual consumers, with use in more than 200 countries and regions.", "page_id": 394, "source_url": "https://en.wikipedia.org/wiki/PayPal", "confidence": "high"},
+     {"value": "Individual consumers who shop online or in stores, and people who send or receive money.", "page_id": 393, "source_url": "https://www.paypal.com", "confidence": "high"},
+     {"value": "Consumers and merchants on the two-sided network, per the FY2025 10-K summary.", "page_id": 347, "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/pypl-20251231.htm", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "US$33.2 billion (2025)", "page_id": 362, "source_url": "https://en.wikipedia.org/wiki/PayPal", "confidence": "medium"},
+     {"value": "Annual Revenue $33.17B (Statvoo)", "page_id": 362, "source_url": "https://en.wikipedia.org/wiki/PayPal", "confidence": "medium"},
+     {"value": "US$33.2 billion (2025)", "page_id": 394, "source_url": "https://en.wikipedia.org/wiki/PayPal", "confidence": "high"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "23,800 (2025)", "page_id": 362, "source_url": "https://en.wikipedia.org/wiki/PayPal", "confidence": "medium"},
+     {"value": "26,500 (Statvoo)", "page_id": 362, "source_url": "https://en.wikipedia.org/wiki/PayPal", "confidence": "medium"},
+     {"value": "about 24,400 (TradingView)", "page_id": 362, "source_url": "https://en.wikipedia.org/wiki/PayPal", "confidence": "medium"},
+     {"value": "About 23,800 (2025)", "page_id": 394, "source_url": "https://en.wikipedia.org/wiki/PayPal", "confidence": "high"}
+   ],
+   "founded_year": [
+     {"value": "1998", "page_id": 347, "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/pypl-20251231.htm", "confidence": "medium"},
+     {"value": "December 1998 (as Confinity); October 1999 (as X.com); March 2000 (as PayPal)", "page_id": 362, "source_url": "https://en.wikipedia.org/wiki/PayPal", "confidence": "medium"},
+     {"value": "December 1998 (as Confinity)", "page_id": 394, "source_url": "https://en.wikipedia.org/wiki/PayPal", "confidence": "high"}
+   ],
+   "headquarters": [
+     {"value": "San Jose, California", "page_id": 347, "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/pypl-20251231.htm", "confidence": "medium"},
+     {"value": "San Jose, California, U.S.", "page_id": 362, "source_url": "https://en.wikipedia.org/wiki/PayPal", "confidence": "medium"},
+     {"value": "San Jose, California", "page_id": 394, "source_url": "https://en.wikipedia.org/wiki/PayPal", "confidence": "high"}
+   ]
+ },
+ "locations": [
+   {"value": "San Jose, California", "is_hq": true, "page_id": 394, "source_url": "https://en.wikipedia.org/wiki/PayPal"},
+   {"value": "La Vista, Nebraska", "is_hq": false, "page_id": 394, "source_url": "https://en.wikipedia.org/wiki/PayPal"},
+   {"value": "Luxembourg", "is_hq": false, "page_id": 394, "source_url": "https://en.wikipedia.org/wiki/PayPal"}
+ ]
+}

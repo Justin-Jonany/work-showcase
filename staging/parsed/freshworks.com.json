@@ -1,0 +1,50 @@
+{
+  "domain": "freshworks.com",
+  "name": "Freshworks Inc.",
+  "fields": {
+    "description": [
+      {"value": "A cloud-based software-as-a-service company founded in 2010 in Chennai, India, that sells cloud-based tools for CRM, IT service management and e-commerce marketing.", "page_id": 111, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "high"},
+      {"value": "A cloud-based SaaS company selling CRM tools and IT service management (ITSM) tools, plus e-commerce marketing tools.", "page_id": 410, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "high"},
+      {"value": "A San Mateo-based SaaS company founded in 2010 that began as Freshdesk, a customer support tool, and later added ITSM and CRM products.", "page_id": 389, "source_url": "https://bitscale.ai/directory/freshworks-2", "confidence": "medium"}
+    ],
+    "product_description": [
+      {"value": "Customer relationship management (CRM) and IT service management (ITSM) tools.", "page_id": 111, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "high"},
+      {"value": "CRM tools including Freshsales (launched 2016), ITSM tools including Freshservice (launched 2014), e-commerce marketing tools, and an IT Asset Management (ITAM) product launched in April 2026.", "page_id": 410, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "high"},
+      {"value": "Freshdesk (customer support), Freshservice (ITSM), Freshsales (sales CRM), Freshchat (messaging) and Freshteam (HR recruiting), with Freddy AI as the AI engine and Freshworks Neo as the underlying platform.", "page_id": 389, "source_url": "https://bitscale.ai/directory/freshworks-2", "confidence": "medium"}
+    ],
+    "business_model_description": [
+      {"value": "Revenue comes mainly from SaaS subscriptions, with several plans per product.", "page_id": 389, "source_url": "https://bitscale.ai/directory/freshworks-2", "confidence": "medium"}
+    ],
+    "customer_description": [
+      {"value": "Stated focus is small and mid-sized businesses. Named customers include Bridgestone, Cisco, Honda, Klarna and Databricks.", "page_id": 389, "source_url": "https://bitscale.ai/directory/freshworks-2", "confidence": "medium"}
+    ],
+    "revenue": [
+      {"value": "US$838.8 million (2025)", "page_id": 111, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "high"},
+      {"value": "US$838.8 million (2025)", "page_id": 410, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "high"},
+      {"value": "US$838.8 million (2025)", "page_id": 400, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "medium"},
+      {"value": "Roughly $838.8M in annual revenue (no year given)", "page_id": 389, "source_url": "https://bitscale.ai/directory/freshworks-2", "confidence": "medium"}
+    ],
+    "web_traffic": [],
+    "employees": [
+      {"value": "~5,300 (2025)", "page_id": 111, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "high"},
+      {"value": "About 5,300 (2025)", "page_id": 410, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "high"},
+      {"value": "~5,300 (2025)", "page_id": 400, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "medium"}
+    ],
+    "founded_year": [
+      {"value": "2010 (as Freshdesk, in Chennai, India)", "page_id": 111, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "high"},
+      {"value": "2010 (as Freshdesk)", "page_id": 410, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "high"},
+      {"value": "2010", "page_id": 400, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "medium"},
+      {"value": "2010", "page_id": 389, "source_url": "https://bitscale.ai/directory/freshworks-2", "confidence": "medium"}
+    ],
+    "headquarters": [
+      {"value": "San Mateo, California, United States", "page_id": 111, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "high"},
+      {"value": "San Mateo, California, United States (since 2018)", "page_id": 410, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "high"},
+      {"value": "San Mateo, California", "page_id": 400, "source_url": "https://en.wikipedia.org/wiki/Freshworks", "confidence": "medium"},
+      {"value": "San Mateo, California", "page_id": 389, "source_url": "https://bitscale.ai/directory/freshworks-2", "confidence": "medium"}
+    ]
+  },
+  "locations": [
+    {"value": "San Mateo, California, United States", "is_hq": true, "page_id": 111, "source_url": "https://en.wikipedia.org/wiki/Freshworks"},
+    {"value": "Chennai, India", "is_hq": false, "page_id": 111, "source_url": "https://en.wikipedia.org/wiki/Freshworks"}
+  ]
+}

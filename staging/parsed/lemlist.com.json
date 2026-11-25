@@ -1,0 +1,50 @@
+{"domain": "lemlist.com", "name": "lemlist",
+ "fields": {
+  "description": [
+   {"value": "AI-powered sales engagement platform covering lead finding, enrichment, multichannel outreach, and email deliverability.", "page_id": 412, "source_url": "https://www.lemlist.com", "confidence": "high"},
+   {"value": "An AI-powered sales engagement platform that finds leads and personalizes outreach.", "page_id": 105, "source_url": "https://www.lemlist.com/", "confidence": "high"},
+   {"value": "Cold outreach and sales engagement platform; review sites describe it as a SaaS sales engagement and cold email automation platform.", "page_id": 385, "source_url": "https://www.capterra.co.uk/software/173776/lemlist", "confidence": "medium"},
+   {"value": "Multichannel sales engagement platform; LinkedIn describes it as an AI platform for outbound sales.", "page_id": 401, "source_url": "https://getlatka.com/companies/lemlist", "confidence": "medium"}
+  ],
+  "product_description": [
+   {"value": "Lead finding and enrichment (600M+ lead database, email finder and verifier, phone finder); multichannel sequences across email, LinkedIn, calls, WhatsApp, and SMS with a unified inbox; deliverability tools including lemwarm and a Deliverability Hub; AI agents; an MCP server and CLI; and 500+ integrations.", "page_id": 412, "source_url": "https://www.lemlist.com", "confidence": "high"},
+   {"value": "Reach leads via email, LinkedIn, calls, WhatsApp, and SMS, using the 600M+ lemlist database and smart filters to find accounts that match an ICP.", "page_id": 105, "source_url": "https://www.lemlist.com/", "confidence": "high"},
+   {"value": "Personalized sequences with images, custom landing pages, and video prospecting; lemwarm warm-up tool; multichannel sequences covering email, LinkedIn, WhatsApp, and phone; and a lead database with verified contact details.", "page_id": 385, "source_url": "https://www.capterra.co.uk/software/173776/lemlist", "confidence": "medium"}
+  ],
+  "business_model_description": [
+   {"value": "Subscription SaaS with a 14-day free trial and a demo request option; plan prices are not listed on the page. Every seat includes built-in deliverability tools.", "page_id": 412, "source_url": "https://www.lemlist.com", "confidence": "high"},
+   {"value": "SaaS subscriptions priced per seat; one review site lists $59 for email outreach and $99 for sales engagement, with a custom quote for an outbound agency tier.", "page_id": 385, "source_url": "https://www.capterra.co.uk/software/173776/lemlist", "confidence": "medium"}
+  ],
+  "customer_description": [
+   {"value": "Sales reps, sales leaders, RevOps teams, and founders; 'sales and growth teams' including solo founders, agencies, and scaling teams. 20,000+ sales teams run outbound on the platform.", "page_id": 412, "source_url": "https://www.lemlist.com", "confidence": "high"},
+   {"value": "20,000+ sales teams; named customers include ElevenLabs, Pennylane, Spendesk, Mindee, RightMarket, and Devlo.", "page_id": 105, "source_url": "https://www.lemlist.com/", "confidence": "high"},
+   {"value": "Sales teams of all sizes, startups, lead gen agencies, entrepreneurs, sales leaders, and RevOps professionals.", "page_id": 385, "source_url": "https://www.capterra.co.uk/software/173776/lemlist", "confidence": "medium"}
+  ],
+  "revenue": [
+   {"value": "About $53M (2026), up from $36M in 2025 (GetLatka)", "page_id": 401, "source_url": "https://getlatka.com/companies/lemlist", "confidence": "medium"}
+  ],
+  "web_traffic": [
+   {"value": "20.4K estimated monthly organic visits (third-party tool, via Capterra)", "page_id": 385, "source_url": "https://www.capterra.co.uk/software/173776/lemlist", "confidence": "medium"}
+  ],
+  "employees": [
+   {"value": "160 (May 2026, GetLatka)", "page_id": 401, "source_url": "https://getlatka.com/companies/lemlist", "confidence": "medium"},
+   {"value": "151 (Built)", "page_id": 401, "source_url": "https://getlatka.com/companies/lemlist", "confidence": "medium"},
+   {"value": "51-200 (LinkedIn)", "page_id": 401, "source_url": "https://getlatka.com/companies/lemlist", "confidence": "medium"},
+   {"value": "40 (Datanyze)", "page_id": 401, "source_url": "https://getlatka.com/companies/lemlist", "confidence": "medium"}
+  ],
+  "founded_year": [
+   {"value": "2017 (GetLatka, Datanyze)", "page_id": 401, "source_url": "https://getlatka.com/companies/lemlist", "confidence": "medium"},
+   {"value": "2018 (LinkedIn, Built)", "page_id": 401, "source_url": "https://getlatka.com/companies/lemlist", "confidence": "medium"}
+  ],
+  "headquarters": [
+   {"value": "New York, New York (LinkedIn, Built)", "page_id": 401, "source_url": "https://getlatka.com/companies/lemlist", "confidence": "medium"},
+   {"value": "Kansas address (Datanyze)", "page_id": 401, "source_url": "https://getlatka.com/companies/lemlist", "confidence": "medium"},
+   {"value": "Paris, France (operating company Lemlist SAS, per GetLatka)", "page_id": 401, "source_url": "https://getlatka.com/companies/lemlist", "confidence": "medium"}
+  ]
+ },
+ "locations": [
+  {"value": "New York, New York", "is_hq": true, "page_id": 401, "source_url": "https://getlatka.com/companies/lemlist"},
+  {"value": "Paris, France", "is_hq": false, "page_id": 401, "source_url": "https://getlatka.com/companies/lemlist"},
+  {"value": "Kansas", "is_hq": false, "page_id": 401, "source_url": "https://getlatka.com/companies/lemlist"}
+ ]
+}

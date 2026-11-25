@@ -1,0 +1,39 @@
+{"domain": "evenuplaw.com", "name": "EvenUp",
+ "fields": {
+   "description": [
+     {"value": "EvenUp Law sells a proactive AI platform for personal injury (PI) firms, covering the full case lifecycle from pre-litigation through trial.", "page_id": 382, "source_url": "https://www.evenuplaw.com", "confidence": "high"},
+     {"value": "EvenUp was founded in 2019 by Rami Karabibar, Ray Mieszaniec and Saam Mashhad, and is based in San Francisco.", "page_id": 364, "source_url": "https://www.tipranks.com/private-companies/evenup", "confidence": "medium"},
+     {"value": "EvenUp is a San Francisco legal-tech company that sells AI software to personal injury law firms.", "page_id": 346, "source_url": "https://www.cbinsights.com/investor/evenup-law", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "The platform handles intake, treatment tracking, demand drafting, negotiation, discovery and trial prep. Products include PLAAS (Pre-Litigation as a Service), AI Drafts, AI Assistant (Companion), Medical Management, Express and Expert Demands, and Piai, described as the largest PI dataset.", "page_id": 382, "source_url": "https://www.evenuplaw.com", "confidence": "high"},
+     {"value": "Its flagship tool reads case documents, pulls out medical information and bills, and turns them into demand packages, built on the Piai claims intelligence platform. Named modules include Medical Management, Express Demands, AI Drafts and Companion, an AI assistant.", "page_id": 346, "source_url": "https://www.cbinsights.com/investor/evenup-law", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Appears to sell subscriptions to law firms rather than taking a cut of settlements; no source states the pricing model directly.", "page_id": 346, "source_url": "https://www.cbinsights.com/investor/evenup-law", "confidence": "low"}
+   ],
+   "customer_description": [
+     {"value": "2,000+ PI firms use EvenUp, including Lerner & Rowe, Batta Fulkerson Law Group, John K. Zaid and Associates, ELG Injury Lawyers and Omega Law Group.", "page_id": 382, "source_url": "https://www.evenuplaw.com", "confidence": "high"},
+     {"value": "Customers are mainly plaintiff-side personal injury firms.", "page_id": 346, "source_url": "https://www.cbinsights.com/investor/evenup-law", "confidence": "medium"},
+     {"value": "One profile says EvenUp is trusted by over 2,000 firms; these are company-level claims rather than audited figures.", "page_id": 364, "source_url": "https://www.tipranks.com/private-companies/evenup", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "No official figure found. Bitscale lists Revenue 10M; Levels.fyi estimates $10M-$50M (rough third-party estimates).", "page_id": 364, "source_url": "https://www.tipranks.com/private-companies/evenup", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "861 current employees (TipRanks); ~670 employees (another profile); 201-500 employees (Welcome to the Jungle)", "page_id": 364, "source_url": "https://www.tipranks.com/private-companies/evenup", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2019", "page_id": 364, "source_url": "https://www.tipranks.com/private-companies/evenup", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco, CA (548 Market St mailing address)", "page_id": 382, "source_url": "https://www.evenuplaw.com", "confidence": "high"},
+     {"value": "San Francisco, California (353 Sacramento St per TipRanks and Bitscale; 548 Market Street per CB Insights)", "page_id": 364, "source_url": "https://www.tipranks.com/private-companies/evenup", "confidence": "medium"},
+     {"value": "San Francisco", "page_id": 346, "source_url": "https://www.cbinsights.com/investor/evenup-law", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "548 Market St, San Francisco, CA", "is_hq": true, "page_id": 382, "source_url": "https://www.evenuplaw.com"},
+   {"value": "353 Sacramento St, Floor 13, San Francisco, CA 94111", "is_hq": true, "page_id": 364, "source_url": "https://www.tipranks.com/private-companies/evenup"}
+ ]}

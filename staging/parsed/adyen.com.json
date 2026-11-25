@@ -1,0 +1,44 @@
+{"domain": "adyen.com", "name": "Adyen",
+ "fields": {
+   "description": [
+     {"value": "Amsterdam-based payments company founded in 2006 that offers a single platform covering the full payments stack.", "page_id": 224, "source_url": "https://seekingalpha.com/article/4364125-adyen-overview-of-business-model-culture-and-valuation", "confidence": "medium"},
+     {"value": "Adyen is a fintech platform that provides payments, data, and financial products for enterprises.", "page_id": 258, "source_url": "https://www.adyen.com", "confidence": "high"},
+     {"value": "Adyen is a Dutch payment company with the status of an acquiring bank. It is listed on Euronext Amsterdam and is a component of the AEX index.", "page_id": 259, "source_url": "https://en.wikipedia.org/wiki/Adyen", "confidence": "high"}
+   ],
+   "product_description": [
+     {"value": "Payment gateway and payment service provider services for e-commerce, mobile and point-of-sale payments, with risk management, local acquiring, issuing and Unified Commerce. Embedded financial products include Capital, Accounts and Issuing.", "page_id": 259, "source_url": "https://en.wikipedia.org/wiki/Adyen", "confidence": "high"},
+     {"value": "Accepting payments, sending global payouts and in-person (POS) payments, plus embedded finance that lets businesses offer payments, accounts, card issuing and capital under their own brand. Also Adyen for Platforms, risk management, authentication and issuing.", "page_id": 258, "source_url": "https://www.adyen.com", "confidence": "high"},
+     {"value": "Online, in-app and point-of-sale processing, risk management and fraud prevention, card issuing, payouts and split payments for marketplaces, and reporting. Offers over 250 payment methods in more than 150 currencies.", "page_id": 224, "source_url": "https://seekingalpha.com/article/4364125-adyen-overview-of-business-model-culture-and-valuation", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Charges a fixed processing fee plus a percentage-based settlement fee to merchants, and holds acquiring licenses in several regions so it can process payments directly.", "page_id": 224, "source_url": "https://seekingalpha.com/article/4364125-adyen-overview-of-business-model-culture-and-valuation", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Enterprises in retail, travel and hospitality, digital media and content, SaaS platforms and marketplaces, food and beverage, and financial services. Named customers include Adobe, Prada Group, Vagaro, Nord Security, L'Occitane, Meta and Rectangle Health.", "page_id": 258, "source_url": "https://www.adyen.com", "confidence": "high"},
+     {"value": "Named customers include eBay, which moved most of its marketplace customers to Adyen by 2021, DICK'S Sporting Goods, Vietnam Airlines and Temu.", "page_id": 259, "source_url": "https://en.wikipedia.org/wiki/Adyen", "confidence": "high"},
+     {"value": "Historically large global merchants, increasingly mid-market merchants. Named clients include Spotify, Uber, Booking.com and Microsoft.", "page_id": 224, "source_url": "https://seekingalpha.com/article/4364125-adyen-overview-of-business-model-culture-and-valuation", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "€1.996 billion (2024)", "page_id": 237, "source_url": "https://en.wikipedia.org/wiki/Adyen", "confidence": "medium"},
+     {"value": "€1.996 billion (2024)", "page_id": 259, "source_url": "https://en.wikipedia.org/wiki/Adyen", "confidence": "high"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "4,345 (2024)", "page_id": 237, "source_url": "https://en.wikipedia.org/wiki/Adyen", "confidence": "medium"},
+     {"value": "4,345 (2024)", "page_id": 259, "source_url": "https://en.wikipedia.org/wiki/Adyen", "confidence": "high"}
+   ],
+   "founded_year": [
+     {"value": "2006", "page_id": 224, "source_url": "https://seekingalpha.com/article/4364125-adyen-overview-of-business-model-culture-and-valuation", "confidence": "medium"},
+     {"value": "2006", "page_id": 237, "source_url": "https://en.wikipedia.org/wiki/Adyen", "confidence": "medium"},
+     {"value": "2006", "page_id": 259, "source_url": "https://en.wikipedia.org/wiki/Adyen", "confidence": "high"}
+   ],
+   "headquarters": [
+     {"value": "Amsterdam, Netherlands", "page_id": 237, "source_url": "https://en.wikipedia.org/wiki/Adyen", "confidence": "medium"},
+     {"value": "Amsterdam, Netherlands", "page_id": 259, "source_url": "https://en.wikipedia.org/wiki/Adyen", "confidence": "high"},
+     {"value": "Amsterdam", "page_id": 224, "source_url": "https://seekingalpha.com/article/4364125-adyen-overview-of-business-model-culture-and-valuation", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Amsterdam, Netherlands", "is_hq": true, "page_id": 259, "source_url": "https://en.wikipedia.org/wiki/Adyen"}
+ ]
+}

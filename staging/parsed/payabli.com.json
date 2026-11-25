@@ -1,0 +1,45 @@
+{"domain": "payabli.com", "name": "Payabli",
+ "fields": {
+   "description": [
+     {"value": "Payabli is a payments infrastructure company for software companies, founded in 2020 and headquartered in Miami. Its main offering is a single API that lets software platforms accept payments, send payouts, and manage payment operations inside their own products.", "page_id": 76, "source_url": "https://www.payabli.com/?p=412", "confidence": "medium"},
+     {"value": "Payabli is a payments infrastructure company for software platforms.", "page_id": 80, "source_url": "https://payabli.com", "confidence": "high"}
+   ],
+   "product_description": [
+     {"value": "A single API that lets software platforms accept payments, send payouts, and manage payment operations. Developers can also use no-code components such as Payabli Creator.", "page_id": 76, "source_url": "https://www.payabli.com/?p=412", "confidence": "medium"},
+     {"value": "Pay In: accepting payments online and in person, through wallets, bill pay, lockbox and remote deposit capture, invoicing, and payment links. Pay Out: managed payables, on-demand payouts, spend management, and a vendor portal. Pay Ops: merchant boarding, pricing and billing, risk and underwriting, and reporting. Also AI offerings, including agentic commerce built with Visa and the Amigo AI agent suite.", "page_id": 80, "source_url": "https://payabli.com", "confidence": "high"}
+   ],
+   "business_model_description": [
+     {"value": "Revenue-share and flexible pricing and billing tools. Pricing is not published; the company asks prospects to contact it for details.", "page_id": 80, "source_url": "https://payabli.com", "confidence": "high"}
+   ],
+   "customer_description": [
+     {"value": "Target markets are SaaS companies, financial institutions, tech-enabled services, and enterprise merchants. Named customer: Builder Prime.", "page_id": 80, "source_url": "https://payabli.com", "confidence": "high"},
+     {"value": "Worked with 60+ software companies as of June 2024, according to one profile. Other sources say it works with hundreds of partners.", "page_id": 76, "source_url": "https://www.payabli.com/?p=412", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "Estimated $1M-$10M (Levels.fyi)", "page_id": 77, "source_url": "https://www.payabli.com/news/payabli-ranks-no-141-on-the-2025-inc-5000-list-with-5x-year-over-year-revenue-growth/", "confidence": "medium"},
+     {"value": "7 figures in net revenue (2022), per Refresh Miami", "page_id": 77, "source_url": "https://www.payabli.com/news/payabli-ranks-no-141-on-the-2025-inc-5000-list-with-5x-year-over-year-revenue-growth/", "confidence": "medium"},
+     {"value": "over 340% revenue growth in the 12 months before its June 2024 Series A (company claim)", "page_id": 77, "source_url": "https://www.payabli.com/news/payabli-ranks-no-141-on-the-2025-inc-5000-list-with-5x-year-over-year-revenue-growth/", "confidence": "medium"},
+     {"value": "1800% three-year revenue growth (2024 Inc. 5000, ranked No. 223)", "page_id": 77, "source_url": "https://www.payabli.com/news/payabli-ranks-no-141-on-the-2025-inc-5000-list-with-5x-year-over-year-revenue-growth/", "confidence": "medium"},
+     {"value": "greater than 5x year-over-year revenue growth (2025 Inc. 5000, ranked No. 141)", "page_id": 77, "source_url": "https://www.payabli.com/news/payabli-ranks-no-141-on-the-2025-inc-5000-list-with-5x-year-over-year-revenue-growth/", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "11-50 to about 120 (range across sources)", "page_id": 76, "source_url": "https://www.payabli.com/?p=412", "confidence": "medium"},
+     {"value": "100 (Built In)", "page_id": 78, "source_url": "https://www.builtinboston.com/company/payabli", "confidence": "medium"},
+     {"value": "51-100 (Persana)", "page_id": 78, "source_url": "https://www.builtinboston.com/company/payabli", "confidence": "medium"},
+     {"value": "80 (TrueUp)", "page_id": 78, "source_url": "https://www.builtinboston.com/company/payabli", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2020", "page_id": 76, "source_url": "https://www.payabli.com/?p=412", "confidence": "medium"},
+     {"value": "2020", "page_id": 79, "source_url": "https://www.cbinsights.com/company/payabli", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Miami", "page_id": 76, "source_url": "https://www.payabli.com/?p=412", "confidence": "medium"},
+     {"value": "Miami, Florida", "page_id": 78, "source_url": "https://www.builtinboston.com/company/payabli", "confidence": "medium"},
+     {"value": "Miami, Florida", "page_id": 79, "source_url": "https://www.cbinsights.com/company/payabli", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Miami", "is_hq": true, "page_id": 76, "source_url": "https://www.payabli.com/?p=412"},
+   {"value": "25 South East 2nd Avenue, Suite #550 288, Miami, Florida 33131", "is_hq": true, "page_id": 79, "source_url": "https://www.cbinsights.com/company/payabli"}
+ ]}

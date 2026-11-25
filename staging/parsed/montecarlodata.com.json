@@ -1,0 +1,41 @@
+{"domain": "montecarlodata.com", "name": "Monte Carlo",
+ "fields": {
+   "description": [
+     {"value": "Monte Carlo intelligently monitors, troubleshoots, and improves agents and their underlying data.", "page_id": 197, "source_url": "https://montecarlo.ai/", "confidence": "high"}
+   ],
+   "product_description": [
+     {"value": "The world's first autonomous observability platform for data and AI. It monitors, troubleshoots and optimizes agents and their underlying data at scale.", "page_id": 197, "source_url": "https://montecarlo.ai/", "confidence": "high"}
+   ],
+   "business_model_description": [],
+   "customer_description": [
+     {"value": "400+ leading enterprises choose Monte Carlo.", "page_id": 197, "source_url": "https://montecarlo.ai/", "confidence": "high"}
+   ],
+   "revenue": [],
+   "web_traffic": [],
+   "employees": [
+     {"value": "219 total employees (UnifyGTM); directories range from 173 to 221", "page_id": 38, "source_url": "https://www.unifygtm.com/insights-headcount/monte-carlo", "confidence": "medium"},
+     {"value": "548 employees (Neuron)", "page_id": 39, "source_url": "https://neuron.com/companies/9159312684/monte-carlo-2031", "confidence": "medium"},
+     {"value": "200+ employees (Salestools)", "page_id": 40, "source_url": "https://salestools.io/report/monte-carlo-headquarters", "confidence": "medium"},
+     {"value": "About 135 to 221 employees, depending on the listing's date", "page_id": 42, "source_url": "https://builtinboston.com/company/monte-carlo", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2019", "page_id": 40, "source_url": "https://salestools.io/report/monte-carlo-headquarters", "confidence": "medium"},
+     {"value": "2019", "page_id": 41, "source_url": "https://www.builtinla.com/company/monte-carlo/offices", "confidence": "medium"},
+     {"value": "2019", "page_id": 42, "source_url": "https://builtinboston.com/company/monte-carlo", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco, California", "page_id": 40, "source_url": "https://salestools.io/report/monte-carlo-headquarters", "confidence": "medium"},
+     {"value": "2 Embarcadero (headquarters address per Built In)", "page_id": 41, "source_url": "https://www.builtinla.com/company/monte-carlo/offices", "confidence": "medium"},
+     {"value": "San Francisco", "page_id": 42, "source_url": "https://builtinboston.com/company/monte-carlo", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco, California", "is_hq": true, "page_id": 40, "source_url": "https://salestools.io/report/monte-carlo-headquarters"},
+   {"value": "Bellevue, Washington", "is_hq": false, "page_id": 42, "source_url": "https://builtinboston.com/company/monte-carlo"},
+   {"value": "Irvine, California", "is_hq": false, "page_id": 42, "source_url": "https://builtinboston.com/company/monte-carlo"},
+   {"value": "New York", "is_hq": false, "page_id": 42, "source_url": "https://builtinboston.com/company/monte-carlo"},
+   {"value": "Mill Valley, CA", "is_hq": false, "page_id": 42, "source_url": "https://builtinboston.com/company/monte-carlo"},
+   {"value": "London", "is_hq": false, "page_id": 42, "source_url": "https://builtinboston.com/company/monte-carlo"},
+   {"value": "Dublin", "is_hq": false, "page_id": 42, "source_url": "https://builtinboston.com/company/monte-carlo"}
+ ]
+}

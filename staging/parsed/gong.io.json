@@ -1,0 +1,49 @@
+{"domain": "gong.io", "name": "Gong",
+ "fields": {
+   "description": [
+     {"value": "Sells a 'Revenue AI OS' for revenue teams. It captures customer interactions, analyzes what's working, and automates next steps.", "page_id": 215, "source_url": "https://www.gong.io", "confidence": "high"},
+     {"value": "AI revenue intelligence company founded in 2015 by Amit Bendov and Eilon Reshef; originally incorporated in Israel.", "page_id": 144, "source_url": "https://komo.ai/directory/gong-offices", "confidence": "medium"},
+     {"value": "Revenue intelligence platform for B2B sales and revenue operations teams.", "page_id": 141, "source_url": "https://tldv.io/ko/blog/how-does-gong-work/", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Gong Engage (sales engagement), Gong Forecast (revenue forecasting), Gong Enable (revenue enablement), Gong Agents (automates follow-ups, pipeline edits, enablement triggers and forecast corrections), Gong Revenue Graph, and Gong Collective (partner integrations and services).", "page_id": 215, "source_url": "https://www.gong.io", "confidence": "high"}
+   ],
+   "business_model_description": [
+     {"value": "Quote-based with no public list prices. Pricing combines per-user licenses (a Foundation core license plus add-ons such as Engage and Forecast), a platform fee, and a one-time onboarding fee.", "page_id": 145, "source_url": "https://www.spendflo.com/blog/gong-pricing-guide", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Reports 5,000+ customers in technology, financial services, healthcare and manufacturing; buyers are CROs, RevOps, sales, customer success and enablement teams. Named customers include Anthropic, ADP, HubSpot, LinkedIn, Uber for Business, Sprout Social, SurveyMonkey and Frontline Education.", "page_id": 215, "source_url": "https://www.gong.io", "confidence": "high"},
+     {"value": "More than 4,500 companies around the world rely on Gong (AWS Marketplace listing).", "page_id": 142, "source_url": "https://getlatka.com/companies/gong/vs/heresy", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$500M (Latka estimate)", "page_id": 142, "source_url": "https://getlatka.com/companies/gong/vs/heresy", "confidence": "medium"}
+   ],
+   "web_traffic": [
+     {"value": "about 2.1M monthly visits (ToolMage, updated June 2026)", "page_id": 146, "source_url": "https://www.toolmage.com/en/tool/gong/", "confidence": "medium"}
+   ],
+   "employees": [
+     {"value": "1.4K (Latka)", "page_id": 143, "source_url": "https://getlatka.com/companies/gong/team", "confidence": "medium"},
+     {"value": "1500+ (Salestools)", "page_id": 143, "source_url": "https://getlatka.com/companies/gong/team", "confidence": "medium"},
+     {"value": "2,038 (Revelio Labs, Dec 2025)", "page_id": 143, "source_url": "https://getlatka.com/companies/gong/team", "confidence": "medium"},
+     {"value": "about 1,100 to 2,500 (directory sources)", "page_id": 144, "source_url": "https://komo.ai/directory/gong-offices", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2015 (founded by Amit Bendov and Eilon Reshef)", "page_id": 144, "source_url": "https://komo.ai/directory/gong-offices", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco, California (201-201 Spear St)", "page_id": 143, "source_url": "https://getlatka.com/companies/gong/team", "confidence": "medium"},
+     {"value": "San Francisco, California (201 Spear Street, 13th Floor)", "page_id": 144, "source_url": "https://komo.ai/directory/gong-offices", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco, California (201-201 Spear St)", "is_hq": true, "page_id": 143, "source_url": "https://getlatka.com/companies/gong/team"},
+   {"value": "San Francisco, California (201 Spear Street, 13th Floor)", "is_hq": true, "page_id": 144, "source_url": "https://komo.ai/directory/gong-offices"},
+   {"value": "Ramat Gan, Israel", "is_hq": false, "page_id": 144, "source_url": "https://komo.ai/directory/gong-offices"},
+   {"value": "Dublin, Ireland", "is_hq": false, "page_id": 144, "source_url": "https://komo.ai/directory/gong-offices"},
+   {"value": "Chicago, USA", "is_hq": false, "page_id": 144, "source_url": "https://komo.ai/directory/gong-offices"},
+   {"value": "Lehi, Utah, USA", "is_hq": false, "page_id": 144, "source_url": "https://komo.ai/directory/gong-offices"},
+   {"value": "Atlanta, USA", "is_hq": false, "page_id": 144, "source_url": "https://komo.ai/directory/gong-offices"},
+   {"value": "Austin, USA", "is_hq": false, "page_id": 144, "source_url": "https://komo.ai/directory/gong-offices"},
+   {"value": "New York City, USA", "is_hq": false, "page_id": 144, "source_url": "https://komo.ai/directory/gong-offices"},
+   {"value": "Singapore", "is_hq": false, "page_id": 144, "source_url": "https://komo.ai/directory/gong-offices"}
+ ]}

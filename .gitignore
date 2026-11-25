@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+data/*.db-wal
+data/*.db-shm
+staging/tmp/
+staging/judge/
+.claude/settings.local.json
+.DS_Store

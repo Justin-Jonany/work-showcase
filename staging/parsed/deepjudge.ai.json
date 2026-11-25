@@ -1,0 +1,42 @@
+{"domain": "deepjudge.ai", "name": "DeepJudge",
+ "fields": {
+  "description": [
+   {"value": "An AI platform for legal teams that indexes firm knowledge and supports AI applications and agents.", "page_id": 156, "source_url": "https://www.deepjudge.ai", "confidence": "high"},
+   {"value": "A Zurich-based legaltech startup that builds AI-powered knowledge search for law firms and legal departments.", "page_id": 1, "source_url": "https://www.deepjudge.ai/media-kit", "confidence": "medium"}
+  ],
+  "product_description": [
+   {"value": "Knowledge Search, AI Workflows, Negotiation Intelligence, Multi-Document Chat and Matter & Client Overview; search runs across SharePoint, OneDrive, HighQ, DMS, email and intranets.", "page_id": 156, "source_url": "https://www.deepjudge.ai", "confidence": "high"},
+   {"value": "Natural-language search over large document libraries, marketed as surfacing a firm's existing expertise; SuperSearch launched in March 2026 for cross-matter AI insights.", "page_id": 1, "source_url": "https://www.deepjudge.ai/media-kit", "confidence": "medium"}
+  ],
+  "business_model_description": [],
+  "customer_description": [
+   {"value": "Law firms and legal departments; the company site names clients including Greenberg Traurig, Vorys, Holland & Knight, Freshfields and Homburger.", "page_id": 156, "source_url": "https://www.deepjudge.ai", "confidence": "high"},
+   {"value": "Named users include Holland & Knight, Gunderson Dettmer and ArentFox Schiff.", "page_id": 1, "source_url": "https://www.deepjudge.ai/media-kit", "confidence": "medium"}
+  ],
+  "revenue": [
+   {"value": "about $3.7M (2025, Latka estimate)", "page_id": 5, "source_url": "https://getlatka.com/companies/deepjudge.ai", "confidence": "medium"},
+   {"value": "about $13.1M per year (Growjo modeled estimate)", "page_id": 5, "source_url": "https://getlatka.com/companies/deepjudge.ai", "confidence": "medium"},
+   {"value": "more than 500% year-over-year revenue growth (company-reported, per Pulse 2)", "page_id": 5, "source_url": "https://getlatka.com/companies/deepjudge.ai", "confidence": "medium"}
+  ],
+  "web_traffic": [],
+  "employees": [
+   {"value": "94 (Growjo)", "page_id": 5, "source_url": "https://getlatka.com/companies/deepjudge.ai", "confidence": "medium"},
+   {"value": "34 (2025, Latka)", "page_id": 5, "source_url": "https://getlatka.com/companies/deepjudge.ai", "confidence": "medium"},
+   {"value": "91 (as of March 2026, Revelio Labs)", "page_id": 19, "source_url": "https://www.reveliolabs.com/companies/deepjudge/employees", "confidence": "medium"},
+   {"value": "86 (2025, Revelio Labs)", "page_id": 19, "source_url": "https://www.reveliolabs.com/companies/deepjudge/employees", "confidence": "medium"},
+   {"value": "49 (Bounce Watch)", "page_id": 19, "source_url": "https://www.reveliolabs.com/companies/deepjudge/employees", "confidence": "medium"},
+   {"value": "51–100 (Chopping Block)", "page_id": 19, "source_url": "https://www.reveliolabs.com/companies/deepjudge/employees", "confidence": "medium"},
+   {"value": "79 (StartupHub)", "page_id": 19, "source_url": "https://www.reveliolabs.com/companies/deepjudge/employees", "confidence": "medium"}
+  ],
+  "founded_year": [
+   {"value": "2021", "page_id": 1, "source_url": "https://www.deepjudge.ai/media-kit", "confidence": "medium"}
+  ],
+  "headquarters": [
+   {"value": "Zurich, Switzerland", "page_id": 1, "source_url": "https://www.deepjudge.ai/media-kit", "confidence": "medium"},
+   {"value": "Zurich, Switzerland", "page_id": 19, "source_url": "https://www.reveliolabs.com/companies/deepjudge/employees", "confidence": "medium"}
+  ]
+ },
+ "locations": [
+   {"value": "Zurich, Switzerland", "is_hq": true, "page_id": 19, "source_url": "https://www.reveliolabs.com/companies/deepjudge/employees"}
+ ]
+}

@@ -1,0 +1,68 @@
+{"domain": "stripe.com", "name": "Stripe",
+ "fields": {
+   "description": [
+     {"value": "Stripe provides financial infrastructure for online and in-person businesses. Its site describes it as a way to accept payments, offer financial services, and run custom revenue models.", "page_id": 490, "source_url": "https://stripe.com", "confidence": "high"},
+     {"value": "Stripe, Inc. is an Irish-American financial services and software-as-a-service company, dual-headquartered in South San Francisco, California, and Dublin, Ireland. It is primarily known for payment-processing software and APIs for e-commerce sites and mobile apps.", "page_id": 491, "source_url": "https://en.wikipedia.org/wiki/Stripe,_Inc.", "confidence": "high"},
+     {"value": "A payments company that builds software for businesses to take payments online and in person. Its core offering is payment processing infrastructure, and it also offers a range of financial tools.", "page_id": 57, "source_url": "websearch://Stripe company overview what does it do", "confidence": "medium"},
+     {"value": "Stripe is a fintech company whose software and APIs let businesses accept payments and manage revenue online.", "page_id": 488, "source_url": "https://fourweekmba.com/stripe-business-model", "confidence": "medium"},
+     {"value": "Stripe is a payments company.", "page_id": 489, "source_url": "https://getlatka.com/companies/stripe", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Payments and checkout (Payments, Checkout, Elements, Payment Links, Payment methods, Link, and Terminal for in-person sales), billing (Billing, Subscriptions, Invoicing, and usage-based billing), platforms (Connect and Treasury), financial services (Capital, Issuing, Global Payouts, and crypto and stablecoin tools), risk, data and compliance (Radar, Identity, Tax, Revenue Recognition, Sigma, and Data Pipeline), plus Atlas (company incorporation) and Climate.", "page_id": 490, "source_url": "https://stripe.com", "confidence": "high"},
+     {"value": "Payments APIs, Stripe Connect, Radar anti-fraud tools, Billing, Terminal point-of-sale, Stripe Capital loans, Issuing, Atlas, Stripe Tax, Link, Identity, and stablecoin-powered accounts.", "page_id": 491, "source_url": "https://en.wikipedia.org/wiki/Stripe,_Inc.", "confidence": "high"},
+     {"value": "Payment acceptance, fraud prevention through Radar, and no-code tools such as Payment Links and Checkout. Other products include business financial accounts, card issuing, platform payments through Connect, payouts to third parties, and business financing through Capital.", "page_id": 57, "source_url": "websearch://Stripe company overview what does it do", "confidence": "medium"},
+     {"value": "Listed offerings include Atlas, Billing, Capital, Data Pipeline, Financial Connections, Payouts, and Tax, plus Radar for fraud detection, Connect for routing payments to multiple parties, and Terminal for in-person payments.", "page_id": 488, "source_url": "https://fourweekmba.com/stripe-business-model", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Charges per transaction, described as 'integrated per-transaction pricing with no hidden fees'. It also supports usage-based billing, and its enterprise and startup offerings include professional services, certified partners, and support plans.", "page_id": 490, "source_url": "https://stripe.com", "confidence": "high"},
+     {"value": "Transaction-based payment processing and related fees, plus software and financial products such as billing, tax, and lending.", "page_id": 491, "source_url": "https://en.wikipedia.org/wiki/Stripe,_Inc.", "confidence": "high"},
+     {"value": "Revenue is mainly transaction-based. One source says Stripe charges 2.9% per successful card plus 30 cents. Subscription and billing tools add further revenue streams.", "page_id": 488, "source_url": "https://fourweekmba.com/stripe-business-model", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Named customers include Hertz, URBN, Instacart, Le Monde, Amazon, Shopify, Anthropic, Figma, Cursor, Lovable, Supabase, ElevenLabs, Uber, Jobber, and Mindbody. The site says 50% of Fortune 100 companies have used Stripe.", "page_id": 490, "source_url": "https://stripe.com", "confidence": "high"},
+     {"value": "Enterprise clients announced in 2022-2023 include Airbnb, Amazon, Microsoft, Uber, BMW, Maersk, Zara, and Toyota. About 5 million businesses were served in 2025.", "page_id": 491, "source_url": "https://en.wikipedia.org/wiki/Stripe,_Inc.", "confidence": "high"},
+     {"value": "Clients range from individual developers and small businesses to large enterprises, including publicly traded companies and nonprofits.", "page_id": 57, "source_url": "websearch://Stripe company overview what does it do", "confidence": "medium"},
+     {"value": "Serves a wide range of customers, from individual developers and small businesses to large enterprises, including publicly traded companies and nonprofits. Named customers include Amazon, Google, Shopify, Zoom, and Spotify, per one vendor-style page.", "page_id": 488, "source_url": "https://fourweekmba.com/stripe-business-model", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "US$5.1 billion (2024)", "page_id": 491, "source_url": "https://en.wikipedia.org/wiki/Stripe,_Inc.", "confidence": "high"},
+     {"value": "$19.4B (2025), per Latka", "page_id": 489, "source_url": "https://getlatka.com/companies/stripe", "confidence": "medium"},
+     {"value": "$16.0 billion annual revenue (no year stated), per Statvoo", "page_id": 489, "source_url": "https://getlatka.com/companies/stripe", "confidence": "medium"},
+     {"value": "$19.4B gross revenue (2025), per Latka", "page_id": 58, "source_url": "websearch://Stripe revenue", "confidence": "medium"},
+     {"value": "$18B revenue (2024)", "page_id": 58, "source_url": "websearch://Stripe revenue", "confidence": "medium"},
+     {"value": "$5.12B net revenue (2024), per Sacra", "page_id": 58, "source_url": "websearch://Stripe revenue", "confidence": "medium"},
+     {"value": "about $12 billion gross revenue (2021), per Forbes via Axios", "page_id": 58, "source_url": "websearch://Stripe revenue", "confidence": "medium"},
+     {"value": "about $2.5 billion net revenue (2021), per Forbes via Axios", "page_id": 58, "source_url": "websearch://Stripe revenue", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "8,500 employees (2025)", "page_id": 491, "source_url": "https://en.wikipedia.org/wiki/Stripe,_Inc.", "confidence": "high"},
+     {"value": "approximately 10.1K people (as of 2026), per Latka", "page_id": 489, "source_url": "https://getlatka.com/companies/stripe", "confidence": "medium"},
+     {"value": "8,000 employees, per Datanyze (no year stated)", "page_id": 489, "source_url": "https://getlatka.com/companies/stripe", "confidence": "medium"},
+     {"value": "5,000-10,000 employees (directory-style sites, no year stated)", "page_id": 489, "source_url": "https://getlatka.com/companies/stripe", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2009 (Wikipedia infobox)", "page_id": 491, "source_url": "https://en.wikipedia.org/wiki/Stripe,_Inc.", "confidence": "high"},
+     {"value": "2010 (Wikipedia History section)", "page_id": 491, "source_url": "https://en.wikipedia.org/wiki/Stripe,_Inc.", "confidence": "high"},
+     {"value": "2010 (most sources; Wikipedia lists 2009)", "page_id": 489, "source_url": "https://getlatka.com/companies/stripe", "confidence": "medium"},
+     {"value": "2010", "page_id": 57, "source_url": "websearch://Stripe company overview what does it do", "confidence": "medium"},
+     {"value": "2009", "page_id": 57, "source_url": "websearch://Stripe company overview what does it do", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Dual-headquartered in South San Francisco, California, and Dublin, Ireland", "page_id": 491, "source_url": "https://en.wikipedia.org/wiki/Stripe,_Inc.", "confidence": "high"},
+     {"value": "San Francisco", "page_id": 489, "source_url": "https://getlatka.com/companies/stripe", "confidence": "medium"},
+     {"value": "San Francisco", "page_id": 57, "source_url": "websearch://Stripe company overview what does it do", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "South San Francisco, California", "is_hq": true, "page_id": 491, "source_url": "https://en.wikipedia.org/wiki/Stripe,_Inc."},
+   {"value": "Dublin, Ireland", "is_hq": true, "page_id": 491, "source_url": "https://en.wikipedia.org/wiki/Stripe,_Inc."},
+   {"value": "Palo Alto, California", "is_hq": false, "page_id": 491, "source_url": "https://en.wikipedia.org/wiki/Stripe,_Inc."},
+   {"value": "San Francisco", "is_hq": true, "page_id": 489, "source_url": "https://getlatka.com/companies/stripe"},
+   {"value": "Seattle", "is_hq": false, "page_id": 489, "source_url": "https://getlatka.com/companies/stripe"},
+   {"value": "London", "is_hq": false, "page_id": 489, "source_url": "https://getlatka.com/companies/stripe"},
+   {"value": "Dublin", "is_hq": false, "page_id": 489, "source_url": "https://getlatka.com/companies/stripe"},
+   {"value": "Singapore", "is_hq": false, "page_id": 489, "source_url": "https://getlatka.com/companies/stripe"},
+   {"value": "San Francisco", "is_hq": true, "page_id": 57, "source_url": "websearch://Stripe company overview what does it do"},
+   {"value": "Dublin", "is_hq": false, "page_id": 57, "source_url": "websearch://Stripe company overview what does it do"}
+ ]}

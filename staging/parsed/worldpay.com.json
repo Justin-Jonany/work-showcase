@@ -1,0 +1,57 @@
+{"domain": "worldpay.com", "name": "Worldpay",
+ "fields": {
+   "description": [
+     {"value": "An American multinational financial technology and payment processing company that supplies payment and technology services to merchants and financial institutions worldwide.", "page_id": 175, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "high"},
+     {"value": "A U.S.-based financial technology and payment processing company that provides payment and technology services to merchants and financial institutions worldwide.", "page_id": 316, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "high"},
+     {"value": "A payments company that helps businesses of all sizes accept, protect, optimize and move payments, aiming to boost revenue and create payment experiences customers like.", "page_id": 315, "source_url": "https://www.worldpay.com", "confidence": "high"},
+     {"value": "A payment processor for merchants and financial institutions.", "page_id": 279, "source_url": "https://ghost.bitscale.ai/worldpay", "confidence": "medium"},
+     {"value": "A Cincinnati-based payments company.", "page_id": 297, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Payment and technology services for merchants and financial institutions, including payment strategies and technology for financial institutions and a tap-to-pay feature on iPhone (launched May 2024).", "page_id": 175, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "high"},
+     {"value": "Credit card, ATM, debit PIN, merchant, prepaid and gift card services for financial institutions and merchants, plus tap-to-pay on iPhone (2024).", "page_id": 316, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "high"},
+     {"value": "Accept (online, in-store and omnichannel payments, agentic commerce, payment methods); Protect (fraud prevention, authentication, dispute management, vault); Optimize (revenue boost, dynamic routing, credential management, reporting and insights, loyalty and gift cards); Embed (marketplace and software platform payments); Move Money (payouts and currency).", "page_id": 176, "source_url": "https://www.worldpay.com", "confidence": "high"},
+     {"value": "Accept (online, in-store and omnichannel payments, agentic commerce, payment methods); Protect (fraud prevention, authentication, dispute management, payment vault); Optimize (revenue boost, dynamic routing, credential management, reporting and insights, loyalty and gift cards); Embed (marketplaces and software platforms); Move Money (payouts and multicurrency solutions).", "page_id": 315, "source_url": "https://www.worldpay.com", "confidence": "high"},
+     {"value": "Card acceptance (online, in-store and mobile), embedded payments for software platforms and point-of-sale tools; one source also lists card issuer processing, fraud protection, card production and tokenization.", "page_id": 279, "source_url": "https://ghost.bitscale.ai/worldpay", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Revenue comes mainly from processing fees, sold through direct sales forces and referral partners; software companies can also embed payments into their own platforms.", "page_id": 279, "source_url": "https://ghost.bitscale.ai/worldpay", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Financial institutions (payment strategies and technology for more than 1,400 institutions, including over 700 U.S. credit unions) and merchants worldwide.", "page_id": 175, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "high"},
+     {"value": "Merchants and financial institutions, including more than 1,400 institutions and over 700 U.S. credit unions.", "page_id": 316, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "high"},
+     {"value": "Small and medium businesses, enterprises, software platforms and marketplaces across industries such as crypto, digital content, financial services, gaming, public sector, restaurants, retail and travel and airlines; partners include financial institutions and independent sales organizations. Logos shown include Amazon, United Airlines, Experian, Booking.com, Panda Remit and Euronics; customer stories include Experian, Nu Skin and Reynolds and Reynolds.", "page_id": 176, "source_url": "https://www.worldpay.com", "confidence": "high"},
+     {"value": "Small and medium businesses, enterprises, software platforms and marketplaces, plus partners such as financial institutions and independent sales organizations. Logos shown include Amazon, United Airlines, Experian, Booking.com, Panda Remit and Euronics.", "page_id": 315, "source_url": "https://www.worldpay.com", "confidence": "high"},
+     {"value": "Merchants of all sizes, from SMEs to large enterprises, and software platforms; named clients include Airbnb, Amazon, Booking.com, Etsy, Experian, United Airlines and Virgin Atlantic.", "page_id": 279, "source_url": "https://ghost.bitscale.ai/worldpay", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "US$4.9 billion (2023)", "page_id": 175, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "high"},
+     {"value": "US$4.9 billion (2023)", "page_id": 316, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "high"},
+     {"value": "US$4.9 billion (2023, Wikipedia)", "page_id": 297, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "medium"},
+     {"value": "$4.9 billion (2024, Panorays)", "page_id": 297, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "medium"},
+     {"value": "about $4.3B (Bitscale and Prospeo; year not stated)", "page_id": 297, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "8,500 (2024)", "page_id": 175, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "high"},
+     {"value": "About 8,500 (2024)", "page_id": 316, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "high"},
+     {"value": "8,500 (2024, Wikipedia)", "page_id": 297, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "medium"},
+     {"value": "about 4,600 (Bitscale)", "page_id": 297, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "medium"},
+     {"value": "about 9,600 (PitchBook)", "page_id": 297, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "1971 (formerly Midwest Payment Systems, 1971-2003)", "page_id": 175, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "high"},
+     {"value": "1971 (began as Midwest Payment Systems)", "page_id": 316, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "high"},
+     {"value": "1971 (Wikipedia)", "page_id": 297, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "medium"},
+     {"value": "1993 (PitchBook and Panorays profiles)", "page_id": 297, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Cincinnati, Ohio, United States; international headquarters in London", "page_id": 175, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "high"},
+     {"value": "Cincinnati, Ohio, with international headquarters in London and about 40 offices in 25 countries", "page_id": 316, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "high"},
+     {"value": "Cincinnati, with an international headquarters in London", "page_id": 297, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc.", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Cincinnati, Ohio, United States", "is_hq": true, "page_id": 175, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc."},
+   {"value": "London, United Kingdom", "is_hq": false, "page_id": 175, "source_url": "https://en.wikipedia.org/wiki/Worldpay,_Inc."}
+ ]}

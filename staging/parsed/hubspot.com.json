@@ -1,0 +1,59 @@
+{
+  "domain": "hubspot.com",
+  "name": "HubSpot, Inc.",
+  "fields": {
+    "description": [
+      {"value": "An American customer relationship management (CRM) firm headquartered in Cambridge, Massachusetts.", "page_id": 108, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "high"},
+      {"value": "HubSpot, Inc. is an American customer relationship management (CRM) company.", "page_id": 261, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "high"},
+      {"value": "HubSpot sells a customer platform of marketing, sales, service and AI software that brings together teams, tools, AI and customer data.", "page_id": 260, "source_url": "https://www.hubspot.com", "confidence": "high"},
+      {"value": "A Cambridge, Massachusetts software company that sells a CRM platform organized as hubs, such as Marketing Hub, Sales Hub and Service Hub, all tied to a central CRM.", "page_id": 10, "source_url": "https://datanyze.com/companies/hubspot/94209531", "confidence": "medium"},
+      {"value": "A Cambridge, Massachusetts-based software company, founded in 2006 by Brian Halligan and Dharmesh Shah, whose core offering is a cloud-based CRM platform with hubs for marketing, sales, service, content management, operations, commerce and data.", "page_id": 222, "source_url": "https://productmint.com/the-hubspot-business-model-how-does-hubspot-make-money/", "confidence": "medium"}
+    ],
+    "product_description": [
+      {"value": "Marketing Hub, Sales Hub, Service Hub, Content Hub, Data Hub, Revenue Hub, Smart CRM (AI-powered, with a free CRM tier), Agent Hub for building AI agents, a Small Business Bundle of Starter editions, AEO (Beta) for tracking brand visibility in AI results, and a Marketplace of third-party app integrations.", "page_id": 260, "source_url": "https://www.hubspot.com", "confidence": "high"},
+      {"value": "Marketing, sales and service tools, including HubSpot AI, Sales Hub, Service Hub and Marketing Hub.", "page_id": 261, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "high"},
+      {"value": "Hubs on a shared CRM foundation (HubSpot Smart CRM): Marketing, Sales, Service, Content, Operations, Commerce and Data Hub.", "page_id": 222, "source_url": "https://productmint.com/the-hubspot-business-model-how-does-hubspot-make-money/", "confidence": "medium"},
+      {"value": "A CRM platform with hubs such as Marketing Hub, Sales Hub and Service Hub, covering marketing, sales, customer service, content management, operations, commerce and website tools.", "page_id": 10, "source_url": "https://datanyze.com/companies/hubspot/94209531", "confidence": "medium"}
+    ],
+    "business_model_description": [
+      {"value": "Sells software; early growth relied on free online tools for inbound marketing.", "page_id": 261, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "high"},
+      {"value": "Primarily subscription-based, with tiered pricing plans and a freemium approach that lets customers start with free tools and upgrade. Consulting services and hosting events are a smaller revenue stream.", "page_id": 222, "source_url": "https://productmint.com/the-hubspot-business-model-how-does-hubspot-make-money/", "confidence": "medium"}
+    ],
+    "customer_description": [
+      {"value": "More than 306,000 customers worldwide. Named customers include eBay, DoorDash, Reddit, Tripadvisor, Eventbrite, Unipart and Angel City FC.", "page_id": 260, "source_url": "https://www.hubspot.com", "confidence": "high"},
+      {"value": "Started with small companies and moved upmarket to serve larger businesses of up to 1,000 employees, per Forbes.", "page_id": 261, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "high"},
+      {"value": "Mid-market B2B businesses and enterprises, plus smaller companies that use the free CRM tier.", "page_id": 10, "source_url": "https://datanyze.com/companies/hubspot/94209531", "confidence": "medium"},
+      {"value": "Mid-market B2B companies and enterprises.", "page_id": 222, "source_url": "https://productmint.com/the-hubspot-business-model-how-does-hubspot-make-money/", "confidence": "medium"}
+    ],
+    "revenue": [
+      {"value": "US$3.13 billion (2025)", "page_id": 108, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "high"},
+      {"value": "US$3.13 billion (2025)", "page_id": 261, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "high"},
+      {"value": "US$3.13 billion (2025)", "page_id": 242, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "medium"},
+      {"value": "$3.1 B (FY 2025)", "page_id": 222, "source_url": "https://productmint.com/the-hubspot-business-model-how-does-hubspot-make-money/", "confidence": "medium"}
+    ],
+    "web_traffic": [],
+    "employees": [
+      {"value": "8,246 (2024)", "page_id": 108, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "high"},
+      {"value": "8,246 (2024)", "page_id": 261, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "high"},
+      {"value": "8,246 (2024)", "page_id": 242, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "medium"},
+      {"value": "About 7,000 (no year given)", "page_id": 10, "source_url": "https://datanyze.com/companies/hubspot/94209531", "confidence": "medium"}
+    ],
+    "founded_year": [
+      {"value": "June 2006", "page_id": 108, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "high"},
+      {"value": "June 2006", "page_id": 261, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "high"},
+      {"value": "June 2006", "page_id": 242, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "medium"},
+      {"value": "2006", "page_id": 10, "source_url": "https://datanyze.com/companies/hubspot/94209531", "confidence": "medium"},
+      {"value": "2006", "page_id": 222, "source_url": "https://productmint.com/the-hubspot-business-model-how-does-hubspot-make-money/", "confidence": "medium"}
+    ],
+    "headquarters": [
+      {"value": "Cambridge, Massachusetts, U.S.", "page_id": 108, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "high"},
+      {"value": "Cambridge, Massachusetts, U.S.", "page_id": 261, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "high"},
+      {"value": "Cambridge, Massachusetts", "page_id": 242, "source_url": "https://en.wikipedia.org/wiki/HubSpot", "confidence": "medium"},
+      {"value": "Cambridge, Massachusetts", "page_id": 10, "source_url": "https://datanyze.com/companies/hubspot/94209531", "confidence": "medium"},
+      {"value": "Cambridge, Massachusetts", "page_id": 222, "source_url": "https://productmint.com/the-hubspot-business-model-how-does-hubspot-make-money/", "confidence": "medium"}
+    ]
+  },
+  "locations": [
+    {"value": "Cambridge, Massachusetts, U.S.", "is_hq": true, "page_id": 108, "source_url": "https://en.wikipedia.org/wiki/HubSpot"}
+  ]
+}

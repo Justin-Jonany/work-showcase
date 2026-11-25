@@ -1,0 +1,50 @@
+{"domain": "lead.bank", "name": "Lead Bank",
+ "fields": {
+   "description": [
+     {"value": "Member FDIC bank that owns its charter, infrastructure and direct Federal Reserve connection, offering agentic finance, card programs, lending, digital assets and money movement.", "page_id": 173, "source_url": "https://lead.bank", "confidence": "high"},
+     {"value": "Kansas City-based FDIC-insured bank that serves traditional banking customers and fintech companies; its main business is a Banking-as-a-Service platform.", "page_id": 458, "source_url": "https://sacra.com/c/lead-bank/", "confidence": "medium"},
+     {"value": "Provides API-driven banking infrastructure for companies that build financial products. It owns its banking charter, infrastructure and direct Federal Reserve connection, and is a Member FDIC institution.", "page_id": 480, "source_url": "https://lead.bank", "confidence": "high"}
+   ],
+   "product_description": [
+     {"value": "Agent accounts and agent cards; credit, charge, debit and prepaid cards on a dedicated BIN across Visa, Mastercard and American Express; lines of credit and term loans; FX payouts, on/off ramps and stablecoin-backed cards; ACH, checks, instant payments, internal transfers and wires; programmable accounts.", "page_id": 173, "source_url": "https://lead.bank", "confidence": "high"},
+     {"value": "BaaS Partner Platform giving fintechs API access to FDIC-insured deposit accounts, payment rails (ACH, wires, RTP, FedNow), card issuance and lending, plus business checking, savings and loans.", "page_id": 458, "source_url": "https://sacra.com/c/lead-bank/", "confidence": "medium"},
+     {"value": "Agentic finance (scoped account numbers and agent cards), card programs, credit and lending, digital assets (stablecoin on/off ramps, FX payouts, stablecoin-backed cards), money movement and programmable accounts.", "page_id": 480, "source_url": "https://lead.bank", "confidence": "high"}
+   ],
+   "business_model_description": [
+     {"value": "B2B2C model: Lead provides the regulated banking backbone while fintech partners handle customer acquisition and front-end experiences; revenue from payment processing fees, usage-based SaaS and revenue share (Caplight).", "page_id": 458, "source_url": "https://sacra.com/c/lead-bank/", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Companies building complex financial products; target use cases include neobanks and payout platforms. The page does not name specific clients.", "page_id": 480, "source_url": "https://lead.bank", "confidence": "high"},
+     {"value": "Traditional community banking clients in Kansas City, nationwide fintech customers, digital asset firms and consumer companies.", "page_id": 458, "source_url": "https://sacra.com/c/lead-bank/", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$124 million as of December 2025 (Contrary Research)", "page_id": 472, "source_url": "https://research2.contrary.com/company/lead-bank/quick-facts", "confidence": "medium"},
+     {"value": "$179.9 million (ZoomInfo)", "page_id": 472, "source_url": "https://research2.contrary.com/company/lead-bank/quick-facts", "confidence": "medium"},
+     {"value": "$10M-$50M (Levels.fyi)", "page_id": 472, "source_url": "https://research2.contrary.com/company/lead-bank/quick-facts", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "Approximately 504 total employees worldwide as of March 2026 (Revelio Labs)", "page_id": 472, "source_url": "https://research2.contrary.com/company/lead-bank/quick-facts", "confidence": "medium"},
+     {"value": "670 (Contrary Research)", "page_id": 472, "source_url": "https://research2.contrary.com/company/lead-bank/quick-facts", "confidence": "medium"},
+     {"value": "320 (PitchBook)", "page_id": 472, "source_url": "https://research2.contrary.com/company/lead-bank/quick-facts", "confidence": "medium"},
+     {"value": "201-500 (ZoomInfo)", "page_id": 472, "source_url": "https://research2.contrary.com/company/lead-bank/quick-facts", "confidence": "medium"},
+     {"value": "101-500 to about 260 (third-party estimates)", "page_id": 458, "source_url": "https://sacra.com/c/lead-bank/", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "1928 (as Garden City Bank; renamed Lead Bank in 2010)", "page_id": 458, "source_url": "https://sacra.com/c/lead-bank/", "confidence": "medium"},
+     {"value": "1928 (as Garden City Bank)", "page_id": 472, "source_url": "https://research2.contrary.com/company/lead-bank/quick-facts", "confidence": "medium"},
+     {"value": "2010 (re-founded under the Lead Bank name, per Levels.fyi)", "page_id": 472, "source_url": "https://research2.contrary.com/company/lead-bank/quick-facts", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Kansas City, Missouri (1801 Main Street, Kansas City, MO 64108)", "page_id": 472, "source_url": "https://research2.contrary.com/company/lead-bank/quick-facts", "confidence": "medium"},
+     {"value": "Kansas City, Missouri", "page_id": 458, "source_url": "https://sacra.com/c/lead-bank/", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Kansas City, MO (1801 Main Street)", "is_hq": true, "page_id": 472, "source_url": "https://research2.contrary.com/company/lead-bank/quick-facts"},
+   {"value": "Lee's Summit, MO", "is_hq": false, "page_id": 480, "source_url": "https://lead.bank"},
+   {"value": "San Francisco, CA", "is_hq": false, "page_id": 480, "source_url": "https://lead.bank"},
+   {"value": "Sunnyvale, CA", "is_hq": false, "page_id": 480, "source_url": "https://lead.bank"},
+   {"value": "New York, NY", "is_hq": false, "page_id": 480, "source_url": "https://lead.bank"}
+ ]
+}

@@ -1,0 +1,49 @@
+{"domain": "grafana.com", "name": "Grafana Labs",
+ "fields": {
+  "description": [
+   {"value": "Describes itself as an open observability platform that helps teams connect disparate data so they can act faster.", "page_id": 195, "source_url": "https://grafana.com/about/", "confidence": "high"},
+   {"value": "Offers Grafana Cloud, which it describes as an open observability platform for full-stack monitoring, built on open standards such as OpenTelemetry and Prometheus.", "page_id": 415, "source_url": "https://grafana.com", "confidence": "high"},
+   {"value": "A private observability company that builds open-source and cloud-based tools, with Grafana Cloud as its best-known offering.", "page_id": 379, "source_url": "https://sacra.com/c/grafana-labs/", "confidence": "medium"}
+  ],
+  "product_description": [
+   {"value": "Grafana Cloud, a managed observability platform covering logs, metrics, traces and profiles, dashboards, Kubernetes and application monitoring, synthetic monitoring, k6 performance testing and incident response; AI tools include Grafana Assistant, AI Investigations and Agent Observability.", "page_id": 415, "source_url": "https://grafana.com", "confidence": "high"},
+   {"value": "Grafana Cloud, a fully managed observability platform; open-source projects including Loki, Mimir, Tempo, k6, Pyroscope, Faro, Beyla and Alloy; and the Grafana Assistant AI product.", "page_id": 195, "source_url": "https://grafana.com/about/", "confidence": "high"},
+   {"value": "Grafana Cloud, a managed service with hosted Grafana and telemetry services, and Grafana Enterprise, a self-managed offering with features such as LDAP team sync and reporting.", "page_id": 194, "source_url": "https://en.wikipedia.org/wiki/Grafana", "confidence": "high"},
+   {"value": "Grafana Cloud (managed hosted service with telemetry and AI-assisted tools) and Grafana Enterprise (self-managed); related products include the LGTM stack, Alloy, Beyla, Faro and k6.", "page_id": 416, "source_url": "https://en.wikipedia.org/wiki/Grafana", "confidence": "high"},
+   {"value": "Grafana Cloud managed platform for dashboards, Kubernetes and application monitoring, synthetic testing and incident management; open-source projects include Grafana OSS, Loki, Mimir and Tempo.", "page_id": 379, "source_url": "https://sacra.com/c/grafana-labs/", "confidence": "medium"}
+  ],
+  "business_model_description": [
+   {"value": "Grafana is AGPLv3-licensed open source; Grafana Labs provides two commercial offerings, Grafana Cloud (managed) and Grafana Enterprise (self-managed).", "page_id": 194, "source_url": "https://en.wikipedia.org/wiki/Grafana", "confidence": "high"},
+   {"value": "A Free Forever tier, paid Cloud plans with a pricing page, and an open source component.", "page_id": 415, "source_url": "https://grafana.com", "confidence": "high"},
+   {"value": "Freemium, open-source-led model; revenue comes mainly from Grafana Cloud and Grafana Enterprise Stack, with usage-based pricing on active users, metrics volume, and log and trace ingestion.", "page_id": 379, "source_url": "https://sacra.com/c/grafana-labs/", "confidence": "medium"}
+  ],
+  "customer_description": [
+   {"value": "Trusted by over 10,000 customers, from startups to enterprises.", "page_id": 195, "source_url": "https://grafana.com/about/", "confidence": "high"},
+   {"value": "More than 10,000 paying customers as of 2026, including Nvidia, Anthropic and Uber; also used by Wikimedia's infrastructure, NASA and the Tour de France.", "page_id": 194, "source_url": "https://en.wikipedia.org/wiki/Grafana", "confidence": "high"},
+   {"value": "Logos include Microsoft, NVIDIA, Salesforce, BlackRock, Canva, DHL, Anthropic, Bloomberg, Pegasystems, Lovable, LATAM Airlines and Delivery Hero.", "page_id": 415, "source_url": "https://grafana.com", "confidence": "high"},
+   {"value": "More than 10,000 paying customers as of 2026, including Nvidia, Anthropic and Uber.", "page_id": 416, "source_url": "https://en.wikipedia.org/wiki/Grafana", "confidence": "high"},
+   {"value": "Spans startups to large enterprises; main users are DevOps, SRE and platform teams; named customers include Salesforce, Bloomberg and J.P. Morgan Chase.", "page_id": 379, "source_url": "https://sacra.com/c/grafana-labs/", "confidence": "medium"}
+  ],
+  "revenue": [
+   {"value": "$250M for 2024, up from $150M in 2023 (GetLatka); about $400M (BuiltIn-style profiles); $464.5M (StartupHub estimate, range $285.7M to $711.7M)", "page_id": 392, "source_url": "https://getlatka.com/companies/grafana", "confidence": "medium"},
+   {"value": "$425M for 2025 (one Sacra page); about $605M in ARR as of August 2026 (other Sacra page)", "page_id": 379, "source_url": "https://sacra.com/c/grafana-labs/", "confidence": "medium"}
+  ],
+  "web_traffic": [],
+  "employees": [
+   {"value": "1,741 in 2025 (GetLatka); about 1,300 (BuiltIn); estimates range from about 1,200 to 1,844", "page_id": 392, "source_url": "https://getlatka.com/companies/grafana", "confidence": "medium"}
+  ],
+  "founded_year": [
+   {"value": "2014 (founded as Raintank)", "page_id": 416, "source_url": "https://en.wikipedia.org/wiki/Grafana", "confidence": "high"},
+   {"value": "2013 (Grafana open-source tool created by Torkel Ödegaard in December 2013)", "page_id": 195, "source_url": "https://grafana.com/about/", "confidence": "high"},
+   {"value": "2014", "page_id": 379, "source_url": "https://sacra.com/c/grafana-labs/", "confidence": "medium"},
+   {"value": "2014 (founded as Raintank); one source traces origins to a 2013 project by Torkel Ödegaard", "page_id": 392, "source_url": "https://getlatka.com/companies/grafana", "confidence": "medium"}
+  ],
+  "headquarters": [
+   {"value": "New York", "page_id": 379, "source_url": "https://sacra.com/c/grafana-labs/", "confidence": "medium"},
+   {"value": "New York", "page_id": 392, "source_url": "https://getlatka.com/companies/grafana", "confidence": "medium"}
+  ]
+ },
+ "locations": [
+  {"value": "New York, USA", "is_hq": true, "page_id": 379, "source_url": "https://sacra.com/c/grafana-labs/"}
+ ]
+}

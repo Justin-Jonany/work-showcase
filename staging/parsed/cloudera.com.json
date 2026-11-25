@@ -1,0 +1,68 @@
+{"domain": "cloudera.com", "name": "Cloudera",
+ "fields": {
+   "description": [
+     {"value": "Cloudera provides the Cloudera Data Platform, a collection of products related to cloud services and data processing; it is an American data lake software company.", "page_id": 99, "source_url": "https://en.wikipedia.org/wiki/Cloudera", "confidence": "high"},
+     {"value": "Cloudera, Inc. is a U.S. data lake software company that sells cloud data platform software for data analysis and machine learning.", "page_id": 397, "source_url": "https://en.wikipedia.org/wiki/Cloudera", "confidence": "high"},
+     {"value": "Cloudera is the only hybrid data and AI platform company that brings AI to data anywhere.", "page_id": 205, "source_url": "https://www.cloudera.com/", "confidence": "high"},
+     {"value": "Sells a hybrid data and AI platform that brings AI to data 'anywhere', across clouds, data centers and the edge.", "page_id": 396, "source_url": "https://www.cloudera.com", "confidence": "high"},
+     {"value": "Data management and analytics software company founded in 2008.", "page_id": 352, "source_url": "https://discountingcashflows.com/company/CLDR/profile/", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Cloudera Anywhere Cloud is the modular hybrid data and AI platform engineered for the Sovereign AI era.", "page_id": 205, "source_url": "https://www.cloudera.com/", "confidence": "high"},
+     {"value": "Anywhere Cloud (core platform); Enterprise AI (Cloudera AI, AI Inference, AI Studios, AI Assistants, AI Workbench); Data in Motion (Data Flow, Streaming, Edge Management); Open Data Lakehouse (Apache Iceberg based); Unified Data Fabric (governance, catalog, lineage, observability).", "page_id": 396, "source_url": "https://www.cloudera.com", "confidence": "high"},
+     {"value": "Cloudera Data Platform, a set of cloud and data-processing tools marketed as a data lakehouse; supports Apache Iceberg (2022).", "page_id": 397, "source_url": "https://en.wikipedia.org/wiki/Cloudera", "confidence": "high"},
+     {"value": "Cloudera Data Platform, a collection of products related to cloud services and data processing.", "page_id": 99, "source_url": "https://en.wikipedia.org/wiki/Cloudera", "confidence": "high"},
+     {"value": "Hybrid data platform built on Apache Hadoop and other open-source tools, covering data engineering, warehousing, machine learning, analytics, security and governance.", "page_id": 352, "source_url": "https://discountingcashflows.com/company/CLDR/profile/", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Early model earned revenue by selling support and consulting services around a free Hadoop-based product; some services are private cloud subscriptions.", "page_id": 99, "source_url": "https://en.wikipedia.org/wiki/Cloudera", "confidence": "high"},
+     {"value": "Started with a free Hadoop-based product earning revenue from support and consulting, then sold a commercial Hadoop distribution (2009); some services run on Microsoft Azure or AWS and others are private cloud subscriptions.", "page_id": 397, "source_url": "https://en.wikipedia.org/wiki/Cloudera", "confidence": "high"},
+     {"value": "Revenue comes mainly from software subscriptions, with professional services, support and training on top; sells primarily through a direct sales force.", "page_id": 352, "source_url": "https://discountingcashflows.com/company/CLDR/profile/", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Logos shown include IQVIA, the US Centers for Disease Control and Prevention, Regions Bank, Intel, LG U+, Tsingtao, Continental, LY Corp, Dell Technologies, SAIC Volkswagen, GEODIS, PricewaterhouseCoopers, Mastercard and British Telecom; featured case studies include Regions Bank, Vodafone Idea, Telkomsel, Bank of Montreal and Healthesystems.", "page_id": 205, "source_url": "https://www.cloudera.com/", "confidence": "high"},
+     {"value": "Other logos shown include IQVIA, the US CDC, Intel, Dell Technologies, PwC, Mastercard and BT.", "page_id": 396, "source_url": "https://www.cloudera.com", "confidence": "high"},
+     {"value": "Large enterprises and public-sector organizations in finance, healthcare, telecommunications, retail and government; one source puts the customer count at about 1,900.", "page_id": 352, "source_url": "https://discountingcashflows.com/company/CLDR/profile/", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$869.3M (2021, Latka)", "page_id": 373, "source_url": "https://getlatka.com/companies/cloudera-1", "confidence": "medium"},
+     {"value": "About $1.1B (Datanyze and ZoomInfo)", "page_id": 373, "source_url": "https://getlatka.com/companies/cloudera-1", "confidence": "medium"},
+     {"value": "$869.3M (Bitscale, updated October 2025)", "page_id": 373, "source_url": "https://getlatka.com/companies/cloudera-1", "confidence": "medium"},
+     {"value": "Roughly $1.1 billion (one profile)", "page_id": 352, "source_url": "https://discountingcashflows.com/company/CLDR/profile/", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "Varies widely across sources, from about 1,600 to about 3,560 employees", "page_id": 352, "source_url": "https://discountingcashflows.com/company/CLDR/profile/", "confidence": "medium"},
+     {"value": "About 1,600 employees (IoTone)", "page_id": 373, "source_url": "https://getlatka.com/companies/cloudera-1", "confidence": "medium"},
+     {"value": "About 2,500 employees (Bitscale)", "page_id": 373, "source_url": "https://getlatka.com/companies/cloudera-1", "confidence": "medium"},
+     {"value": "2,800 employees (Latka)", "page_id": 373, "source_url": "https://getlatka.com/companies/cloudera-1", "confidence": "medium"},
+     {"value": "3,000 employees (PitchBook)", "page_id": 373, "source_url": "https://getlatka.com/companies/cloudera-1", "confidence": "medium"},
+     {"value": "3,092 employees (Built In)", "page_id": 373, "source_url": "https://getlatka.com/companies/cloudera-1", "confidence": "medium"},
+     {"value": "3,560 employees (Datanyze)", "page_id": 373, "source_url": "https://getlatka.com/companies/cloudera-1", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "Formed June 27, 2008 in Burlingame, California.", "page_id": 99, "source_url": "https://en.wikipedia.org/wiki/Cloudera", "confidence": "high"},
+     {"value": "Founded June 27, 2008.", "page_id": 397, "source_url": "https://en.wikipedia.org/wiki/Cloudera", "confidence": "high"},
+     {"value": "Founded in 2008.", "page_id": 352, "source_url": "https://discountingcashflows.com/company/CLDR/profile/", "confidence": "medium"},
+     {"value": "2008 (most sources)", "page_id": 373, "source_url": "https://getlatka.com/companies/cloudera-1", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Santa Clara, California, U.S. (infobox)", "page_id": 99, "source_url": "https://en.wikipedia.org/wiki/Cloudera", "confidence": "high"},
+     {"value": "Santa Clara, California (infobox)", "page_id": 397, "source_url": "https://en.wikipedia.org/wiki/Cloudera", "confidence": "high"},
+     {"value": "Santa Clara, California (the address in most profiles)", "page_id": 352, "source_url": "https://discountingcashflows.com/company/CLDR/profile/", "confidence": "medium"},
+     {"value": "Palo Alto, California (one source)", "page_id": 352, "source_url": "https://discountingcashflows.com/company/CLDR/profile/", "confidence": "medium"},
+     {"value": "Santa Clara, California (5470 Great America Parkway)", "page_id": 373, "source_url": "https://getlatka.com/companies/cloudera-1", "confidence": "medium"},
+     {"value": "Palo Alto, California (Built In)", "page_id": 373, "source_url": "https://getlatka.com/companies/cloudera-1", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Santa Clara, California", "is_hq": true, "page_id": 99, "source_url": "https://en.wikipedia.org/wiki/Cloudera"},
+   {"value": "Burlingame, California", "is_hq": false, "page_id": 99, "source_url": "https://en.wikipedia.org/wiki/Cloudera"},
+   {"value": "Santa Clara, California", "is_hq": true, "page_id": 397, "source_url": "https://en.wikipedia.org/wiki/Cloudera"},
+   {"value": "Burlingame, California", "is_hq": false, "page_id": 397, "source_url": "https://en.wikipedia.org/wiki/Cloudera"},
+   {"value": "Santa Clara, California", "is_hq": true, "page_id": 352, "source_url": "https://discountingcashflows.com/company/CLDR/profile/"},
+   {"value": "Palo Alto, California", "is_hq": true, "page_id": 352, "source_url": "https://discountingcashflows.com/company/CLDR/profile/"},
+   {"value": "Santa Clara, California", "is_hq": true, "page_id": 373, "source_url": "https://getlatka.com/companies/cloudera-1"},
+   {"value": "Palo Alto, California", "is_hq": true, "page_id": 373, "source_url": "https://getlatka.com/companies/cloudera-1"}
+ ]
+}

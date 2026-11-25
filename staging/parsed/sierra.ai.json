@@ -1,0 +1,52 @@
+{"domain": "sierra.ai", "name": "Sierra",
+ "fields": {
+   "description": [
+     {"value": "Sierra is a conversational AI platform. The page describes it as \"The leading conversational AI platform for businesses.\"", "page_id": 154, "source_url": "https://sierra.ai", "confidence": "high"},
+     {"value": "A conversational AI platform that helps businesses improve customer experiences and drive growth.", "page_id": 267, "source_url": "https://sierra.ai", "confidence": "high"},
+     {"value": "An enterprise AI company that builds customer-service agents, founded in 2023 by Bret Taylor and Clay Bavor.", "page_id": 232, "source_url": "https://sacra.com/c/sierra/", "confidence": "medium"},
+     {"value": "A San Francisco-based conversational AI company.", "page_id": 247, "source_url": "https://getlatka.com/companies/sierra", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Ghostwriter (builds agents from SOPs, transcripts or plain-English goals), Agent Studio (platform for building AI agents), Horizon (long-horizon outcome planning), Insights (conversation analysis, monitors, experiments and observability), and Channels (one agent deployed across chat, SMS, WhatsApp, email, voice and ChatGPT).", "page_id": 154, "source_url": "https://sierra.ai", "confidence": "high"},
+     {"value": "Ghostwriter, Agent Studio, Horizon, Insights (Explorer, Monitors, Experiments, Observability) and Channels for deploying one agent across chat, SMS, WhatsApp, email, voice and ChatGPT.", "page_id": 267, "source_url": "https://sierra.ai", "confidence": "high"},
+     {"value": "Agent OS platform for building and running AI agents across chat, voice, SMS, WhatsApp and email. Agent Studio is a no-code builder for customer-experience teams, and the Agent SDK serves developers.", "page_id": 232, "source_url": "https://sacra.com/c/sierra/", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Outcome-based pricing, so customers pay only for the value it delivers.", "page_id": 154, "source_url": "https://sierra.ai", "confidence": "high"},
+     {"value": "Outcome-based pricing, so customers pay for the value it delivers.", "page_id": 267, "source_url": "https://sierra.ai", "confidence": "high"},
+     {"value": "Outcome-based pricing: customers pay based on results rather than seats or usage alone.", "page_id": 232, "source_url": "https://sacra.com/c/sierra/", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Targets financial services, healthcare, telecommunications, media, travel and hospitality, retail and consumer goods, technology, services and the public sector. Named customers include Rocket Mortgage, Gap Inc., Singtel, SoftBank, SiriusXM, Hyatt, Uber, Vanguard, GoFundMe, Santander, DIRECTV, Wayfair, Sutter Health, Redfin, ADT, Rivian, Fiserv, Fanatics, FINRA, CarMax, CLEAR, Nubank, Philippine Airlines, R1 RCM, Docusign, Ramp, SoFi, Safelite, Discord, Paychex and Minted (testimonial only).", "page_id": 154, "source_url": "https://sierra.ai", "confidence": "high"},
+     {"value": "Targets financial services, healthcare, telecommunications, media, travel and hospitality, retail, technology, services and the public sector. Named customers include Rocket Mortgage, Gap Inc., Uber, Vanguard, ADT, Rivian, Docusign, Ramp, SoFi and Paychex.", "page_id": 267, "source_url": "https://sierra.ai", "confidence": "high"},
+     {"value": "Targets large enterprises; one source reports 40% of Fortune 50 companies are customers. Named customers include SiriusXM, ADT, Rocket Mortgage, Brex, Ramp and Minted.", "page_id": 232, "source_url": "https://sacra.com/c/sierra/", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$150M ARR by February 2026 (Stork)", "page_id": 232, "source_url": "https://sacra.com/c/sierra/", "confidence": "medium"},
+     {"value": "about $200M in 2026, up from $100M in 2025 (Latka, citing a May 2026 CEO interview)", "page_id": 247, "source_url": "https://getlatka.com/companies/sierra", "confidence": "medium"},
+     {"value": "about $254M (estimate modeled from comparable companies, wide range; StartupHub)", "page_id": 247, "source_url": "https://getlatka.com/companies/sierra", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "about 488 employees (PitchBook)", "page_id": 232, "source_url": "https://sacra.com/c/sierra/", "confidence": "medium"},
+     {"value": "165 (Latka, January 2025)", "page_id": 247, "source_url": "https://getlatka.com/companies/sierra", "confidence": "medium"},
+     {"value": "700 (Latka, another page; date not stated)", "page_id": 247, "source_url": "https://getlatka.com/companies/sierra", "confidence": "medium"},
+     {"value": "465 (UnifyGTM)", "page_id": 247, "source_url": "https://getlatka.com/companies/sierra", "confidence": "medium"},
+     {"value": "201-500 (directory listing)", "page_id": 247, "source_url": "https://getlatka.com/companies/sierra", "confidence": "medium"},
+     {"value": "about 490 (directory listing)", "page_id": 247, "source_url": "https://getlatka.com/companies/sierra", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2023 (founded by Bret Taylor and Clay Bavor)", "page_id": 232, "source_url": "https://sacra.com/c/sierra/", "confidence": "medium"},
+     {"value": "2023 (most sources)", "page_id": 247, "source_url": "https://getlatka.com/companies/sierra", "confidence": "medium"},
+     {"value": "2022 (StartupHub)", "page_id": 247, "source_url": "https://getlatka.com/companies/sierra", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco", "page_id": 247, "source_url": "https://getlatka.com/companies/sierra", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco, CA", "is_hq": true, "page_id": 247, "source_url": "https://getlatka.com/companies/sierra"},
+   {"value": "New York", "is_hq": false, "page_id": 247, "source_url": "https://getlatka.com/companies/sierra"},
+   {"value": "London", "is_hq": false, "page_id": 247, "source_url": "https://getlatka.com/companies/sierra"},
+   {"value": "Atlanta", "is_hq": false, "page_id": 247, "source_url": "https://getlatka.com/companies/sierra"}
+ ]}

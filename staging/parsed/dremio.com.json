@@ -1,0 +1,43 @@
+{"domain": "dremio.com", "name": "Dremio",
+ "fields": {
+  "description": [
+   {"value": "Dremio is an open, high-performance data lakehouse platform built to accelerate AI and analytical workloads.", "page_id": 202, "source_url": "https://www.dremio.com", "confidence": "high"},
+   {"value": "Dremio sells an open data lakehouse platform for AI and analytics.", "page_id": 249, "source_url": "https://www.dremio.com", "confidence": "high"},
+   {"value": "Dremio is a data lakehouse company founded in 2015 and based in Santa Clara, California.", "page_id": 218, "source_url": "https://bitscale.ai/directory/dremio", "confidence": "medium"}
+  ],
+  "product_description": [
+   {"value": "Combines an Intelligent Query Engine, AI Semantic Layer, Open Catalog powered by Apache Polaris, and a built-in AI agent.", "page_id": 202, "source_url": "https://www.dremio.com", "confidence": "high"},
+   {"value": "Dremio Cloud (fully managed), Dremio Enterprise (self-managed software) and a free Dremio Community Edition, built on Apache Iceberg, Apache Polaris and Apache Arrow.", "page_id": 249, "source_url": "https://www.dremio.com", "confidence": "high"},
+   {"value": "Core offering is a SQL query engine that runs alongside other processing tools on the same data, adding Git-like version control and governance.", "page_id": 218, "source_url": "https://bitscale.ai/directory/dremio", "confidence": "medium"}
+  ],
+  "business_model_description": [
+   {"value": "Available as a fully managed cloud service or self-managed software, with a free trial of $400 in credits and no credit card required.", "page_id": 202, "source_url": "https://www.dremio.com", "confidence": "high"},
+   {"value": "Business model is a combination of subscription and usage-based pricing; one profile calls it a B2B SaaS company.", "page_id": 218, "source_url": "https://bitscale.ai/directory/dremio", "confidence": "medium"}
+  ],
+  "customer_description": [
+   {"value": "Trusted by thousands of companies across all industries; named case studies include Amazon, Shell, Maersk, E.ON and RWE.", "page_id": 202, "source_url": "https://www.dremio.com", "confidence": "high"},
+   {"value": "Named case studies include Amazon, Shell, Maersk, E.ON and RWE; logos include Garmin, Farmers, Capital Group, Moody's and Enel.", "page_id": 249, "source_url": "https://www.dremio.com", "confidence": "high"},
+   {"value": "Target clients are generally medium to large enterprises; the snippet cites JPMorgan Chase, Microsoft, Regeneron and Allianz Global Investors.", "page_id": 218, "source_url": "https://bitscale.ai/directory/dremio", "confidence": "medium"}
+  ],
+  "revenue": [
+   {"value": "$41.5M in 2025 (Latka); about $30M (Bitscale)", "page_id": 234, "source_url": "https://getlatka.com/companies/dremio.com", "confidence": "medium"}
+  ],
+  "web_traffic": [],
+  "employees": [
+   {"value": "378 (Latka, as of 2026); 369 (PitchBook); 285 (Bitscale); 258 (Built In)", "page_id": 234, "source_url": "https://getlatka.com/companies/dremio.com", "confidence": "medium"}
+  ],
+  "founded_year": [
+   {"value": "2015", "page_id": 218, "source_url": "https://bitscale.ai/directory/dremio", "confidence": "medium"},
+   {"value": "2015 (Built In)", "page_id": 234, "source_url": "https://getlatka.com/companies/dremio.com", "confidence": "medium"}
+  ],
+  "headquarters": [
+   {"value": "Santa Clara, California", "page_id": 218, "source_url": "https://bitscale.ai/directory/dremio", "confidence": "medium"},
+   {"value": "Mountain View, CA (Built In); its location field lists Santa Clara", "page_id": 234, "source_url": "https://getlatka.com/companies/dremio.com", "confidence": "medium"}
+  ]
+ },
+ "locations": [
+  {"value": "Santa Clara, California", "is_hq": true, "page_id": 218, "source_url": "https://bitscale.ai/directory/dremio"},
+  {"value": "Mountain View, CA", "is_hq": true, "page_id": 234, "source_url": "https://getlatka.com/companies/dremio.com"},
+  {"value": "Austin, TX", "is_hq": false, "page_id": 234, "source_url": "https://getlatka.com/companies/dremio.com"}
+ ]
+}

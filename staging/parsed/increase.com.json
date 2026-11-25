@@ -1,0 +1,43 @@
+{"domain": "increase.com", "name": "Increase",
+ "fields": {
+   "description": [
+     {"value": "Bank for technology companies: modern bank infrastructure that lets technology companies programmatically store, move and reconcile money.", "page_id": 112, "source_url": "https://increase.com", "confidence": "high"},
+     {"value": "American financial technology company that provides banking infrastructure for businesses, with APIs that let developers run banking functions.", "page_id": 113, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "high"},
+     {"value": "API-first banking infrastructure company that recently became a bank itself.", "page_id": 409, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "medium"},
+     {"value": "Banking platform for technology companies whose infrastructure lets them programmatically store, move and reconcile money.", "page_id": 441, "source_url": "https://increase.com", "confidence": "high"},
+     {"value": "Private American fintech company that provides banking infrastructure for businesses through a banking-as-a-service API platform.", "page_id": 442, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "high"}
+   ],
+   "product_description": [
+     {"value": "ACH, bank accounts, cards, checks, wires, real-time payments, FedNow and push-to-card.", "page_id": 112, "source_url": "https://increase.com", "confidence": "high"},
+     {"value": "Banking-as-a-service API platform for ACH and wire transfers, real-time payments, check handling and card issuing; connects to FedACH, Fedwire, Check 21, The Clearing House and Visa.", "page_id": 113, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "high"},
+     {"value": "API-first core technology connecting directly to US payment networks (Fedwire, ACH, Check 21, The Clearing House, Visa) for ACH, wires, real-time payments and card issuing.", "page_id": 409, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "medium"},
+     {"value": "ACH, bank accounts, cards, checks, wires, real-time payments, FedNow and push-to-card.", "page_id": 441, "source_url": "https://increase.com", "confidence": "high"},
+     {"value": "Banking-as-a-service API platform for ACH and wire transfers, real-time payments, check handling and card issuing, with machine-readable status updates for exceptions and failures.", "page_id": 442, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "high"}
+   ],
+   "business_model_description": [
+     {"value": "Offers regulated services through partnerships with FDIC-insured banks.", "page_id": 442, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "high"},
+     {"value": "Shifting toward owning a bank: acquired Twin City Bank (Washington) in 2025 and launched Increase Bank (FDIC member), while still working with partner banks.", "page_id": 409, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Banking for ambitious technology companies.", "page_id": 112, "source_url": "https://increase.com", "confidence": "high"},
+     {"value": "Technology companies, especially in fintech; names Gusto, Ramp and Stripe as users of its infrastructure.", "page_id": 409, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "medium"}
+   ],
+   "revenue": [],
+   "web_traffic": [],
+   "employees": [],
+   "founded_year": [
+     {"value": "2020 (founded by Darragh Buckley)", "page_id": 113, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "high"},
+     {"value": "2020", "page_id": 409, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "medium"},
+     {"value": "2018 (Craft.co)", "page_id": 409, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "medium"},
+     {"value": "2020", "page_id": 442, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "high"}
+   ],
+   "headquarters": [
+     {"value": "United States (no city given)", "page_id": 113, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "high"},
+     {"value": "Bend, OR (Craft.co); Wikipedia says United States", "page_id": 409, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "medium"},
+     {"value": "United States (no city given)", "page_id": 442, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)", "confidence": "high"}
+   ]
+ },
+ "locations": [
+   {"value": "Bend, OR", "is_hq": true, "page_id": 409, "source_url": "https://en.wikipedia.org/wiki/Increase_(company)"}
+ ]
+}

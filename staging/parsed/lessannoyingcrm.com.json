@@ -1,0 +1,46 @@
+{"domain": "lessannoyingcrm.com", "name": "Less Annoying CRM",
+ "fields": {
+  "description": [
+   {"value": "A simple contact management tool for small businesses, positioned as 'More than a spreadsheet, less than a CRM.'", "page_id": 311, "source_url": "https://www.lessannoyingcrm.com", "confidence": "high"},
+   {"value": "A simple CRM aimed at small businesses, with contacts, leads, notes, calendar, and to-dos in one web app.", "page_id": 278, "source_url": "https://pitchbook.com/profiles/company/87263-47", "confidence": "medium"}
+  ],
+  "product_description": [
+   {"value": "Contacts with full history, follow-up reminders, a daily email listing what is due, calendar sync with Google and Outlook, email logging, team sharing, and integrations with Zapier, Mailchimp, and a public API.", "page_id": 311, "source_url": "https://www.lessannoyingcrm.com", "confidence": "high"},
+   {"value": "Sends an email every morning with everything due that day; contact tracking, tasks, calendar sync, and email logging.", "page_id": 102, "source_url": "https://www.lessannoyingcrm.com/", "confidence": "high"},
+   {"value": "Contacts, leads, notes, calendar, and to-dos; collaboration on clients, interaction notes, email logging, custom fields and pipelines.", "page_id": 278, "source_url": "https://pitchbook.com/profiles/company/87263-47", "confidence": "medium"}
+  ],
+  "business_model_description": [
+   {"value": "Single tier at $15 per user per month, with no contracts, onboarding fees, or upgrade fees; free trials require no credit card.", "page_id": 311, "source_url": "https://www.lessannoyingcrm.com", "confidence": "high"},
+   {"value": "$15 per user, per month.", "page_id": 102, "source_url": "https://www.lessannoyingcrm.com/", "confidence": "high"},
+   {"value": "Per-seat subscription at $15 per user per month (TrustRadius), with no long-term contracts and a first 30 days free before payment information is requested.", "page_id": 278, "source_url": "https://pitchbook.com/profiles/company/87263-47", "confidence": "medium"}
+  ],
+  "customer_description": [
+   {"value": "Solo users and small businesses; the company says it avoids enterprise-focused features. The page claims more than 10,000 small businesses use the product.", "page_id": 311, "source_url": "https://www.lessannoyingcrm.com", "confidence": "high"},
+   {"value": "Small businesses; the page claims 10,000+ small businesses have chosen the product.", "page_id": 102, "source_url": "https://www.lessannoyingcrm.com/", "confidence": "high"},
+   {"value": "Small businesses that find larger CRMs too complicated.", "page_id": 278, "source_url": "https://pitchbook.com/profiles/company/87263-47", "confidence": "medium"}
+  ],
+  "revenue": [],
+  "web_traffic": [],
+  "employees": [
+   {"value": "about 23 employees (PitchBook)", "page_id": 278, "source_url": "https://pitchbook.com/profiles/company/87263-47", "confidence": "medium"},
+   {"value": "23 employees (2024, PitchBook)", "page_id": 294, "source_url": "https://getlatka.com/companies/less-annoying-crm/contacts", "confidence": "medium"},
+   {"value": "24 employees (2024, GetLatka)", "page_id": 294, "source_url": "https://getlatka.com/companies/less-annoying-crm/contacts", "confidence": "medium"},
+   {"value": "30 employees (2020, GetLatka)", "page_id": 294, "source_url": "https://getlatka.com/companies/less-annoying-crm/contacts", "confidence": "medium"}
+  ],
+  "founded_year": [
+   {"value": "2009", "page_id": 102, "source_url": "https://www.lessannoyingcrm.com/", "confidence": "high"},
+   {"value": "2009", "page_id": 311, "source_url": "https://www.lessannoyingcrm.com", "confidence": "high"},
+   {"value": "2009 (PitchBook)", "page_id": 278, "source_url": "https://pitchbook.com/profiles/company/87263-47", "confidence": "medium"},
+   {"value": "2009 (CB Insights profile)", "page_id": 294, "source_url": "https://getlatka.com/companies/less-annoying-crm/contacts", "confidence": "medium"}
+  ],
+  "headquarters": [
+   {"value": "St. Louis, MO (1017 Olive St. #300, St. Louis, MO 63101)", "page_id": 102, "source_url": "https://www.lessannoyingcrm.com/", "confidence": "high"},
+   {"value": "1017 Olive St., St. Louis, MO", "page_id": 311, "source_url": "https://www.lessannoyingcrm.com", "confidence": "high"},
+   {"value": "Saint Louis, MO (corporate office at 1017 Olive Street, Suite 300)", "page_id": 278, "source_url": "https://pitchbook.com/profiles/company/87263-47", "confidence": "medium"},
+   {"value": "St. Louis, Missouri (1017 Olive Street)", "page_id": 294, "source_url": "https://getlatka.com/companies/less-annoying-crm/contacts", "confidence": "medium"}
+  ]
+ },
+ "locations": [
+  {"value": "St. Louis, MO", "is_hq": true, "page_id": 311, "source_url": "https://www.lessannoyingcrm.com"}
+ ]
+}

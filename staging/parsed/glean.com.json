@@ -1,0 +1,52 @@
+{"domain": "glean.com", "name": "Glean",
+ "fields": {
+  "description": [
+   {"value": "An enterprise AI company that makes AI-powered workplace search and assistant software; its core product is a search and work assistant that connects to a company's internal apps.", "page_id": 69, "source_url": "https://sacra.com/chat/h/8e465776-1383-4786-8616-b9c6bf4c720d/", "confidence": "medium"}
+  ],
+  "product_description": [
+   {"value": "Helps employees find, understand and act on company knowledge across business applications, with enterprise search, an AI assistant and agents. It indexes tools such as Google Workspace, Slack, Jira, Confluence and Salesforce and respects existing user access permissions.", "page_id": 69, "source_url": "https://sacra.com/chat/h/8e465776-1383-4786-8616-b9c6bf4c720d/", "confidence": "medium"}
+  ],
+  "business_model_description": [
+   {"value": "Enterprise software sold on a per-user license with a pooled allowance of pay-per-use credits and overage charges beyond it. The CEO says it also offers a consumption-based option and a hybrid of a fixed monthly fee for active users plus usage fees.", "page_id": 73, "source_url": "https://docs.glean.com/glean-enterprise-flex-pricing", "confidence": "medium"}
+  ],
+  "customer_description": [
+   {"value": "Large enterprises; a Sacra report says the company has moved upmarket to large enterprises.", "page_id": 69, "source_url": "https://sacra.com/chat/h/8e465776-1383-4786-8616-b9c6bf4c720d/", "confidence": "medium"},
+   {"value": "Named clients include Databricks, Reddit, Pinterest and Samsung.", "page_id": 73, "source_url": "https://docs.glean.com/glean-enterprise-flex-pricing", "confidence": "medium"}
+  ],
+  "revenue": [
+   {"value": "$300 million ARR (reported May 2026; run-rate, not audited)", "page_id": 70, "source_url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/", "confidence": "medium"},
+   {"value": "$200 million ARR (December 2025)", "page_id": 70, "source_url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/", "confidence": "medium"},
+   {"value": "$100 million ARR (early 2025)", "page_id": 70, "source_url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/", "confidence": "medium"},
+   {"value": "$39 million annualized revenue (end of January 2024)", "page_id": 70, "source_url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/", "confidence": "medium"}
+  ],
+  "web_traffic": [
+   {"value": "854,62 mil visitas (about 855K) for April 2025, per Semrush", "page_id": 74, "source_url": "https://es.semrush.com/website/glean.com/overview", "confidence": "medium"}
+  ],
+  "employees": [
+   {"value": "about 1,000 (Wikipedia)", "page_id": 71, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies", "confidence": "medium"},
+   {"value": "501–1,000 (ZoomInfo and Simplify)", "page_id": 71, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies", "confidence": "medium"},
+   {"value": "about 1,063 total (UnifyGTM)", "page_id": 71, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies", "confidence": "medium"},
+   {"value": "224 total (BuiltIn; looks outdated or incomplete)", "page_id": 71, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies", "confidence": "medium"},
+   {"value": "300+ (salestools.io)", "page_id": 71, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies", "confidence": "medium"},
+   {"value": "about 180 (Levels.fyi)", "page_id": 72, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies", "confidence": "medium"},
+   {"value": "1,000 (PitchBook)", "page_id": 72, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies", "confidence": "medium"},
+   {"value": "over 1,300 (another profile)", "page_id": 72, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies", "confidence": "medium"}
+  ],
+  "founded_year": [
+   {"value": "2019", "page_id": 69, "source_url": "https://sacra.com/chat/h/8e465776-1383-4786-8616-b9c6bf4c720d/", "confidence": "medium"},
+   {"value": "2019 (Wikipedia and PitchBook)", "page_id": 72, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies", "confidence": "medium"}
+  ],
+  "headquarters": [
+   {"value": "Palo Alto, California", "page_id": 69, "source_url": "https://sacra.com/chat/h/8e465776-1383-4786-8616-b9c6bf4c720d/", "confidence": "medium"},
+   {"value": "Palo Alto, California", "page_id": 71, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies", "confidence": "medium"},
+   {"value": "Palo Alto, California", "page_id": 72, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies", "confidence": "medium"}
+  ]
+ },
+ "locations": [
+   {"value": "Palo Alto, CA", "is_hq": true, "page_id": 72, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies"},
+   {"value": "Nashville, TN (corporate sales office)", "is_hq": false, "page_id": 72, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies"},
+   {"value": "New York", "is_hq": false, "page_id": 72, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies"},
+   {"value": "Bellevue", "is_hq": false, "page_id": 72, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies"},
+   {"value": "Bengaluru, India", "is_hq": false, "page_id": 72, "source_url": "https://en.wikipedia.org/wiki/Glean_Technologies"}
+ ]
+}

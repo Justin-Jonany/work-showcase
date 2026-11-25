@@ -1,0 +1,45 @@
+{"domain": "growthbook.io", "name": "GrowthBook",
+ "fields": {
+   "description": [
+     {"value": "The warehouse-native platform used by modern product teams for experimentation, feature flags, and product analytics.", "page_id": 168, "source_url": "https://www.growthbook.io", "confidence": "high"},
+     {"value": "GrowthBook is a warehouse-native platform for experimentation, feature flags, and product analytics. The site says it is used by 4,000+ companies worldwide.", "page_id": 408, "source_url": "https://www.growthbook.io", "confidence": "high"},
+     {"value": "GrowthBook is an open-source platform for feature flags and A/B testing.", "page_id": 380, "source_url": "https://docs.growthbook.io/overview", "confidence": "medium"},
+     {"value": "The company's product is an open-source platform for feature flags and A/B testing, with a focus on warehouse-native experimentation products.", "page_id": 395, "source_url": "https://www.everydev.ai/developers/growthbook", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Experimentation (A/B tests and analysis at scale), Feature Flags (controlled rollouts with auto-rollbacks and ramp schedules), and Product Analytics (including an AI Data Analyst feature). Offers 24+ SDKs, plus an MCP server and REST API for AI agents.", "page_id": 408, "source_url": "https://www.growthbook.io", "confidence": "high"},
+     {"value": "Modular platform: teams can use it for feature flags, experiment analysis, or both. Flags are published as JSON that SDKs read, and Experiment Analysis queries the data warehouse and runs the results through a stats engine.", "page_id": 380, "source_url": "https://docs.growthbook.io/overview", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Free tier ('Start for Free', no credit card required), with paid plans on a separate pricing page. Offered as GrowthBook Cloud or Self-Hosted, with the same features in both.", "page_id": 408, "source_url": "https://www.growthbook.io", "confidence": "high"},
+     {"value": "The open-source core is the entry point, with a paid listing on AWS Marketplace and a Gartner review page that includes a pricing section.", "page_id": 380, "source_url": "https://docs.growthbook.io/overview", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Trusted by 4,000+ companies worldwide, including Dropbox, which uses GrowthBook to safely drive AI product development.", "page_id": 168, "source_url": "https://www.growthbook.io", "confidence": "high"},
+     {"value": "Used by 4,000+ companies worldwide. Named customers include Dropbox, Wikimedia Foundation, Breeze Airways, The Philadelphia Inquirer, TodayTix, Khan Academy, Fyxer, Quizlet, Sony, Deezer, Mistral AI, Upstart, and Pepsi.", "page_id": 408, "source_url": "https://www.growthbook.io", "confidence": "high"},
+     {"value": "Marketplace listings say it is trusted by thousands of organizations.", "page_id": 380, "source_url": "https://docs.growthbook.io/overview", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$5M est. ARR (2024 report, EverydEv)", "page_id": 395, "source_url": "https://www.everydev.ai/developers/growthbook", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "11-50 employees (Promptloop)", "page_id": 395, "source_url": "https://www.everydev.ai/developers/growthbook", "confidence": "medium"},
+     {"value": "42 employees (EverydEv)", "page_id": 395, "source_url": "https://www.everydev.ai/developers/growthbook", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2020", "page_id": 380, "source_url": "https://docs.growthbook.io/overview", "confidence": "medium"},
+     {"value": "2020", "page_id": 395, "source_url": "https://www.everydev.ai/developers/growthbook", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Palo Alto", "page_id": 380, "source_url": "https://docs.growthbook.io/overview", "confidence": "medium"},
+     {"value": "Palo Alto, California", "page_id": 395, "source_url": "https://www.everydev.ai/developers/growthbook", "confidence": "medium"},
+     {"value": "Anaheim, California (CB Insights)", "page_id": 395, "source_url": "https://www.everydev.ai/developers/growthbook", "confidence": "medium"},
+     {"value": "San Francisco, CA (EverydEv)", "page_id": 395, "source_url": "https://www.everydev.ai/developers/growthbook", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Palo Alto, California", "is_hq": true, "page_id": 395, "source_url": "https://www.everydev.ai/developers/growthbook"},
+   {"value": "Anaheim, California", "is_hq": false, "page_id": 395, "source_url": "https://www.everydev.ai/developers/growthbook"},
+   {"value": "San Francisco, CA", "is_hq": false, "page_id": 395, "source_url": "https://www.everydev.ai/developers/growthbook"}
+ ]}

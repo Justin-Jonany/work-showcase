@@ -1,0 +1,76 @@
+{"domain": "teradata.com", "name": "Teradata",
+ "fields": {
+   "description": [
+     {"value": "Teradata is an enterprise software company that develops and sells database analytics software.", "page_id": 98, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "Teradata Corporation is an American enterprise software company that sells database and analytics software, cloud products, and consulting services.", "page_id": 333, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "Turns enterprise data into decisions that act, with the Teradata Autonomous Knowledge Platform as its core offering for putting AI to work in business.", "page_id": 204, "source_url": "https://www.teradata.com/", "confidence": "high"},
+     {"value": "Teradata sells an AI and data platform, which it calls the Autonomous Knowledge Platform, aimed at turning enterprise data into automated decisions and actions.", "page_id": 332, "source_url": "https://www.teradata.com", "confidence": "high"},
+     {"value": "Enterprise data-platform company known for large-scale analytics and data warehousing; sells software, cloud services, support and consulting.", "page_id": 293, "source_url": "https://umbrex.com/?p=287036", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Teradata Autonomous Knowledge Platform, with components Workspaces, Agents, Agent Execution, Knowledge Context, AI and Foundation; product lines Cloud, Factory, Fabric, AI Studio, Tera and AI Services.", "page_id": 204, "source_url": "https://www.teradata.com/", "confidence": "high"},
+     {"value": "Autonomous Knowledge Platform, including Workspaces, Agents, Agent Execution, Knowledge Context, AI and Foundation; named products Teradata Cloud, Factory (on-premises), Fabric (data access), Tera, AI Studio and AI Services.", "page_id": 332, "source_url": "https://www.teradata.com", "confidence": "high"},
+     {"value": "Vantage cloud analytics software built on a core relational database with analytics engines; also ClearScape Analytics, IntelliFlex, IntelliCloud and Teradata Everywhere.", "page_id": 333, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "Cloud and hardware-based data warehousing, business analytics, and consulting services.", "page_id": 98, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "Flagship Vantage platform (VantageCloud), with IntelliSphere, IntelliBase, ClearScape Analytics and QueryGrid.", "page_id": 293, "source_url": "https://umbrex.com/?p=287036", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Mixes software licenses, cloud and SaaS offerings, hardware sales, and consulting.", "page_id": 333, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "Revenue comes from a mix of software, cloud subscriptions and services; the main shift is converting its on-premises installed base into recurring subscription and cloud relationships through VantageCloud.", "page_id": 293, "source_url": "https://umbrex.com/?p=287036", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Targets regulated industries: 10 of the top 10 banks, 7 of the top 10 airlines, telecom, logistics and healthcare providers, 3 of the top 5 automotive, 5 of the top 15 life sciences and 4 of the top 10 manufacturers. No individual customers are named.", "page_id": 204, "source_url": "https://www.teradata.com/", "confidence": "high"},
+     {"value": "Emphasizes regulated industries, citing shares of top companies: banks 10 of top 10, airlines, telecom, logistics and healthcare providers 7 of top 10, automotive 3 of top 5, life sciences 5 of top 15, manufacturers 4 of top 10.", "page_id": 332, "source_url": "https://www.teradata.com", "confidence": "high"},
+     {"value": "Early customers include Citibank (1984 DBC/1012 database machine) and Wal-Mart (first system over 1 terabyte, 1992).", "page_id": 98, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "Citibank was an early customer and Wal-Mart the first client for a system over 1 terabyte (1992).", "page_id": 333, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "Data-intensive enterprises and government bodies in financial services, communications, government, healthcare, retail, manufacturing and travel/transportation.", "page_id": 293, "source_url": "https://umbrex.com/?p=287036", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "US$1.75 billion (2024)", "page_id": 98, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "$1.836 billion in revenue, net income of $129 million (2020)", "page_id": 98, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "About US$1.75 billion (2024)", "page_id": 333, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "US$1.75 billion (2024), per Wikipedia infobox", "page_id": 308, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "medium"},
+     {"value": "$444M total revenue in Q1 2026 (Komo.ai)", "page_id": 308, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "medium"},
+     {"value": "Roughly $1.7 billion", "page_id": 293, "source_url": "https://umbrex.com/?p=287036", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "c. 5,700 (Dec 2024)", "page_id": 98, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "8,535 employees globally, as of February 9, 2020", "page_id": 98, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "About 5,700 as of December 2024", "page_id": 333, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "c. 5,700 (Dec 2024), per Wikipedia", "page_id": 308, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "medium"},
+     {"value": "Roughly 5,100 (PitchBook, Datanyze)", "page_id": 308, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "medium"},
+     {"value": "About 6,000 (Komo.ai)", "page_id": 308, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "medium"},
+     {"value": "9,882 (StartupHub)", "page_id": 308, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "medium"},
+     {"value": "10.2K as of July 2025 (Latka)", "page_id": 308, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "medium"},
+     {"value": "5,100 employees (one source)", "page_id": 293, "source_url": "https://umbrex.com/?p=287036", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "Formed in 1979 in Brentwood, California.", "page_id": 98, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "Formed in 1979 in Brentwood, California, from research at Caltech and Citibank's advanced technology group.", "page_id": 333, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "Formed in 1979 in Brentwood, California, as a collaboration between researchers at Caltech and Citibank's advanced technology group (one source).", "page_id": 308, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "medium"},
+     {"value": "Founded in 1979.", "page_id": 293, "source_url": "https://umbrex.com/?p=287036", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Diego, California", "page_id": 98, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "San Diego, California, with major U.S. locations in Atlanta and San Francisco", "page_id": 333, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "high"},
+     {"value": "San Diego, California", "page_id": 308, "source_url": "https://en.wikipedia.org/wiki/Teradata", "confidence": "medium"},
+     {"value": "San Diego", "page_id": 293, "source_url": "https://umbrex.com/?p=287036", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Diego, California", "is_hq": true, "page_id": 98, "source_url": "https://en.wikipedia.org/wiki/Teradata"},
+   {"value": "Atlanta, Georgia", "is_hq": false, "page_id": 98, "source_url": "https://en.wikipedia.org/wiki/Teradata"},
+   {"value": "San Francisco, California", "is_hq": false, "page_id": 98, "source_url": "https://en.wikipedia.org/wiki/Teradata"},
+   {"value": "Brentwood, California", "is_hq": false, "page_id": 98, "source_url": "https://en.wikipedia.org/wiki/Teradata"},
+   {"value": "San Diego, California", "is_hq": true, "page_id": 333, "source_url": "https://en.wikipedia.org/wiki/Teradata"},
+   {"value": "Atlanta, Georgia", "is_hq": false, "page_id": 333, "source_url": "https://en.wikipedia.org/wiki/Teradata"},
+   {"value": "San Francisco, California", "is_hq": false, "page_id": 333, "source_url": "https://en.wikipedia.org/wiki/Teradata"},
+   {"value": "Brentwood, California", "is_hq": false, "page_id": 333, "source_url": "https://en.wikipedia.org/wiki/Teradata"},
+   {"value": "San Diego, California", "is_hq": true, "page_id": 308, "source_url": "https://en.wikipedia.org/wiki/Teradata"},
+   {"value": "Atlanta, Georgia", "is_hq": false, "page_id": 308, "source_url": "https://en.wikipedia.org/wiki/Teradata"},
+   {"value": "San Francisco, California", "is_hq": false, "page_id": 308, "source_url": "https://en.wikipedia.org/wiki/Teradata"},
+   {"value": "Brentwood, California", "is_hq": false, "page_id": 308, "source_url": "https://en.wikipedia.org/wiki/Teradata"},
+   {"value": "San Diego, California", "is_hq": true, "page_id": 293, "source_url": "https://umbrex.com/?p=287036"}
+ ]
+}

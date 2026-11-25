@@ -1,0 +1,50 @@
+{"domain": "github.com", "name": "GitHub",
+ "fields": {
+   "description": [
+     {"value": "The complete developer platform to build, scale, and deliver secure software.", "page_id": 189, "source_url": "https://github.com/about", "confidence": "high"},
+     {"value": "A proprietary developer platform for creating, storing, managing and sharing code. It uses Git for distributed version control and adds access control, bug tracking, task management, continuous integration and wikis.", "page_id": 188, "source_url": "https://en.wikipedia.org/wiki/GitHub", "confidence": "high"},
+     {"value": "A cloud platform for hosting and managing software code, built around Git, the distributed version control system.", "page_id": 51, "source_url": "https://blogs.persana.ai/what-is-github-company-overview-details", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Products listed on the site include GitHub Copilot (AI coding), Actions (workflow automation), Codespaces, Issues, Code Review, GitHub Advanced Security and Secret protection.", "page_id": 189, "source_url": "https://github.com/about", "confidence": "high"},
+     {"value": "GitHub Enterprise, a self-managed version of the platform; GitHub Pages hosting; and GitHub Copilot, an AI coding tool.", "page_id": 188, "source_url": "https://en.wikipedia.org/wiki/GitHub", "confidence": "high"},
+     {"value": "Pull requests, issue tracking, GitHub Actions for CI/CD, and GitHub Copilot, an AI pair programmer powered by OpenAI Codex.", "page_id": 51, "source_url": "https://blogs.persana.ai/what-is-github-company-overview-details", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Freemium: public repositories have always been free, and since April 2020 core features, including private repositories with unlimited collaborators, are free for everyone. It also sells subscription-style services such as GitHub Enterprise and GitHub Copilot.", "page_id": 188, "source_url": "https://en.wikipedia.org/wiki/GitHub", "confidence": "high"},
+     {"value": "Paid add-ons named on the company site include Copilot for Business and Premium Support. The page lists no prices.", "page_id": 189, "source_url": "https://github.com/about", "confidence": "high"},
+     {"value": "Primarily a freemium model, with paid plans for private repositories and organizations, plus enterprise agreements and a Marketplace take.", "page_id": 52, "source_url": "https://www.thurrott.com/dev/275215/github-hits-1-billion-in-annual-recurring-revenue", "confidence": "medium"},
+     {"value": "Freemium pricing with paid plans for organizations and per-user tiers. Actions and Packages charge for usage beyond plan allotments.", "page_id": 55, "source_url": "https://www.eesel.ai/blog/github-pricing", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "The company says 90% of the Fortune 100 use GitHub, with 225M+ developers and 4M+ organizations.", "page_id": 189, "source_url": "https://github.com/about", "confidence": "high"},
+     {"value": "Named customer: U.S. Immigration and Customs Enforcement, a $200,000 contract for GitHub Enterprise Server.", "page_id": 188, "source_url": "https://en.wikipedia.org/wiki/GitHub", "confidence": "high"},
+     {"value": "One source reports over 100 million developers and more than 372 million repositories as of January 2023; another gives 180 million developers and 4 million organizations.", "page_id": 51, "source_url": "https://blogs.persana.ai/what-is-github-company-overview-details", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "About $1 billion (2022 estimate)", "page_id": 188, "source_url": "https://en.wikipedia.org/wiki/GitHub", "confidence": "high"},
+     {"value": "$1 billion annual recurring revenue (October 2022, Satya Nadella on an earnings call); about $2 billion run rate (2024, Latka estimate)", "page_id": 52, "source_url": "https://www.thurrott.com/dev/275215/github-hits-1-billion-in-annual-recurring-revenue", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "3,787", "page_id": 188, "source_url": "https://en.wikipedia.org/wiki/GitHub", "confidence": "high"},
+     {"value": "3,787 (Wikipedia infobox); an older snapshot of the same page showed 5,595", "page_id": 53, "source_url": "https://en.wikipedia.org/wiki/GitHub", "confidence": "medium"},
+     {"value": "About 3,232 (Built In); about 5,000 as of 2025 (PitchBook); 3000+ (Salestools)", "page_id": 54, "source_url": "https://www.builtinboston.com/company/github", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "February 8, 2008 (originally as Logical Awesome LLC)", "page_id": 188, "source_url": "https://en.wikipedia.org/wiki/GitHub", "confidence": "high"},
+     {"value": "2008", "page_id": 54, "source_url": "https://www.builtinboston.com/company/github", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco, California, U.S.", "page_id": 188, "source_url": "https://en.wikipedia.org/wiki/GitHub", "confidence": "high"},
+     {"value": "San Francisco, California, U.S.", "page_id": 53, "source_url": "https://en.wikipedia.org/wiki/GitHub", "confidence": "medium"},
+     {"value": "San Francisco, CA (88 Colin P Kelly Jr St, corporate office per PitchBook)", "page_id": 54, "source_url": "https://www.builtinboston.com/company/github", "confidence": "medium"},
+     {"value": "San Francisco", "page_id": 51, "source_url": "https://blogs.persana.ai/what-is-github-company-overview-details", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco, California", "is_hq": true, "page_id": 188, "source_url": "https://en.wikipedia.org/wiki/GitHub"},
+   {"value": "Japan", "is_hq": false, "page_id": 188, "source_url": "https://en.wikipedia.org/wiki/GitHub"},
+   {"value": "India", "is_hq": false, "page_id": 188, "source_url": "https://en.wikipedia.org/wiki/GitHub"}
+ ]
+}

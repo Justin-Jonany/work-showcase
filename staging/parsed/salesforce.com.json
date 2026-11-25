@@ -1,0 +1,37 @@
+{"domain": "salesforce.com", "name": "Salesforce, Inc.",
+ "fields": {
+   "description": [
+     {"value": "American enterprise software company based in San Francisco, California, best known for customer relationship management (CRM) software delivered as a SaaS subscription.", "page_id": 107, "source_url": "https://en.wikipedia.org/wiki/Salesforce", "confidence": "high"},
+     {"value": "Cloud software company best known for CRM; its platform connects customer data across sales, service, marketing, commerce and IT.", "page_id": 11, "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/crm-20260131.htm", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Offerings cover sales, customer service, marketing automation, e-commerce, data analytics, AI and agentic AI, and application development.", "page_id": 107, "source_url": "https://en.wikipedia.org/wiki/Salesforce", "confidence": "high"},
+     {"value": "Platform that connects customer data across sales, service, marketing, commerce and IT; Agentforce, launched in fiscal 2025, is a layer for building AI agents.", "page_id": 11, "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/crm-20260131.htm", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Delivers its CRM software through a software-as-a-service subscription model.", "page_id": 107, "source_url": "https://en.wikipedia.org/wiki/Salesforce", "confidence": "high"},
+     {"value": "Sells mainly on a subscription basis, both directly and through partners; software runs in the cloud.", "page_id": 11, "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/crm-20260131.htm", "confidence": "medium"}
+   ],
+   "customer_description": [],
+   "revenue": [
+     {"value": "US$41.525 billion (2026)", "page_id": 107, "source_url": "https://en.wikipedia.org/wiki/Salesforce", "confidence": "high"},
+     {"value": "about $41.5 billion (fiscal 2026)", "page_id": 25, "source_url": "https://en.wikipedia.org/wiki/Salesforce", "confidence": "medium"},
+     {"value": "$31.3 billion (FY2023, per TechTarget)", "page_id": 11, "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/crm-20260131.htm", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "83,334 employees (2026)", "page_id": 107, "source_url": "https://en.wikipedia.org/wiki/Salesforce", "confidence": "high"}
+   ],
+   "founded_year": [
+     {"value": "1999 (founded March 8, 1999)", "page_id": 107, "source_url": "https://en.wikipedia.org/wiki/Salesforce", "confidence": "high"},
+     {"value": "1999", "page_id": 11, "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/crm-20260131.htm", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Salesforce Tower, San Francisco, California, U.S.", "page_id": 107, "source_url": "https://en.wikipedia.org/wiki/Salesforce", "confidence": "high"},
+     {"value": "San Francisco", "page_id": 11, "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/crm-20260131.htm", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Salesforce Tower, San Francisco, California, U.S.", "is_hq": true, "page_id": 107, "source_url": "https://en.wikipedia.org/wiki/Salesforce"},
+   {"value": "San Francisco, California", "is_hq": true, "page_id": 11, "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/crm-20260131.htm"}
+ ]}

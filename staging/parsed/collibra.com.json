@@ -1,0 +1,50 @@
+{"domain": "collibra.com", "name": "Collibra",
+ "fields": {
+   "description": [
+     {"value": "Describes itself as \"the enterprise AI control plane\" that governs context and control across data sources, models, and AI agents.", "page_id": 312, "source_url": "https://www.collibra.com", "confidence": "high"},
+     {"value": "Brussels-founded data governance and \"data intelligence\" software company, privately held.", "page_id": 282, "source_url": "https://www.commonroom.io/research/collibra/business-model/", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "AI Command Center (end-to-end governance for AI agents, use cases and models); Deasy Labs subsidiary (prepares unstructured data for AI); Context Engineering and Context Governance; Data Governance tools for ownership, trusted data and regulatory compliance.", "page_id": 312, "source_url": "https://www.collibra.com", "confidence": "high"},
+     {"value": "Cloud platform covering data catalog, data governance, lineage, data quality and privacy, with a business glossary, technical data catalog, and business and technical lineage.", "page_id": 282, "source_url": "https://www.commonroom.io/research/collibra/business-model/", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Sells subscription software delivered as SaaS with recurring fees; also earns revenue from implementation, training and support services.", "page_id": 282, "source_url": "https://www.commonroom.io/research/collibra/business-model/", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Lists customers including Adobe, AXA XL, BNY Mellon, McDonald's, HEINEKEN, L'Oréal, Siemens AG, Vodafone, Northern Trust, Freddie Mac, Toyota Motor Europe and SAP; cites 78 Fortune 500 companies as customers.", "page_id": 312, "source_url": "https://www.collibra.com", "confidence": "high"},
+     {"value": "Primarily large enterprises in finance, healthcare, retail and technology; cites over 500 customers from Collibra's 2021-era material and over 700 enterprise customers from Bloor Research.", "page_id": 282, "source_url": "https://www.commonroom.io/research/collibra/business-model/", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$100M-$250M range (one source; year not stated)", "page_id": 282, "source_url": "https://www.commonroom.io/research/collibra/business-model/", "confidence": "medium"},
+     {"value": "$148.6M for FY2024 (craft.co profile)", "page_id": 282, "source_url": "https://www.commonroom.io/research/collibra/business-model/", "confidence": "medium"},
+     {"value": "Roughly US$268 million for 2023", "page_id": 282, "source_url": "https://www.commonroom.io/research/collibra/business-model/", "confidence": "medium"},
+     {"value": "About $285M for 2023 (Latka)", "page_id": 295, "source_url": "https://www.getlatka.com/companies/collibra", "confidence": "medium"},
+     {"value": "Roughly $268M for 2023 (Ajman Chamber profile)", "page_id": 295, "source_url": "https://www.getlatka.com/companies/collibra", "confidence": "medium"},
+     {"value": "$210.1M (ZoomInfo; year not stated)", "page_id": 295, "source_url": "https://www.getlatka.com/companies/collibra", "confidence": "medium"},
+     {"value": "About $172.7M (StartupHub model-based estimate, wide range; year not stated)", "page_id": 295, "source_url": "https://www.getlatka.com/companies/collibra", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "Roughly 1,000 to 1,200 employees as of 2025", "page_id": 282, "source_url": "https://www.commonroom.io/research/collibra/business-model/", "confidence": "medium"},
+     {"value": "1,065 (Latka; year not stated)", "page_id": 295, "source_url": "https://www.getlatka.com/companies/collibra", "confidence": "medium"},
+     {"value": "1,082 (PitchBook; year not stated)", "page_id": 295, "source_url": "https://www.getlatka.com/companies/collibra", "confidence": "medium"},
+     {"value": "501-1,000 (ZoomInfo range)", "page_id": 295, "source_url": "https://www.getlatka.com/companies/collibra", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "2008", "page_id": 282, "source_url": "https://www.commonroom.io/research/collibra/business-model/", "confidence": "medium"},
+     {"value": "2008", "page_id": 295, "source_url": "https://www.getlatka.com/companies/collibra", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "Brussels and New York (dual headquarters)", "page_id": 282, "source_url": "https://www.commonroom.io/research/collibra/business-model/", "confidence": "medium"},
+     {"value": "New York (Latka and Built In list it; sources disagree)", "page_id": 295, "source_url": "https://www.getlatka.com/companies/collibra", "confidence": "medium"},
+     {"value": "Brussels (PitchBook and a femtech database list it; sources disagree)", "page_id": 295, "source_url": "https://www.getlatka.com/companies/collibra", "confidence": "medium"},
+     {"value": "Brussels and New York (dual headquarters, Ajman profile)", "page_id": 295, "source_url": "https://www.getlatka.com/companies/collibra", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "Brussels, Belgium", "is_hq": true, "page_id": 282, "source_url": "https://www.commonroom.io/research/collibra/business-model/"},
+   {"value": "New York", "is_hq": true, "page_id": 282, "source_url": "https://www.commonroom.io/research/collibra/business-model/"},
+   {"value": "New York", "is_hq": true, "page_id": 295, "source_url": "https://www.getlatka.com/companies/collibra"},
+   {"value": "Brussels", "is_hq": true, "page_id": 295, "source_url": "https://www.getlatka.com/companies/collibra"}
+ ]}

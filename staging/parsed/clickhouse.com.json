@@ -1,0 +1,62 @@
+{"domain": "clickhouse.com", "name": "ClickHouse",
+ "fields": {
+   "description": [
+     {"value": "ClickHouse is the fastest and most resource efficient real-time data warehouse and open-source database.", "page_id": 203, "source_url": "https://clickhouse.com/", "confidence": "high"},
+     {"value": "ClickHouse is a company that develops ClickHouse, an open-source, column-oriented database for real-time analytics.", "page_id": 273, "source_url": "https://clickhouse.com", "confidence": "high"},
+     {"value": "ClickHouse, Inc. commercializes ClickHouse, an open-source column-oriented DBMS for online analytical processing (OLAP) that runs SQL queries for real-time reporting.", "page_id": 275, "source_url": "https://en.wikipedia.org/wiki/ClickHouse", "confidence": "high"},
+     {"value": "The company was formed to commercialize ClickHouse, an open-source column-oriented DBMS.", "page_id": 100, "source_url": "https://en.wikipedia.org/wiki/ClickHouse", "confidence": "high"},
+     {"value": "ClickHouse is an open-source analytical database company.", "page_id": 229, "source_url": "https://sacra.com/research/clickhouse", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Open-source ClickHouse database, offered as ClickHouse Cloud (managed) and self-managed, plus ClickHouse Local. Homepage headline: 'The leading database for AI.'", "page_id": 203, "source_url": "https://clickhouse.com/", "confidence": "high"},
+     {"value": "ClickHouse Cloud (managed service on AWS, GCP and Azure); open-source ClickHouse (self-hosted, always free); ClickHouse Local; ClickStack observability stack; ClickHouse Managed Postgres (public beta); Langfuse LLM observability platform.", "page_id": 273, "source_url": "https://clickhouse.com", "confidence": "high"},
+     {"value": "ClickHouse Cloud; ClickPipes managed ingestion; ClickStack observability stack built on HyperDX; chDB embedded engine; Agentic Data Stack including LibreChat and Langfuse.", "page_id": 275, "source_url": "https://en.wikipedia.org/wiki/ClickHouse", "confidence": "high"},
+     {"value": "Open-source ClickHouse column-oriented database, plus ClickPipes, a managed ingestion service for ClickHouse Cloud.", "page_id": 100, "source_url": "https://en.wikipedia.org/wiki/ClickHouse", "confidence": "high"},
+     {"value": "Column-oriented analytics database in ClickHouse Cloud, self-managed and ClickHouse Local forms; also HyperDX, Langfuse, LibreChat, ClickHouse Agents and a managed Postgres service.", "page_id": 229, "source_url": "https://sacra.com/research/clickhouse", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Open-source ClickHouse is always free; ClickHouse Cloud starts at $50/month, with a 30-day trial and $300 in credits. Self-managed cost depends on compute, storage and staffing.", "page_id": 203, "source_url": "https://clickhouse.com/", "confidence": "high"},
+     {"value": "The core database is open source under the Apache 2.0 license. The company monetizes through ClickHouse Cloud, which starts at $50/month, and through enterprise sales.", "page_id": 273, "source_url": "https://clickhouse.com", "confidence": "high"},
+     {"value": "Open-source software under the Apache License 2.0, with commercial hosted services and managed offerings built on top.", "page_id": 275, "source_url": "https://en.wikipedia.org/wiki/ClickHouse", "confidence": "high"},
+     {"value": "Freemium model: the free Apache 2.0 open-source version feeds paid cloud services billed on compute units consumed and storage used, with dedicated clusters and Bring-Your-Own-Cloud options for enterprises.", "page_id": 229, "source_url": "https://sacra.com/research/clickhouse", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Named logos include Meta, eBay, Microsoft, Spotify, Lyft, Cisco, Sony, GitLab, Deutsche Bank and Anthropic, among many others.", "page_id": 203, "source_url": "https://clickhouse.com/", "confidence": "high"},
+     {"value": "Named customers include Anthropic, Tesla, Lyft, Sony, Cisco, GitLab, Microsoft, eBay, Spotify and Cloudflare, among others.", "page_id": 273, "source_url": "https://clickhouse.com", "confidence": "high"},
+     {"value": "Adoption by industry-leading companies like Uber, Comcast, eBay and Cisco.", "page_id": 100, "source_url": "https://en.wikipedia.org/wiki/ClickHouse", "confidence": "high"},
+     {"value": "Customers across AdTech, gaming, observability, machine learning and financial services; notable users include Cloudflare, Uber and eBay.", "page_id": 229, "source_url": "https://sacra.com/research/clickhouse", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "Crossed $250M ARR and 4,000 customers in May 2026 (Komo)", "page_id": 248, "source_url": "https://komo.ai/directory/clickhouse", "confidence": "medium"},
+     {"value": "Estimated annual revenue of $153.2M (StartupHub, a modeled estimate)", "page_id": 248, "source_url": "https://komo.ai/directory/clickhouse", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "501-1,000 employees (ZoomInfo)", "page_id": 248, "source_url": "https://komo.ai/directory/clickhouse", "confidence": "medium"},
+     {"value": "Roughly 579-580 employees (StartupHub and Komo)", "page_id": 248, "source_url": "https://komo.ai/directory/clickhouse", "confidence": "medium"},
+     {"value": "389 employees (UnifyGTM)", "page_id": 248, "source_url": "https://komo.ai/directory/clickhouse", "confidence": "medium"},
+     {"value": "About 185 employees (Employbl)", "page_id": 248, "source_url": "https://komo.ai/directory/clickhouse", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "Incorporated in San Francisco, California, in September 2021.", "page_id": 100, "source_url": "https://en.wikipedia.org/wiki/ClickHouse", "confidence": "high"},
+     {"value": "ClickHouse, Inc. incorporated in San Francisco in September 2021; development at Yandex began around 2009.", "page_id": 275, "source_url": "https://en.wikipedia.org/wiki/ClickHouse", "confidence": "high"},
+     {"value": "Founded 2009 by Alexey Milovidov and team as an internal project at Yandex (one source); others give 2021, the year of incorporation.", "page_id": 229, "source_url": "https://sacra.com/research/clickhouse", "confidence": "medium"},
+     {"value": "ClickHouse, Inc. incorporated in Delaware in 2021; work began in 2009 at Yandex.", "page_id": 248, "source_url": "https://komo.ai/directory/clickhouse", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco Bay Area", "page_id": 100, "source_url": "https://en.wikipedia.org/wiki/ClickHouse", "confidence": "high"},
+     {"value": "San Francisco Bay Area", "page_id": 275, "source_url": "https://en.wikipedia.org/wiki/ClickHouse", "confidence": "high"},
+     {"value": "Mountain View, CA (Komo; ZoomInfo address)", "page_id": 248, "source_url": "https://komo.ai/directory/clickhouse", "confidence": "medium"},
+     {"value": "Palo Alto (Employbl and BuiltIn)", "page_id": 248, "source_url": "https://komo.ai/directory/clickhouse", "confidence": "medium"},
+     {"value": "San Francisco Bay Area (company story page, as quoted in search snippet)", "page_id": 248, "source_url": "https://komo.ai/directory/clickhouse", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Francisco Bay Area", "is_hq": true, "page_id": 100, "source_url": "https://en.wikipedia.org/wiki/ClickHouse"},
+   {"value": "Amsterdam, Netherlands", "is_hq": false, "page_id": 100, "source_url": "https://en.wikipedia.org/wiki/ClickHouse"},
+   {"value": "San Francisco Bay Area", "is_hq": true, "page_id": 275, "source_url": "https://en.wikipedia.org/wiki/ClickHouse"},
+   {"value": "Amsterdam, Netherlands", "is_hq": false, "page_id": 275, "source_url": "https://en.wikipedia.org/wiki/ClickHouse"},
+   {"value": "Mountain View, CA", "is_hq": true, "page_id": 248, "source_url": "https://komo.ai/directory/clickhouse"},
+   {"value": "Palo Alto, CA", "is_hq": true, "page_id": 248, "source_url": "https://komo.ai/directory/clickhouse"}
+ ]
+}

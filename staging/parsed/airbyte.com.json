@@ -1,0 +1,53 @@
+{"domain": "airbyte.com", "name": "Airbyte",
+ "fields": {
+   "description": [
+     {"value": "Airbyte is the open-source data movement platform.", "page_id": 149, "source_url": "https://airbyte.com/", "confidence": "high"},
+     {"value": "An 'open-source data integration platform' that moves and syncs data from multiple sources into destinations such as data warehouses, data lakes, or databases.", "page_id": 150, "source_url": "https://en.wikipedia.org/wiki/Airbyte", "confidence": "high"},
+     {"value": "An open-source data movement platform that runs ELT pipelines across 700+ connectors into warehouses, lakes, vector databases or AI agents.", "page_id": 486, "source_url": "https://airbyte.com", "confidence": "high"},
+     {"value": "An open-source data integration company, founded in 2020, that moves data from applications, APIs and databases into warehouses, lakes and other destinations.", "page_id": 482, "source_url": "https://sacra.com/c/airbyte/", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "ELT pipelines across 700+ connectors to any warehouse, lake, vector database or AI agent, plus a Context Store that connects sources so agents can reason across systems.", "page_id": 149, "source_url": "https://airbyte.com/", "confidence": "high"},
+     {"value": "Platform, MCP Gateway, a connectors catalog, API documentation and Airbyte Cloud; positioned as a context layer for production AI agents.", "page_id": 486, "source_url": "https://airbyte.com", "confidence": "high"},
+     {"value": "Deployment options include cloud, local and hybrid. Airbyte Cloud, a managed version, was announced in 2022. Airbyte 1.0 (September 2024) added generative AI for connector creation, and Version 2.0 (September 2025) introduced Enterprise Flex for hybrid deployments and Data Activation.", "page_id": 487, "source_url": "https://en.wikipedia.org/wiki/Airbyte", "confidence": "high"},
+     {"value": "Airbyte Cloud, a fully managed version, and Enterprise Flex, a hybrid deployment option launched in September 2025.", "page_id": 150, "source_url": "https://en.wikipedia.org/wiki/Airbyte", "confidence": "high"},
+     {"value": "Connector library of over 600 pre-built connectors (one source) or over 300 (a September 2024 source); self-managed, cloud or embedded deployment; Connector Development Kit and API.", "page_id": 482, "source_url": "https://sacra.com/c/airbyte/", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "In February 2026 the company shifted its primary platform to emphasize capacity-based, volume-based pricing for open-source data movement. It also offers Airbyte Cloud (fully managed) and Enterprise Flex (hybrid).", "page_id": 150, "source_url": "https://en.wikipedia.org/wiki/Airbyte", "confidence": "high"},
+     {"value": "Open-source core with paid cloud and enterprise tiers, cloud-hosted and self-hosted subscription models, usage-based pricing and a free version, and a product-led growth motion.", "page_id": 482, "source_url": "https://sacra.com/c/airbyte/", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "About 7,000 enterprise clients and more than 170,000 platform implementations as of September 2024. The open-source community has more than 25,000 members, including more than 7,000 paying members as of 2025.", "page_id": 150, "source_url": "https://en.wikipedia.org/wiki/Airbyte", "confidence": "high"},
+     {"value": "As of September 2024, about 7,000 enterprise clients and more than 170,000 platform implementations.", "page_id": 487, "source_url": "https://en.wikipedia.org/wiki/Airbyte", "confidence": "high"},
+     {"value": "Named customers as of September 2024 include KORTX, Graniterock, Anecdote, Faros, PensionBee, Jeenie and Vive Travel. Over 40,000 organizations reportedly used the service as of November 2023.", "page_id": 482, "source_url": "https://sacra.com/c/airbyte/", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "about $4 million for 2023 (Sacra)", "page_id": 482, "source_url": "https://sacra.com/c/airbyte/", "confidence": "medium"},
+     {"value": "$2.6M (Datanyze)", "page_id": 485, "source_url": "https://www.datanyze.com/companies/airbyte/1311339810", "confidence": "medium"},
+     {"value": "$4.00M for 2023 (Sacra)", "page_id": 485, "source_url": "https://www.datanyze.com/companies/airbyte/1311339810", "confidence": "medium"},
+     {"value": "$27.8M (StartupHub estimate; range $22.9M to $64.8M at 62% confidence)", "page_id": 485, "source_url": "https://www.datanyze.com/companies/airbyte/1311339810", "confidence": "medium"},
+     {"value": "$1M-$10M estimated range (Levels.fyi)", "page_id": 485, "source_url": "https://www.datanyze.com/companies/airbyte/1311339810", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "124 (Datanyze)", "page_id": 485, "source_url": "https://www.datanyze.com/companies/airbyte/1311339810", "confidence": "medium"},
+     {"value": "about 128 (StartupHub)", "page_id": 485, "source_url": "https://www.datanyze.com/companies/airbyte/1311339810", "confidence": "medium"},
+     {"value": "120 total employees (Built In)", "page_id": 485, "source_url": "https://www.datanyze.com/companies/airbyte/1311339810", "confidence": "medium"},
+     {"value": "101-250 (Persana)", "page_id": 485, "source_url": "https://www.datanyze.com/companies/airbyte/1311339810", "confidence": "medium"},
+     {"value": "200+ (Salestools)", "page_id": 485, "source_url": "https://www.datanyze.com/companies/airbyte/1311339810", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "January 2020", "page_id": 150, "source_url": "https://en.wikipedia.org/wiki/Airbyte", "confidence": "high"},
+     {"value": "Founded in January 2020 in San Francisco by Michel Tricot and John Lafleur.", "page_id": 487, "source_url": "https://en.wikipedia.org/wiki/Airbyte", "confidence": "high"},
+     {"value": "2020", "page_id": 482, "source_url": "https://sacra.com/c/airbyte/", "confidence": "medium"},
+     {"value": "2020", "page_id": 485, "source_url": "https://www.datanyze.com/companies/airbyte/1311339810", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Francisco", "page_id": 482, "source_url": "https://sacra.com/c/airbyte/", "confidence": "medium"},
+     {"value": "100 California St, San Francisco", "page_id": 485, "source_url": "https://www.datanyze.com/companies/airbyte/1311339810", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "100 California St, San Francisco", "is_hq": true, "page_id": 485, "source_url": "https://www.datanyze.com/companies/airbyte/1311339810"}
+ ]}

@@ -1,0 +1,55 @@
+{"domain": "couchbase.com", "name": "Couchbase, Inc.",
+ "fields": {
+   "description": [
+     {"value": "American public software company that provides a unified, AI-ready developer data platform for mission-critical applications across cloud, on-premises, mobile and edge environments.", "page_id": 200, "source_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc.", "confidence": "high"},
+     {"value": "Software company whose roots go back to 2009.", "page_id": 417, "source_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc.", "confidence": "high"},
+     {"value": "NoSQL database company whose core products are Couchbase Server, the Capella managed cloud service and Couchbase Lite for mobile and edge devices.", "page_id": 383, "source_url": "https://bitscale.ai/directory/couchbase", "confidence": "medium"}
+   ],
+   "product_description": [
+     {"value": "Develops and supports Couchbase Server and Couchbase Capella, its fully managed database-as-a-service.", "page_id": 200, "source_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc.", "confidence": "high"},
+     {"value": "Couchbase Server, Couchbase Capella (a fully managed database-as-a-service) and Couchbase Mobile & Edge, which includes Couchbase Lite, an embedded database for offline-first apps.", "page_id": 417, "source_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc.", "confidence": "high"},
+     {"value": "Couchbase Server, a JSON document database with SQL querying; Capella, a database-as-a-service that includes Vector Search; Couchbase Lite for mobile and edge use.", "page_id": 383, "source_url": "https://bitscale.ai/directory/couchbase", "confidence": "medium"}
+   ],
+   "business_model_description": [
+     {"value": "Revenue mainly from subscription fees, plus professional services such as consulting and training; sells through a direct sales force and an ecosystem of partners.", "page_id": 383, "source_url": "https://bitscale.ai/directory/couchbase", "confidence": "medium"}
+   ],
+   "customer_description": [
+     {"value": "Named customers include sky, Tesco, Verizon, Walmart, GE, Paypal, PepsiCo and UPS; over 30% of the Fortune 100 were customers and 549 customers across more than 50 countries (IPO-era filing data); a 2022 profile lists 568 customers.", "page_id": 383, "source_url": "https://bitscale.ai/directory/couchbase", "confidence": "medium"}
+   ],
+   "revenue": [
+     {"value": "$214.7M (Bitscale; year not stated)", "page_id": 399, "source_url": "https://datanyze.com/companies/couchbase/345904030", "confidence": "medium"},
+     {"value": "$220.6M (Datanyze; year not stated)", "page_id": 399, "source_url": "https://datanyze.com/companies/couchbase/345904030", "confidence": "medium"},
+     {"value": "About 209.47M USD, trailing (TradingView)", "page_id": 399, "source_url": "https://datanyze.com/companies/couchbase/345904030", "confidence": "medium"},
+     {"value": "$172M (Latka; treated by the page as an outlier)", "page_id": 399, "source_url": "https://datanyze.com/companies/couchbase/345904030", "confidence": "medium"}
+   ],
+   "web_traffic": [],
+   "employees": [
+     {"value": "Approximately 731 total employees as of March 2026 (Revelio Labs)", "page_id": 399, "source_url": "https://datanyze.com/companies/couchbase/345904030", "confidence": "medium"},
+     {"value": "792 (TradingView, Datanyze; year not stated)", "page_id": 399, "source_url": "https://datanyze.com/companies/couchbase/345904030", "confidence": "medium"},
+     {"value": "960 (PitchBook; year not stated)", "page_id": 399, "source_url": "https://datanyze.com/companies/couchbase/345904030", "confidence": "medium"}
+   ],
+   "founded_year": [
+     {"value": "Couchbase, Inc. formed February 2011 through the merger of Membase and CouchOne; predecessor NorthScale founded 2009", "page_id": 200, "source_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc.", "confidence": "high"},
+     {"value": "Couchbase, Inc. formed in February 2011 through a merger; NorthScale founded in 2009", "page_id": 417, "source_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc.", "confidence": "high"},
+     {"value": "Sources conflict: 2008, 2009 and 2011 all appear", "page_id": 383, "source_url": "https://bitscale.ai/directory/couchbase", "confidence": "medium"},
+     {"value": "September 22, 2008 (TradingView); 2008 (PitchBook); 2011 (Datanyze and StartupHub)", "page_id": 399, "source_url": "https://datanyze.com/companies/couchbase/345904030", "confidence": "medium"}
+   ],
+   "headquarters": [
+     {"value": "San Jose, California", "page_id": 200, "source_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc.", "confidence": "high"},
+     {"value": "San Jose, California", "page_id": 417, "source_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc.", "confidence": "high"},
+     {"value": "San Jose, California (Datanyze address 3155 Olsen Dr Ste 150; PitchBook)", "page_id": 399, "source_url": "https://datanyze.com/companies/couchbase/345904030", "confidence": "medium"},
+     {"value": "Santa Clara, California (one listing)", "page_id": 399, "source_url": "https://datanyze.com/companies/couchbase/345904030", "confidence": "medium"},
+     {"value": "Mountain View, California (another listing)", "page_id": 399, "source_url": "https://datanyze.com/companies/couchbase/345904030", "confidence": "medium"}
+   ]
+ },
+ "locations": [
+   {"value": "San Jose, California", "is_hq": true, "page_id": 200, "source_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc."},
+   {"value": "Austin", "is_hq": false, "page_id": 200, "source_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc."},
+   {"value": "Bengaluru", "is_hq": false, "page_id": 200, "source_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc."},
+   {"value": "Tel Aviv", "is_hq": false, "page_id": 200, "source_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc."},
+   {"value": "Singapore", "is_hq": false, "page_id": 200, "source_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc."},
+   {"value": "London", "is_hq": false, "page_id": 200, "source_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc."},
+   {"value": "3155 Olsen Dr Ste 150, San Jose", "is_hq": true, "page_id": 399, "source_url": "https://datanyze.com/companies/couchbase/345904030"},
+   {"value": "Santa Clara", "is_hq": false, "page_id": 399, "source_url": "https://datanyze.com/companies/couchbase/345904030"},
+   {"value": "Mountain View", "is_hq": false, "page_id": 399, "source_url": "https://datanyze.com/companies/couchbase/345904030"}
+ ]}
